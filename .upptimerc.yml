@@ -1,0 +1,67 @@
+# Change these first
+owner: ccris02 # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+
+sites:
+  - name: Kusama.network
+    url: https://kusama.network/
+  - name: Polkadot.network
+    url: https://polkadot.network/
+  - name: Vegas1KV.com
+    url: https://vegas1kv.com
+  - name: PolkaDIR.com
+    url: https://polkadir.com
+  - name: Polkadot.js.org
+    url: https://polkadot.js.org
+  - name: Polkadot Telemetry
+    url: https://telemetry.polkadot.io
+  - name: W3F Telemetry
+    url: https://telemetry.w3f.community
+  - name: doTreasury.com
+    url: https://www.dotreasury.com
+  - name: Polkassembly.io
+    url: https://polkadot.polkassembly.io
+  - name: PolkaProject.com
+    url: https://polkaproject.com
+  - name: DOTspot.io
+    url: https://www.dotspot.io/projects
+  - name: Parastats.io
+    url: https://parastats.io
+  - name: DOTMarketCap.com
+    url: https://dotmarketcap.com
+  - name: Subscan.io
+    url: https://kusama.subscan.io
+  - name: sub.id
+    url: https://sub.id
+  - name: DOTscanner.com
+    url: https://dotscanner.com
+  - name: Polkascan.io
+    url: https://polkascan.io/polkadot
+  - name: Polkaview.network
+    url: https://polkaview.network/dot/staking
+  - name: TurboFlakes.com
+    url: https://turboflakes.com
+  - name: Polkastats.io
+    url: https://polkastats.io/
+  - name: Subsocial.network
+    url: https://subsocial.network/
+
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  # baseUrl: /your-repo-name
+  # themeUrl: https://github.com/ccris02/UpTime/blob/master/assets/my-custom-theme.css
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Polkadot Upptime
+  introTitle: "**Polkadot_Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
