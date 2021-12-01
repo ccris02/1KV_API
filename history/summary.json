@@ -185,18 +185,18 @@
     "icon": "https://favicons.githubusercontent.com/www.dotspot.io",
     "slug": "do-tspot-io",
     "status": "down",
-    "uptime": "3.74%",
-    "uptimeDay": "3.74%",
-    "uptimeWeek": "3.74%",
-    "uptimeMonth": "3.74%",
-    "uptimeYear": "3.74%",
+    "uptime": "3.08%",
+    "uptimeDay": "3.08%",
+    "uptimeWeek": "3.08%",
+    "uptimeMonth": "3.08%",
+    "uptimeYear": "3.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-01": 0
+      "2021-12-01": 1
     }
   },
   {
@@ -205,18 +205,18 @@
     "icon": "https://favicons.githubusercontent.com/parastats.io",
     "slug": "parastats-io",
     "status": "down",
-    "uptime": "7.11%",
-    "uptimeDay": "7.11%",
-    "uptimeWeek": "7.11%",
-    "uptimeMonth": "7.11%",
-    "uptimeYear": "7.11%",
+    "uptime": "4.49%",
+    "uptimeDay": "4.49%",
+    "uptimeWeek": "4.49%",
+    "uptimeMonth": "4.49%",
+    "uptimeYear": "4.49%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-01": 0
+      "2021-12-01": 1
     }
   },
   {
@@ -315,11 +315,11 @@
     "icon": "https://favicons.githubusercontent.com/polkaview.network",
     "slug": "polkaview-network",
     "status": "down",
-    "uptime": "5.29%",
-    "uptimeDay": "5.29%",
-    "uptimeWeek": "5.29%",
-    "uptimeMonth": "5.29%",
-    "uptimeYear": "5.29%",
+    "uptime": "3.02%",
+    "uptimeDay": "3.02%",
+    "uptimeWeek": "3.02%",
+    "uptimeMonth": "3.02%",
+    "uptimeYear": "3.02%",
     "time": 218,
     "timeDay": 218,
     "timeWeek": 218,
