@@ -1,6 +1,6 @@
 # Change these first
 owner: ccris02 # Your GitHub organization or username, where this repository lives
-repo: uptimUpTime-test  # The name of this repository
+repo: UpTime-test  # The name of this repository
 
 sites:
   - name: Kusama.network
