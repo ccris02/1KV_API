@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-02": 559,
+      "2021-12-02": 574,
       "2021-12-01": 46
     }
   },
@@ -206,18 +206,18 @@
     "icon": "https://favicons.githubusercontent.com/parastats.io",
     "slug": "parastats-io",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-02": 559,
+      "2021-12-02": 574,
       "2021-12-01": 46
     }
   },
@@ -328,7 +328,7 @@
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2021-12-02": 559,
+      "2021-12-02": 574,
       "2021-12-01": 46
     }
   },
@@ -373,19 +373,19 @@
     "url": "https://subsocial.network/",
     "icon": "https://favicons.githubusercontent.com/subsocial.network",
     "slug": "subsocial-network",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 957,
-    "timeDay": 957,
-    "timeWeek": 957,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "status": "up",
+    "uptime": "97.57%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "97.57%",
+    "uptimeYear": "97.57%",
+    "time": 907,
+    "timeDay": 907,
+    "timeWeek": 907,
+    "timeMonth": 907,
+    "timeYear": 907,
     "dailyMinutesDown": {
-      "2021-12-02": 0
+      "2021-12-02": 15
     }
   }
 ]
