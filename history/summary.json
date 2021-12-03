@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-03": 871,
+      "2021-12-03": 881,
       "2021-12-02": 1440,
       "2021-12-01": 46
     }
@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-03": 871,
+      "2021-12-03": 881,
       "2021-12-02": 1440,
       "2021-12-01": 46
     }
@@ -228,19 +228,19 @@
     "url": "https://dotmarketcap.com",
     "icon": "https://favicons.githubusercontent.com/dotmarketcap.com",
     "slug": "dot-market-cap-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2803,
-    "timeDay": 3281,
-    "timeWeek": 2803,
-    "timeMonth": 2803,
-    "timeYear": 2803,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 2717,
+    "timeDay": 3032,
+    "timeWeek": 2717,
+    "timeMonth": 2717,
+    "timeYear": 2717,
     "dailyMinutesDown": {
-      "2021-12-03": 0
+      "2021-12-03": 10
     }
   },
   {
@@ -332,7 +332,7 @@
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2021-12-03": 871,
+      "2021-12-03": 881,
       "2021-12-02": 1440,
       "2021-12-01": 46
     }
@@ -379,11 +379,11 @@
     "icon": "https://favicons.githubusercontent.com/subsocial.network",
     "slug": "subsocial-network",
     "status": "up",
-    "uptime": "96.85%",
+    "uptime": "96.87%",
     "uptimeDay": "95.89%",
-    "uptimeWeek": "96.85%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "96.85%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "96.87%",
     "time": 914,
     "timeDay": 923,
     "timeWeek": 914,
