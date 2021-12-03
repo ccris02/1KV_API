@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-03": 105,
+      "2021-12-03": 871,
       "2021-12-02": 1440,
       "2021-12-01": 46
     }
@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-03": 105,
+      "2021-12-03": 871,
       "2021-12-02": 1440,
       "2021-12-01": 46
     }
@@ -228,18 +228,20 @@
     "url": "https://dotmarketcap.com",
     "icon": "https://favicons.githubusercontent.com/dotmarketcap.com",
     "slug": "dot-market-cap-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2912,
-    "timeDay": 3696,
-    "timeWeek": 2912,
-    "timeMonth": 2912,
-    "timeYear": 2912,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2803,
+    "timeDay": 3281,
+    "timeWeek": 2803,
+    "timeMonth": 2803,
+    "timeYear": 2803,
+    "dailyMinutesDown": {
+      "2021-12-03": 0
+    }
   },
   {
     "name": "Subscan.io",
@@ -330,7 +332,7 @@
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2021-12-03": 105,
+      "2021-12-03": 871,
       "2021-12-02": 1440,
       "2021-12-01": 46
     }
@@ -377,13 +379,13 @@
     "icon": "https://favicons.githubusercontent.com/subsocial.network",
     "slug": "subsocial-network",
     "status": "up",
-    "uptime": "95.34%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "95.34%",
-    "uptimeYear": "95.34%",
+    "uptime": "96.85%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.85%",
     "time": 914,
-    "timeDay": 879,
+    "timeDay": 923,
     "timeWeek": 914,
     "timeMonth": 914,
     "timeYear": 914,
