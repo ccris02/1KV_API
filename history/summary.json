@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-04": 1264,
+      "2021-12-04": 1282,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 46
@@ -219,7 +219,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-04": 1264,
+      "2021-12-04": 1282,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 46
@@ -332,7 +332,7 @@
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2021-12-04": 1264,
+      "2021-12-04": 1282,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 46
@@ -379,19 +379,19 @@
     "url": "https://subsocial.network/",
     "icon": "https://favicons.githubusercontent.com/subsocial.network",
     "slug": "subsocial-network",
-    "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.22%",
-    "time": 876,
-    "timeDay": 791,
-    "timeWeek": 876,
-    "timeMonth": 876,
-    "timeYear": 876,
+    "status": "up",
+    "uptime": "97.80%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "97.80%",
+    "time": 878,
+    "timeDay": 814,
+    "timeWeek": 878,
+    "timeMonth": 878,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2021-12-04": 0,
+      "2021-12-04": 18,
       "2021-12-03": 59,
       "2021-12-02": 15
     }
