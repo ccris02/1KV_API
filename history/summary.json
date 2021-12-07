@@ -166,9 +166,9 @@
     "url": "https://polkaproject.com",
     "icon": "https://favicons.githubusercontent.com/polkaproject.com",
     "slug": "polka-project-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +177,9 @@
     "timeWeek": 916,
     "timeMonth": 916,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-07": 0
+    }
   },
   {
     "name": "DOTspot.io",
@@ -196,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-07": 25,
+      "2021-12-07": 53,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
@@ -222,7 +224,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-07": 25,
+      "2021-12-07": 53,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
@@ -338,7 +340,7 @@
     "timeMonth": 321,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2021-12-07": 25,
+      "2021-12-07": 53,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
       "2021-12-04": 1440,
@@ -389,11 +391,11 @@
     "icon": "https://favicons.githubusercontent.com/subsocial.network",
     "slug": "subsocial-network",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "98.87%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
     "time": 874,
     "timeDay": 824,
     "timeWeek": 874,
