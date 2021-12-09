@@ -22,19 +22,19 @@
     "url": "https://polkadot.network/",
     "icon": "https://favicons.githubusercontent.com/polkadot.network",
     "slug": "polkadot-network",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 219,
-    "timeWeek": 219,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 233,
+    "timeDay": 247,
+    "timeWeek": 227,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2021-12-09": 0
+      "2021-12-09": 21
     }
   },
   {
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-09": 273,
+      "2021-12-09": 294,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
@@ -228,7 +228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-09": 273,
+      "2021-12-09": 294,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
@@ -346,7 +346,7 @@
     "timeMonth": 316,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2021-12-09": 273,
+      "2021-12-09": 294,
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
