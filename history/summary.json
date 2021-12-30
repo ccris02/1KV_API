@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-30": 1223,
+      "2021-12-30": 1383,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -249,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-30": 1223,
+      "2021-12-30": 1383,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -286,18 +286,20 @@
     "url": "https://dotmarketcap.com",
     "icon": "https://favicons.githubusercontent.com/dotmarketcap.com",
     "slug": "dot-market-cap-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3151,
-    "timeDay": 2153,
-    "timeWeek": 3097,
-    "timeMonth": 3151,
-    "timeYear": 3151,
-    "dailyMinutesDown": {}
+    "time": 3120,
+    "timeDay": 2078,
+    "timeWeek": 2960,
+    "timeMonth": 3120,
+    "timeYear": 3120,
+    "dailyMinutesDown": {
+      "2021-12-30": 1
+    }
   },
   {
     "name": "Subscan.io",
@@ -388,7 +390,7 @@
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2021-12-30": 1223,
+      "2021-12-30": 1383,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
