@@ -5,47 +5,76 @@ repo: UpTime-test  # The name of this repository
 sites:
   - name: Kusama.network
     url: https://kusama.network/
+    icon: https://kusama.network/assets/img/favicon.ico
+    
   - name: Polkadot.network
     url: https://polkadot.network/
+     icon: https://polkadot.network/favicon.png
+     
   - name: Vegas1KV.com
     url: https://vegas1kv.com
+    icon: https://vegas1kv.com/img/favicon.png
+    
   - name: PolkaDIR.com
     url: https://polkadir.com
+    icon: https://polkadir.com/index_files/favicon.png
+     
   - name: Polkadot.js.org
     url: https://polkadot.js.org
+    icon: https://polkadot.js.org/favicon.ico
+    
   - name: Polkadot Telemetry
     url: https://telemetry.polkadot.io
+    icon: https://telemetry.polkadot.io/favicon.svg
+    
   - name: W3F Telemetry
     url: https://telemetry.w3f.community
+    icon: https://telemetry.polkadot.io/favicon.svg
+    
   - name: doTreasury.com
     url: https://www.dotreasury.com
+    icon: https://www.dotreasury.com/favicon.ico
+    
   - name: Polkassembly.io
     url: https://polkadot.polkassembly.io
+    icon: https://polkadot.polkassembly.io/logo192.png
+    
   - name: PolkaProject.com
     url: https://polkaproject.com
+    icon: https://resource.staked.store/polkaproject/favicon.ico
+    
   - name: DOTspot.io
     url: https://www.dotspot.io/projects
-  - name: Parastats.io
-    url: https://parastats.io
+    icon: https://www.dotspot.io/apple-touch-icon.png
+    
   - name: DOTMarketCap.com
     url: https://dotmarketcap.com
+    icon: https://dotmarketcap.com/images/favicon.svg
+    
   - name: Subscan.io
     url: https://kusama.subscan.io
+    icon: https://kusama.subscan.io/favicon.png
+    
   - name: sub.id
     url: https://sub.id
+    icon: https://sub.id/favicon.ico
+    
   - name: DOTscanner.com
     url: https://dotscanner.com
+    icon: https://dotscanner.com/assets/circle%20logo.png
+    
   - name: Polkascan.io
     url: https://polkascan.io/polkadot
-  - name: Polkaview.network
-    url: https://polkaview.network/dot/staking
-  - name: TurboFlakes.com
-    url: https://turboflakes.com
+    icon: https://polkascan.io/assets/icons/apple-touch-icon.png
+    
   - name: Polkastats.io
     url: https://polkastats.io/
+    icon: https://polkastats.io/img/favicon.png
+    
   - name: Subsocial.network
     url: https://subsocial.network/
-
+    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
+    
 
 status-website:
   theme: dark
@@ -53,16 +82,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: https://ccris02.github.io/UpTime-test/
   baseUrl: /UpTime-test
-  themeUrl: https://github.com/ccris02/UpTime-test/blob/master/assets/custom-theme.css
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #themeUrl: https://github.com/ccris02/UpTime-test/blob/master/assets/custom-theme.css
+  logoUrl: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/VegasLifeLight.jpg
   name: Polkadot Upptime
-  introTitle: "**Polkadot_Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Polkadot Upptime** is the open-source uptime monitor for websites in Polkadot Ecosystem."
   navbar:
     - title: Status
-      href: /
+      href: /UpTime-test
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Vegas1kv.com
+      href: https://vegas1kv.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
