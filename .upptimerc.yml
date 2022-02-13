@@ -9,7 +9,7 @@ sites:
     
   - name: Polkadot.network
     url: https://polkadot.network/
-     icon: https://polkadot.network/favicon.png
+    icon: https://polkadot.network/favicon.png
      
   - name: Vegas1KV.com
     url: https://vegas1kv.com
@@ -75,7 +75,6 @@ sites:
     url: https://subsocial.network/
     icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
     
-
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
