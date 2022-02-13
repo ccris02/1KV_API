@@ -2,79 +2,66 @@
 owner: ccris02 # Your GitHub organization or username, where this repository lives
 repo: UpTime-test  # The name of this repository
 
+# Add your sites here
 sites:
-  - name: Kusama.network
-    url: https://kusama.network/
-    icon: https://kusama.network/assets/img/favicon.ico
+##################
+# - Kusama API   #
+##################
+  - name: kusama.w3f.community/candidate/address
+    url: https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png
     
-  - name: Polkadot.network
-    url: https://polkadot.network/
-    icon: https://polkadot.network/favicon.png
-     
-  - name: Vegas1KV.com
-    url: https://vegas1kv.com
-    icon: https://vegas1kv.com/img/favicon.png
+  - name: kusama.w3f.community/erapoints/address
+    url: https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png
     
-  - name: PolkaDIR.com
-    url: https://polkadir.com
-    icon: https://polkadir.com/index_files/favicon.png
-     
-  - name: Polkadot.js.org
-    url: https://polkadot.js.org
-    icon: https://polkadot.js.org/favicon.ico
-    
-  - name: Polkadot Telemetry
-    url: https://telemetry.polkadot.io
-    icon: https://telemetry.polkadot.io/favicon.svg
-    
-  - name: W3F Telemetry
-    url: https://telemetry.w3f.community
-    icon: https://telemetry.polkadot.io/favicon.svg
-    
-  - name: doTreasury.com
-    url: https://www.dotreasury.com
-    icon: https://www.dotreasury.com/favicon.ico
-    
-  - name: Polkassembly.io
-    url: https://polkadot.polkassembly.io
-    icon: https://polkadot.polkassembly.io/logo192.png
-    
-  - name: PolkaProject.com
-    url: https://polkaproject.com
-    icon: https://resource.staked.store/polkaproject/favicon.ico
-    
-  - name: DOTspot.io
-    url: https://www.dotspot.io/projects
-    icon: https://www.dotspot.io/apple-touch-icon.png
-    
-  - name: DOTMarketCap.com
-    url: https://dotmarketcap.com
-    icon: https://dotmarketcap.com/images/favicon.svg
-    
-  - name: Subscan.io
-    url: https://kusama.subscan.io
-    icon: https://kusama.subscan.io/favicon.png
-    
-  - name: sub.id
-    url: https://sub.id
-    icon: https://sub.id/favicon.ico
-    
-  - name: DOTscanner.com
-    url: https://dotscanner.com
-    icon: https://dotscanner.com/assets/circle%20logo.png
-    
-  - name: Polkascan.io
-    url: https://polkascan.io/polkadot
-    icon: https://polkascan.io/assets/icons/apple-touch-icon.png
-    
-  - name: Polkastats.io
-    url: https://polkastats.io/
-    icon: https://polkastats.io/img/favicon.png
-    
-  - name: Subsocial.network
-    url: https://subsocial.network/
-    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
-    
+  - name: kusama.w3f.community/score/address
+    url: https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
+
+  - name: kusama.w3f.community/candidates
+    url: https://kusama.w3f.community/candidates
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
+
+  - name: kusama.w3f.community/erastats
+    url: https://kusama.w3f.community/erastats
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
+
+  - name: kusama.w3f.community/locationstats
+    url: https://kusama.w3f.community/locationstats
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png
+
+####################
+# - Polkadot API   #
+####################
+  - name: polkadot.w3f.community/candidate/address
+    url: https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
+
+  - name: polkadot.w3f.community/erapoints/address
+    url: https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
+
+  - name: polkadot.w3f.community/score/address 
+    url: https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
+
+  - name: polkadot.w3f.community/candidates
+    url: https://polkadot.w3f.community/candidates
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
+
+  - name: polkadot.w3f.community/erastats 
+    url: https://polkadot.w3f.community/erastats
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
+
+  - name: polkadot.w3f.community/locationstats
+    url:  https://polkadot.w3f.community/locationstats
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png
+
+  - name: Test site
+    url: https://google.com
+    icon: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google.png
+
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -84,13 +71,13 @@ status-website:
   #themeUrl: https://github.com/ccris02/UpTime-test/blob/master/assets/custom-theme.css
   logoUrl: https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/VegasLifeLight.jpg
   name: Polkadot Upptime
-  introTitle: "**Polkadot Upptime** is the open-source uptime monitor for websites in Polkadot Ecosystem."
+  introTitle: "**1KV API Upptime** is monitor current status of W3F API."
   navbar:
     - title: Status
       href: /UpTime-test
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Vegas1kv.com
+    - title: Vegas1KV.com
       href: https://vegas1kv.com
 
 # Upptime also supports notifications, assigning issues, and more
