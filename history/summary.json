@@ -24,19 +24,19 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1151,
-    "timeDay": 1151,
-    "timeWeek": 1151,
-    "timeMonth": 1151,
-    "timeYear": 1151,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 2137,
+    "timeDay": 2137,
+    "timeWeek": 2137,
+    "timeMonth": 2137,
+    "timeYear": 2137,
     "dailyMinutesDown": {
-      "2022-02-14": 24
+      "2022-02-14": 31
     }
   },
   {
