@@ -1,7 +1,7 @@
 url: https://kusama.w3f.community/candidates
-status: up
-code: 200
-responseTime: 9246
-lastUpdated: 2022-04-19T11:41:04.286Z
+status: down
+code: 503
+responseTime: 144
+lastUpdated: 2022-04-19T11:49:08.038Z
 startTime: Wed Feb 02 2022 21:59:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
