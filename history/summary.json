@@ -12,7 +12,7 @@
     "uptimeYear": "98.25%",
     "time": 1437,
     "timeDay": 697,
-    "timeWeek": 1542,
+    "timeWeek": 1553,
     "timeMonth": 1648,
     "timeYear": 1437,
     "dailyMinutesDown": {
@@ -78,18 +78,19 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "92.06%",
+    "status": "down",
+    "uptime": "98.07%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "92.05%",
     "uptimeMonth": "94.72%",
-    "uptimeYear": "98.00%",
+    "uptimeYear": "98.07%",
     "time": 3686,
     "timeDay": 4367,
-    "timeWeek": 3220,
+    "timeWeek": 3255,
     "timeMonth": 2889,
     "timeYear": 3686,
     "dailyMinutesDown": {
+      "2022-05-26": 1,
       "2022-05-25": 27,
       "2022-05-24": 64,
       "2022-05-23": 219,
@@ -123,7 +124,7 @@
       "2022-04-22": 48,
       "2022-04-21": 149,
       "2022-04-20": 111,
-      "2022-04-19": 242
+      "2022-04-19": 131
     }
   },
   {
@@ -139,7 +140,7 @@
     "uptimeYear": "98.01%",
     "time": 472,
     "timeDay": 229,
-    "timeWeek": 462,
+    "timeWeek": 465,
     "timeMonth": 638,
     "timeYear": 472,
     "dailyMinutesDown": {
@@ -201,7 +202,7 @@
     "uptimeYear": "98.02%",
     "time": 3264,
     "timeDay": 2383,
-    "timeWeek": 3925,
+    "timeWeek": 3970,
     "timeMonth": 3550,
     "timeYear": 3264,
     "dailyMinutesDown": {
@@ -261,7 +262,7 @@
     "uptimeYear": "98.06%",
     "time": 664,
     "timeDay": 138,
-    "timeWeek": 1149,
+    "timeWeek": 1162,
     "timeMonth": 760,
     "timeYear": 664,
     "dailyMinutesDown": {
@@ -328,7 +329,7 @@
     "uptimeYear": "98.10%",
     "time": 563,
     "timeDay": 203,
-    "timeWeek": 804,
+    "timeWeek": 813,
     "timeMonth": 560,
     "timeYear": 563,
     "dailyMinutesDown": {
