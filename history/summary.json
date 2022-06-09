@@ -82,18 +82,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "91.73%",
-    "uptimeMonth": "92.34%",
-    "uptimeYear": "98.02%",
+    "uptime": "97.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.41%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "97.99%",
     "time": 3605,
-    "timeDay": 2373,
+    "timeDay": 2143,
     "timeWeek": 2358,
-    "timeMonth": 2418,
+    "timeMonth": 2422,
     "timeYear": 3605,
     "dailyMinutesDown": {
-      "2022-06-08": 8,
       "2022-06-07": 15,
       "2022-06-06": 202,
       "2022-06-05": 154,
@@ -130,7 +129,7 @@
       "2022-05-04": 26,
       "2022-05-02": 15,
       "2022-05-01": 47,
-      "2022-04-30": 21
+      "2022-04-30": 83
     }
   },
   {
@@ -139,18 +138,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "95.90%",
-    "uptimeYear": "98.28%",
+    "uptime": "98.27%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "98.27%",
     "time": 463,
     "timeDay": 133,
     "timeWeek": 170,
     "timeMonth": 541,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2022-06-08": 31,
+      "2022-06-08": 23,
       "2022-06-05": 39,
       "2022-06-04": 56,
       "2022-06-02": 23,
@@ -193,7 +192,7 @@
       "2022-04-14": 41,
       "2022-04-13": 47,
       "2022-04-12": 32,
-      "2022-04-11": 21
+      "2022-04-11": 51
     }
   },
   {
@@ -202,18 +201,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "94.81%",
-    "uptimeYear": "98.20%",
+    "uptime": "98.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "94.83%",
+    "uptimeYear": "98.15%",
     "time": 3331,
-    "timeDay": 5058,
+    "timeDay": 2857,
     "timeWeek": 3613,
     "timeMonth": 3763,
     "timeYear": 3331,
     "dailyMinutesDown": {
-      "2022-06-08": 8,
       "2022-06-06": 127,
       "2022-06-05": 52,
       "2022-06-04": 66,
@@ -254,7 +252,7 @@
       "2022-04-22": 32,
       "2022-04-21": 133,
       "2022-04-20": 111,
-      "2022-04-19": 131
+      "2022-04-19": 242
     }
   },
   {
@@ -263,18 +261,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-erastats",
     "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "98.25%",
+    "uptime": "98.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "98.24%",
     "time": 645,
-    "timeDay": 123,
+    "timeDay": 128,
     "timeWeek": 430,
     "timeMonth": 717,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2022-06-08": 8,
       "2022-06-05": 20,
       "2022-06-04": 34,
       "2022-06-02": 23,
@@ -322,7 +319,8 @@
       "2022-04-13": 28,
       "2022-04-12": 32,
       "2022-04-11": 163,
-      "2022-04-10": 46
+      "2022-04-10": 46,
+      "2022-04-08": 24
     }
   },
   {
@@ -332,17 +330,16 @@
     "slug": "kusama-w3f-community-locationstats",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "96.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "98.28%",
     "time": 554,
-    "timeDay": 742,
+    "timeDay": 918,
     "timeWeek": 352,
     "timeMonth": 534,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2022-06-08": 8,
       "2022-06-05": 20,
       "2022-06-04": 34,
       "2022-06-02": 23,
@@ -392,7 +389,8 @@
       "2022-04-08": 125,
       "2022-04-06": 21,
       "2022-04-05": 16,
-      "2022-04-04": 17
+      "2022-04-04": 17,
+      "2022-04-02": 21
     }
   },
   {
