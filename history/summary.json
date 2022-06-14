@@ -197,19 +197,19 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "85.75%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "94.49%",
-    "uptimeYear": "98.19%",
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "85.69%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "98.22%",
     "time": 3306,
     "timeDay": 2160,
     "timeWeek": 3044,
     "timeMonth": 3692,
     "timeYear": 3306,
     "dailyMinutesDown": {
-      "2022-06-14": 159,
+      "2022-06-14": 160,
       "2022-06-13": 128,
       "2022-06-12": 38,
       "2022-06-11": 37,
@@ -253,7 +253,7 @@
       "2022-04-25": 94,
       "2022-04-23": 20,
       "2022-04-22": 32,
-      "2022-04-21": 133
+      "2022-04-21": 69
     }
   },
   {
