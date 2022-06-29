@@ -268,19 +268,19 @@
     "url": "https://kusama.w3f.community/erastats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-erastats",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "92.49%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "92.45%",
     "uptimeWeek": "96.48%",
     "uptimeMonth": "97.19%",
-    "uptimeYear": "98.44%",
-    "time": 635,
-    "timeDay": 759,
-    "timeWeek": 583,
-    "timeMonth": 516,
-    "timeYear": 635,
+    "uptimeYear": "98.45%",
+    "time": 634,
+    "timeDay": 724,
+    "timeWeek": 576,
+    "timeMonth": 514,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2022-06-29": 65,
+      "2022-06-29": 66,
       "2022-06-28": 69,
       "2022-06-27": 39,
       "2022-06-26": 111,
@@ -333,7 +333,7 @@
       "2022-04-29": 58,
       "2022-04-28": 36,
       "2022-04-27": 91,
-      "2022-04-25": 36
+      "2022-04-25": 16
     }
   },
   {
