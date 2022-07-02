@@ -1,7 +1,7 @@
 url: https://kusama.w3f.community/erastats
-status: up
-code: 200
-responseTime: 2342
-lastUpdated: 2022-07-02T17:41:33.690Z
+status: down
+code: 503
+responseTime: 117
+lastUpdated: 2022-07-02T22:13:41.515Z
 startTime: Wed Feb 02 2022 21:59:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
