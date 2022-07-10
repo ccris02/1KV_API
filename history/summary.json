@@ -12,7 +12,7 @@
     "uptimeYear": "98.56%",
     "time": 1426,
     "timeDay": 1210,
-    "timeWeek": 1693,
+    "timeWeek": 1705,
     "timeMonth": 1497,
     "timeYear": 1426,
     "dailyMinutesDown": {
@@ -81,8 +81,8 @@
     "uptimeMonth": "93.15%",
     "uptimeYear": "98.32%",
     "time": 3476,
-    "timeDay": 2151,
-    "timeWeek": 2761,
+    "timeDay": 2130,
+    "timeWeek": 2795,
     "timeMonth": 2954,
     "timeYear": 3476,
     "dailyMinutesDown": {
@@ -138,7 +138,7 @@
     "uptimeYear": "98.61%",
     "time": 465,
     "timeDay": 444,
-    "timeWeek": 394,
+    "timeWeek": 384,
     "timeMonth": 489,
     "timeYear": 465,
     "dailyMinutesDown": {
@@ -202,7 +202,7 @@
     "uptimeYear": "98.48%",
     "time": 3368,
     "timeDay": 3660,
-    "timeWeek": 4184,
+    "timeWeek": 4220,
     "timeMonth": 3586,
     "timeYear": 3368,
     "dailyMinutesDown": {
@@ -265,7 +265,7 @@
     "uptimeYear": "98.56%",
     "time": 659,
     "timeDay": 797,
-    "timeWeek": 1015,
+    "timeWeek": 1031,
     "timeMonth": 728,
     "timeYear": 659,
     "dailyMinutesDown": {
@@ -322,19 +322,19 @@
     "url": "https://kusama.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
-    "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "92.66%",
+    "status": "down",
+    "uptime": "98.54%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "92.65%",
     "uptimeMonth": "95.49%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.54%",
     "time": 563,
     "timeDay": 287,
-    "timeWeek": 783,
+    "timeWeek": 795,
     "timeMonth": 597,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-07-10": 36,
+      "2022-07-10": 37,
       "2022-07-09": 142,
       "2022-07-08": 205,
       "2022-07-07": 175,
@@ -380,8 +380,7 @@
       "2022-05-18": 240,
       "2022-05-17": 134,
       "2022-05-16": 66,
-      "2022-05-15": 38,
-      "2022-05-14": 23
+      "2022-05-15": 38
     }
   },
   {
