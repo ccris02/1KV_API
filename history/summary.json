@@ -73,17 +73,17 @@
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "98.49%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "88.75%",
-    "uptimeMonth": "92.90%",
+    "uptimeDay": "92.08%",
+    "uptimeWeek": "88.84%",
+    "uptimeMonth": "93.04%",
     "uptimeYear": "98.49%",
     "time": 3472,
-    "timeDay": 3331,
+    "timeDay": 3401,
     "timeWeek": 2795,
-    "timeMonth": 3033,
+    "timeMonth": 3037,
     "timeYear": 3472,
     "dailyMinutesDown": {
-      "2022-07-12": 124,
+      "2022-07-12": 115,
       "2022-07-11": 199,
       "2022-07-10": 125,
       "2022-07-09": 144,
@@ -116,7 +116,8 @@
       "2022-06-11": 183,
       "2022-06-10": 45,
       "2022-06-09": 55,
-      "2022-06-07": 15
+      "2022-06-07": 15,
+      "2022-06-06": 24
     }
   },
   {
@@ -125,18 +126,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "91.02%",
-    "uptimeMonth": "94.86%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.66%",
+    "uptimeDay": "92.08%",
+    "uptimeWeek": "91.12%",
+    "uptimeMonth": "94.89%",
+    "uptimeYear": "98.66%",
     "time": 489,
-    "timeDay": 2364,
+    "timeDay": 2505,
     "timeWeek": 738,
     "timeMonth": 534,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2022-07-12": 125,
+      "2022-07-12": 115,
       "2022-07-11": 103,
       "2022-07-10": 106,
       "2022-07-09": 142,
@@ -178,7 +179,7 @@
       "2022-05-25": 58,
       "2022-05-24": 24,
       "2022-05-23": 186,
-      "2022-05-22": 32
+      "2022-05-22": 65
     }
   },
   {
@@ -187,18 +188,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "89.26%",
-    "uptimeMonth": "94.09%",
-    "uptimeYear": "98.55%",
+    "uptime": "98.54%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "89.36%",
+    "uptimeMonth": "94.21%",
+    "uptimeYear": "98.54%",
     "time": 3387,
-    "timeDay": 4535,
+    "timeDay": 4571,
     "timeWeek": 4292,
-    "timeMonth": 3699,
+    "timeMonth": 3639,
     "timeYear": 3387,
     "dailyMinutesDown": {
-      "2022-07-12": 125,
+      "2022-07-12": 115,
       "2022-07-11": 158,
       "2022-07-10": 104,
       "2022-07-09": 142,
@@ -238,7 +239,7 @@
       "2022-05-31": 78,
       "2022-05-30": 47,
       "2022-05-28": 38,
-      "2022-05-27": 83
+      "2022-05-27": 125
     }
   },
   {
@@ -247,18 +248,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-erastats",
     "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "90.97%",
-    "uptimeMonth": "94.69%",
-    "uptimeYear": "98.63%",
+    "uptime": "98.59%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "91.07%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "98.59%",
     "time": 704,
-    "timeDay": 2270,
+    "timeDay": 2297,
     "timeWeek": 1667,
     "timeMonth": 943,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2022-07-12": 125,
+      "2022-07-12": 115,
       "2022-07-11": 104,
       "2022-07-10": 53,
       "2022-07-09": 142,
@@ -302,7 +303,7 @@
       "2022-05-24": 29,
       "2022-05-23": 138,
       "2022-05-22": 110,
-      "2022-05-21": 31
+      "2022-05-21": 130
     }
   },
   {
@@ -311,18 +312,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
     "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "90.54%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "98.62%",
+    "uptime": "98.60%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "90.64%",
+    "uptimeMonth": "94.91%",
+    "uptimeYear": "98.60%",
     "time": 589,
-    "timeDay": 655,
+    "timeDay": 682,
     "timeWeek": 1029,
     "timeMonth": 722,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-07-12": 125,
+      "2022-07-12": 115,
       "2022-07-11": 158,
       "2022-07-10": 53,
       "2022-07-09": 142,
@@ -367,7 +368,7 @@
       "2022-05-21": 31,
       "2022-05-20": 37,
       "2022-05-19": 120,
-      "2022-05-18": 48
+      "2022-05-18": 98
     }
   },
   {
