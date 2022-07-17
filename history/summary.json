@@ -12,7 +12,7 @@
     "uptimeYear": "98.60%",
     "time": 1436,
     "timeDay": 1940,
-    "timeWeek": 1617,
+    "timeWeek": 1626,
     "timeMonth": 1545,
     "timeYear": 1436,
     "dailyMinutesDown": {
@@ -75,7 +75,7 @@
     "uptimeYear": "98.56%",
     "time": 3443,
     "timeDay": 2605,
-    "timeWeek": 3064,
+    "timeWeek": 3087,
     "timeMonth": 2921,
     "timeYear": 3443,
     "dailyMinutesDown": {
@@ -115,19 +115,19 @@
     "url": "https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "90.01%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "89.97%",
     "uptimeWeek": "88.13%",
     "uptimeMonth": "93.80%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.63%",
     "time": 492,
-    "timeDay": 502,
-    "timeWeek": 851,
-    "timeMonth": 570,
+    "timeDay": 487,
+    "timeWeek": 844,
+    "timeMonth": 568,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2022-07-17": 88,
+      "2022-07-17": 89,
       "2022-07-16": 223,
       "2022-07-15": 346,
       "2022-07-14": 243,
@@ -159,8 +159,7 @@
       "2022-06-15": 146,
       "2022-06-14": 129,
       "2022-06-13": 88,
-      "2022-06-11": 37,
-      "2022-06-10": 23
+      "2022-06-11": 37
     }
   },
   {
@@ -176,7 +175,7 @@
     "uptimeYear": "98.55%",
     "time": 3403,
     "timeDay": 3859,
-    "timeWeek": 3870,
+    "timeWeek": 3744,
     "timeMonth": 3713,
     "timeYear": 3403,
     "dailyMinutesDown": {
@@ -227,7 +226,7 @@
     "uptimeYear": "98.58%",
     "time": 702,
     "timeDay": 878,
-    "timeWeek": 1263,
+    "timeWeek": 1181,
     "timeMonth": 880,
     "timeYear": 702,
     "dailyMinutesDown": {
@@ -281,7 +280,7 @@
     "uptimeYear": "98.56%",
     "time": 604,
     "timeDay": 300,
-    "timeWeek": 1115,
+    "timeWeek": 1020,
     "timeMonth": 755,
     "timeYear": 604,
     "dailyMinutesDown": {
