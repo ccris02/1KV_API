@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "87.34%",
-    "uptimeWeek": "88.40%",
-    "uptimeMonth": "92.89%",
+    "uptimeDay": "87.88%",
+    "uptimeWeek": "88.48%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "98.80%",
     "time": 1597,
     "timeDay": 4653,
@@ -16,7 +16,7 @@
     "timeMonth": 2143,
     "timeYear": 1597,
     "dailyMinutesDown": {
-      "2022-08-02": 37,
+      "2022-08-02": 29,
       "2022-08-01": 183,
       "2022-07-31": 67,
       "2022-07-30": 124,
@@ -39,7 +39,7 @@
       "2022-07-13": 55,
       "2022-07-12": 91,
       "2022-07-11": 74,
-      "2022-07-10": 67
+      "2022-07-10": 88
     }
   },
   {
@@ -47,11 +47,11 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "74.42%",
-    "uptimeWeek": "80.56%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "74.91%",
+    "uptimeWeek": "80.63%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "98.58%",
     "time": 3472,
     "timeDay": 3598,
@@ -59,7 +59,7 @@
     "timeMonth": 3309,
     "timeYear": 3472,
     "dailyMinutesDown": {
-      "2022-08-02": 202,
+      "2022-08-02": 195,
       "2022-08-01": 306,
       "2022-07-31": 274,
       "2022-07-30": 270,
@@ -94,7 +94,7 @@
     "time": 554,
     "timeDay": 1556,
     "timeWeek": 1047,
-    "timeMonth": 770,
+    "timeMonth": 771,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2022-08-02": 68,
@@ -133,7 +133,7 @@
     "time": 3520,
     "timeDay": 5313,
     "timeWeek": 4662,
-    "timeMonth": 4062,
+    "timeMonth": 4069,
     "timeYear": 3520,
     "dailyMinutesDown": {
       "2022-08-02": 84,
@@ -171,7 +171,7 @@
     "time": 783,
     "timeDay": 1344,
     "timeWeek": 1612,
-    "timeMonth": 1139,
+    "timeMonth": 1141,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2022-08-02": 84,
@@ -209,7 +209,7 @@
     "time": 698,
     "timeDay": 586,
     "timeWeek": 1604,
-    "timeMonth": 1068,
+    "timeMonth": 1070,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2022-08-02": 68,
