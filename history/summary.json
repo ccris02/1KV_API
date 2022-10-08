@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "98.40%",
-    "uptimeDay": "87.72%",
-    "uptimeWeek": "94.82%",
-    "uptimeMonth": "87.02%",
+    "uptimeDay": "88.75%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "86.95%",
     "uptimeYear": "98.40%",
     "time": 1954,
     "timeDay": 1756,
@@ -16,7 +16,6 @@
     "timeMonth": 2417,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2022-10-08": 15,
       "2022-10-07": 161,
       "2022-10-06": 27,
       "2022-10-05": 90,
@@ -41,7 +40,7 @@
       "2022-09-16": 255,
       "2022-09-15": 112,
       "2022-09-14": 228,
-      "2022-09-13": 125
+      "2022-09-13": 174
     }
   },
   {
@@ -51,9 +50,9 @@
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "98.40%",
-    "uptimeDay": "87.67%",
-    "uptimeWeek": "94.81%",
-    "uptimeMonth": "86.99%",
+    "uptimeDay": "88.71%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "86.97%",
     "uptimeYear": "98.40%",
     "time": 4113,
     "timeDay": 6171,
@@ -61,7 +60,6 @@
     "timeMonth": 6858,
     "timeYear": 4113,
     "dailyMinutesDown": {
-      "2022-10-08": 15,
       "2022-10-07": 162,
       "2022-10-06": 27,
       "2022-10-05": 90,
@@ -83,7 +81,7 @@
       "2022-09-19": 212,
       "2022-09-18": 141,
       "2022-09-17": 144,
-      "2022-09-16": 15
+      "2022-09-16": 35
     }
   },
   {
@@ -93,17 +91,16 @@
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "87.67%",
-    "uptimeWeek": "94.04%",
-    "uptimeMonth": "86.78%",
+    "uptimeDay": "88.71%",
+    "uptimeWeek": "94.19%",
+    "uptimeMonth": "86.77%",
     "uptimeYear": "98.37%",
     "time": 779,
     "timeDay": 686,
     "timeWeek": 727,
-    "timeMonth": 910,
+    "timeMonth": 913,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2022-10-08": 15,
       "2022-10-07": 162,
       "2022-10-06": 83,
       "2022-10-05": 90,
@@ -124,7 +121,7 @@
       "2022-09-20": 359,
       "2022-09-19": 175,
       "2022-09-18": 164,
-      "2022-09-17": 51
+      "2022-09-17": 73
     }
   },
   {
@@ -212,19 +209,19 @@
     "url": "https://kusama.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "87.61%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "87.26%",
-    "uptimeYear": "98.43%",
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "87.31%",
+    "uptimeYear": "98.44%",
     "time": 824,
-    "timeDay": 517,
-    "timeWeek": 790,
-    "timeMonth": 1037,
+    "timeDay": 489,
+    "timeWeek": 779,
+    "timeMonth": 1035,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2022-10-08": 15,
+      "2022-10-08": 16,
       "2022-10-07": 162,
       "2022-10-05": 90,
       "2022-10-04": 64,
@@ -244,7 +241,7 @@
       "2022-09-19": 231,
       "2022-09-18": 139,
       "2022-09-17": 188,
-      "2022-09-16": 38
+      "2022-09-16": 15
     }
   },
   {
@@ -261,7 +258,7 @@
     "time": 2641,
     "timeDay": 420,
     "timeWeek": 479,
-    "timeMonth": 3065,
+    "timeMonth": 3069,
     "timeYear": 2641,
     "dailyMinutesDown": {
       "2022-10-05": 21,
@@ -295,7 +292,7 @@
     "time": 818,
     "timeDay": 413,
     "timeWeek": 353,
-    "timeMonth": 923,
+    "timeMonth": 924,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2022-10-05": 21,
@@ -330,7 +327,7 @@
     "time": 524,
     "timeDay": 95,
     "timeWeek": 115,
-    "timeMonth": 556,
+    "timeMonth": 557,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2022-10-05": 21,
@@ -364,7 +361,7 @@
     "time": 1407,
     "timeDay": 486,
     "timeWeek": 1052,
-    "timeMonth": 1318,
+    "timeMonth": 1320,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2022-10-05": 21,
@@ -398,7 +395,7 @@
     "time": 489,
     "timeDay": 122,
     "timeWeek": 117,
-    "timeMonth": 588,
+    "timeMonth": 589,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2022-10-05": 21,
@@ -432,7 +429,7 @@
     "time": 483,
     "timeDay": 92,
     "timeWeek": 219,
-    "timeMonth": 503,
+    "timeMonth": 504,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2022-10-05": 21,
