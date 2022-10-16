@@ -13,7 +13,7 @@
     "time": 1974,
     "timeDay": 4488,
     "timeWeek": 2921,
-    "timeMonth": 2464,
+    "timeMonth": 2469,
     "timeYear": 1974,
     "dailyMinutesDown": {
       "2022-10-16": 617,
@@ -58,7 +58,7 @@
     "time": 4196,
     "timeDay": 9602,
     "timeWeek": 7643,
-    "timeMonth": 6567,
+    "timeMonth": 6549,
     "timeYear": 4196,
     "dailyMinutesDown": {
       "2022-10-16": 149,
@@ -101,7 +101,7 @@
     "time": 782,
     "timeDay": 1448,
     "timeWeek": 940,
-    "timeMonth": 814,
+    "timeMonth": 807,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2022-10-16": 82,
@@ -135,19 +135,19 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "87.53%",
-    "uptimeMonth": "87.17%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "87.52%",
+    "uptimeMonth": "87.23%",
     "uptimeYear": "98.48%",
     "time": 3171,
     "timeDay": 2184,
     "timeWeek": 1451,
-    "timeMonth": 1929,
+    "timeMonth": 1932,
     "timeYear": 3171,
     "dailyMinutesDown": {
-      "2022-10-16": 68,
+      "2022-10-16": 69,
       "2022-10-15": 153,
       "2022-10-14": 183,
       "2022-10-13": 424,
@@ -169,7 +169,7 @@
       "2022-09-27": 1142,
       "2022-09-26": 768,
       "2022-09-25": 323,
-      "2022-09-24": 161
+      "2022-09-24": 135
     }
   },
   {
@@ -186,7 +186,7 @@
     "time": 765,
     "timeDay": 801,
     "timeWeek": 274,
-    "timeMonth": 540,
+    "timeMonth": 541,
     "timeYear": 765,
     "dailyMinutesDown": {
       "2022-10-16": 68,
@@ -228,7 +228,7 @@
     "time": 830,
     "timeDay": 2305,
     "timeWeek": 1143,
-    "timeMonth": 949,
+    "timeMonth": 948,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2022-10-16": 97,
@@ -269,7 +269,7 @@
     "time": 2543,
     "timeDay": 528,
     "timeWeek": 1089,
-    "timeMonth": 2391,
+    "timeMonth": 2395,
     "timeYear": 2543,
     "dailyMinutesDown": {
       "2022-10-16": 373,
@@ -307,7 +307,7 @@
     "time": 794,
     "timeDay": 356,
     "timeWeek": 473,
-    "timeMonth": 804,
+    "timeMonth": 806,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2022-10-16": 372,
@@ -344,7 +344,7 @@
     "time": 501,
     "timeDay": 293,
     "timeWeek": 185,
-    "timeMonth": 442,
+    "timeMonth": 443,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2022-10-16": 372,
@@ -382,7 +382,7 @@
     "time": 1365,
     "timeDay": 707,
     "timeWeek": 832,
-    "timeMonth": 1065,
+    "timeMonth": 1067,
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2022-10-16": 372,
@@ -420,7 +420,7 @@
     "time": 467,
     "timeDay": 146,
     "timeWeek": 180,
-    "timeMonth": 496,
+    "timeMonth": 497,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2022-10-16": 372,
@@ -458,7 +458,7 @@
     "time": 474,
     "timeDay": 252,
     "timeWeek": 360,
-    "timeMonth": 411,
+    "timeMonth": 412,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2022-10-16": 371,
