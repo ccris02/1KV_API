@@ -1,7 +1,7 @@
 url: https://polkadot.w3f.community/candidates
-status: up
-code: 200
-responseTime: 2517
-lastUpdated: 2022-10-27T07:14:13.046Z
+status: down
+code: 503
+responseTime: 96
+lastUpdated: 2022-10-27T08:01:25.685Z
 startTime: Wed Feb 02 2022 21:59:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
