@@ -1,7 +1,7 @@
 url: https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW
-status: up
-code: 200
+status: down
+code: 503
 responseTime: 102
-lastUpdated: 2022-10-29T17:44:56.619Z
+lastUpdated: 2022-10-29T18:52:38.241Z
 startTime: Wed Feb 02 2022 21:59:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
