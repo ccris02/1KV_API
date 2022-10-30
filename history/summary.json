@@ -4,17 +4,17 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "95.09%",
-    "uptimeWeek": "91.34%",
-    "uptimeMonth": "89.82%",
-    "uptimeYear": "98.85%",
-    "time": 2048,
-    "timeDay": 3605,
-    "timeWeek": 4001,
-    "timeMonth": 2758,
-    "timeYear": 2048,
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "91.33%",
+    "uptimeMonth": "89.88%",
+    "uptimeYear": "98.86%",
+    "time": 2047,
+    "timeDay": 3433,
+    "timeWeek": 3961,
+    "timeMonth": 2750,
+    "timeYear": 2047,
     "dailyMinutesDown": {
       "2022-10-30": 70,
       "2022-10-28": 144,
@@ -41,7 +41,7 @@
       "2022-10-06": 27,
       "2022-10-05": 90,
       "2022-10-04": 43,
-      "2022-10-03": 64
+      "2022-10-03": 39
     }
   },
   {
@@ -49,17 +49,17 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "93.65%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "93.62%",
     "uptimeWeek": "90.97%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "98.94%",
-    "time": 4291,
-    "timeDay": 5951,
-    "timeWeek": 5442,
-    "timeMonth": 5729,
-    "timeYear": 4291,
+    "uptimeMonth": "90.83%",
+    "uptimeYear": "98.96%",
+    "time": 4290,
+    "timeDay": 5684,
+    "timeWeek": 5390,
+    "timeMonth": 5712,
+    "timeYear": 4290,
     "dailyMinutesDown": {
       "2022-10-30": 72,
       "2022-10-29": 20,
@@ -82,7 +82,7 @@
       "2022-10-11": 237,
       "2022-10-10": 145,
       "2022-10-09": 83,
-      "2022-10-08": 104
+      "2022-10-08": 26
     }
   },
   {
@@ -90,19 +90,19 @@
     "url": "https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "90.79%",
-    "uptimeYear": "98.96%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "98.98%",
     "time": 808,
-    "timeDay": 1624,
-    "timeWeek": 1638,
-    "timeMonth": 1069,
+    "timeDay": 1551,
+    "timeWeek": 1624,
+    "timeMonth": 1066,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2022-10-30": 48,
+      "2022-10-30": 49,
       "2022-10-29": 26,
       "2022-10-28": 194,
       "2022-10-27": 317,
@@ -124,7 +124,7 @@
       "2022-10-10": 122,
       "2022-10-09": 83,
       "2022-10-08": 250,
-      "2022-10-07": 113
+      "2022-10-07": 51
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "88.55%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "88.50%",
     "uptimeWeek": "88.69%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "98.93%",
-    "time": 3238,
-    "timeDay": 5339,
-    "timeWeek": 5369,
-    "timeMonth": 3116,
-    "timeYear": 3238,
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "98.95%",
+    "time": 3237,
+    "timeDay": 5129,
+    "timeWeek": 5323,
+    "timeMonth": 3108,
+    "timeYear": 3237,
     "dailyMinutesDown": {
-      "2022-10-30": 139,
+      "2022-10-30": 140,
       "2022-10-29": 26,
       "2022-10-28": 258,
       "2022-10-27": 353,
@@ -165,7 +165,7 @@
       "2022-10-11": 190,
       "2022-10-10": 128,
       "2022-10-09": 83,
-      "2022-10-08": 104
+      "2022-10-08": 26
     }
   },
   {
@@ -173,19 +173,19 @@
     "url": "https://kusama.w3f.community/erastats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-erastats",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "90.85%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "90.73%",
-    "uptimeYear": "98.95%",
-    "time": 811,
-    "timeDay": 2260,
-    "timeWeek": 2260,
-    "timeMonth": 1128,
-    "timeYear": 811,
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "90.79%",
+    "uptimeWeek": "89.62%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "98.96%",
+    "time": 810,
+    "timeDay": 2166,
+    "timeWeek": 2240,
+    "timeMonth": 1125,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2022-10-30": 106,
+      "2022-10-30": 107,
       "2022-10-29": 26,
       "2022-10-28": 204,
       "2022-10-27": 347,
@@ -206,8 +206,7 @@
       "2022-10-11": 220,
       "2022-10-10": 128,
       "2022-10-09": 84,
-      "2022-10-08": 236,
-      "2022-10-07": 21
+      "2022-10-08": 236
     }
   },
   {
@@ -215,19 +214,19 @@
     "url": "https://kusama.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "89.32%",
-    "uptimeWeek": "89.03%",
-    "uptimeMonth": "90.78%",
+    "uptimeDay": "89.25%",
+    "uptimeWeek": "89.02%",
+    "uptimeMonth": "90.82%",
     "uptimeYear": "98.96%",
     "time": 884,
-    "timeDay": 2863,
-    "timeWeek": 2142,
-    "timeMonth": 1415,
+    "timeDay": 2724,
+    "timeWeek": 2122,
+    "timeMonth": 1411,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2022-10-30": 129,
+      "2022-10-30": 130,
       "2022-10-29": 26,
       "2022-10-28": 204,
       "2022-10-27": 338,
@@ -248,8 +247,7 @@
       "2022-10-11": 220,
       "2022-10-10": 128,
       "2022-10-09": 84,
-      "2022-10-08": 270,
-      "2022-10-07": 21
+      "2022-10-08": 270
     }
   },
   {
@@ -258,18 +256,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.66%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "92.56%",
+    "uptimeMonth": "91.45%",
+    "uptimeYear": "98.66%",
     "time": 2355,
     "timeDay": 1238,
     "timeWeek": 921,
     "timeMonth": 1073,
     "timeYear": 2355,
     "dailyMinutesDown": {
-      "2022-10-30": 106,
+      "2022-10-30": 100,
       "2022-10-29": 36,
       "2022-10-27": 64,
       "2022-10-26": 79,
@@ -295,7 +293,7 @@
       "2022-10-01": 38,
       "2022-09-29": 78,
       "2022-09-28": 772,
-      "2022-09-27": 551
+      "2022-09-27": 613
     }
   },
   {
@@ -305,9 +303,9 @@
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "90.50%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "92.08%",
+    "uptimeMonth": "90.48%",
     "uptimeYear": "98.93%",
     "time": 759,
     "timeDay": 400,
@@ -315,7 +313,7 @@
     "timeMonth": 509,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2022-10-30": 106,
+      "2022-10-30": 100,
       "2022-10-29": 36,
       "2022-10-27": 125,
       "2022-10-26": 81,
@@ -337,7 +335,7 @@
       "2022-10-05": 21,
       "2022-10-03": 69,
       "2022-10-02": 27,
-      "2022-10-01": 22
+      "2022-10-01": 38
     }
   },
   {
@@ -347,9 +345,9 @@
     "slug": "polkadot-w3f-community-score-address",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "91.73%",
-    "uptimeMonth": "90.10%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "91.79%",
+    "uptimeMonth": "90.05%",
     "uptimeYear": "98.88%",
     "time": 497,
     "timeDay": 857,
@@ -357,7 +355,7 @@
     "timeMonth": 377,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2022-10-30": 106,
+      "2022-10-30": 100,
       "2022-10-29": 36,
       "2022-10-27": 125,
       "2022-10-26": 79,
@@ -378,7 +376,8 @@
       "2022-10-10": 76,
       "2022-10-09": 28,
       "2022-10-05": 21,
-      "2022-10-03": 69
+      "2022-10-03": 69,
+      "2022-10-02": 27
     }
   },
   {
@@ -388,9 +387,9 @@
     "slug": "polkadot-w3f-community-candidates",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "90.15%",
-    "uptimeWeek": "92.19%",
-    "uptimeMonth": "90.22%",
+    "uptimeDay": "90.58%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "90.23%",
     "uptimeYear": "98.86%",
     "time": 1382,
     "timeDay": 1727,
@@ -398,7 +397,7 @@
     "timeMonth": 1265,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2022-10-30": 106,
+      "2022-10-30": 100,
       "2022-10-29": 36,
       "2022-10-27": 99,
       "2022-10-26": 38,
@@ -423,7 +422,7 @@
       "2022-10-02": 27,
       "2022-10-01": 37,
       "2022-09-29": 98,
-      "2022-09-28": 37
+      "2022-09-28": 63
     }
   },
   {
@@ -432,18 +431,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erastats",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "98.90%",
+    "uptime": "98.89%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "98.89%",
     "time": 442,
     "timeDay": 485,
     "timeWeek": 294,
     "timeMonth": 243,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2022-10-30": 81,
+      "2022-10-30": 75,
       "2022-10-29": 36,
       "2022-10-27": 99,
       "2022-10-26": 38,
@@ -469,7 +468,7 @@
       "2022-10-02": 27,
       "2022-10-01": 37,
       "2022-09-29": 180,
-      "2022-09-28": 8
+      "2022-09-28": 37
     }
   },
   {
@@ -478,18 +477,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-locationstats",
     "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "90.35%",
-    "uptimeYear": "98.86%",
+    "uptime": "98.85%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "98.85%",
     "time": 459,
     "timeDay": 858,
     "timeWeek": 407,
     "timeMonth": 357,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2022-10-30": 81,
+      "2022-10-30": 75,
       "2022-10-29": 35,
       "2022-10-27": 99,
       "2022-10-26": 38,
@@ -515,7 +514,7 @@
       "2022-10-02": 27,
       "2022-10-01": 37,
       "2022-09-29": 180,
-      "2022-09-28": 37
+      "2022-09-28": 63
     }
   },
   {
