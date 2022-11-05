@@ -44,19 +44,19 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "75.90%",
-    "uptimeWeek": "82.62%",
-    "uptimeMonth": "91.56%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "75.69%",
+    "uptimeWeek": "82.59%",
+    "uptimeMonth": "91.62%",
+    "uptimeYear": "99.08%",
     "time": 4468,
     "timeDay": 7706,
     "timeWeek": 8668,
     "timeMonth": 7139,
     "timeYear": 4468,
     "dailyMinutesDown": {
-      "2022-11-05": 329,
+      "2022-11-05": 332,
       "2022-11-04": 283,
       "2022-11-03": 327,
       "2022-11-02": 136,
@@ -74,7 +74,7 @@
       "2022-10-20": 261,
       "2022-10-19": 195,
       "2022-10-18": 23,
-      "2022-10-17": 112
+      "2022-10-17": 85
     }
   },
   {
@@ -123,11 +123,11 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "86.51%",
-    "uptimeWeek": "81.21%",
-    "uptimeMonth": "90.53%",
+    "uptimeDay": "86.41%",
+    "uptimeWeek": "81.19%",
+    "uptimeMonth": "90.59%",
     "uptimeYear": "98.96%",
     "time": 3450,
     "timeDay": 10007,
@@ -135,7 +135,7 @@
     "timeMonth": 4862,
     "timeYear": 3450,
     "dailyMinutesDown": {
-      "2022-11-05": 194,
+      "2022-11-05": 196,
       "2022-11-04": 392,
       "2022-11-03": 320,
       "2022-11-02": 140,
@@ -153,7 +153,7 @@
       "2022-10-20": 252,
       "2022-10-19": 228,
       "2022-10-18": 52,
-      "2022-10-17": 93
+      "2022-10-17": 66
     }
   },
   {
@@ -292,7 +292,7 @@
     "uptimeYear": "98.94%",
     "time": 762,
     "timeDay": 1075,
-    "timeWeek": 748,
+    "timeWeek": 750,
     "timeMonth": 624,
     "timeYear": 762,
     "dailyMinutesDown": {
