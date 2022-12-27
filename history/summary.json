@@ -206,10 +206,10 @@
     "url": "https://kusama.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.11%",
     "time": 995,
@@ -218,7 +218,7 @@
     "timeMonth": 331,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2022-12-27": 15,
+      "2022-12-27": 16,
       "2022-12-17": 33,
       "2022-11-09": 227,
       "2022-11-08": 157,
@@ -243,7 +243,7 @@
       "2022-10-19": 139,
       "2022-10-18": 52,
       "2022-10-17": 301,
-      "2022-10-16": 164
+      "2022-10-16": 148
     }
   },
   {
