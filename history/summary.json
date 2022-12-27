@@ -44,19 +44,19 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "89.56%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.22%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "89.19%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.23%",
     "time": 4444,
     "timeDay": 2056,
     "timeWeek": 1396,
     "timeMonth": 651,
     "timeYear": 4444,
     "dailyMinutesDown": {
-      "2022-12-27": 151,
+      "2022-12-27": 156,
       "2022-11-09": 230,
       "2022-11-08": 157,
       "2022-11-07": 68,
@@ -74,7 +74,7 @@
       "2022-10-26": 88,
       "2022-10-24": 127,
       "2022-10-23": 174,
-      "2022-10-22": 236
+      "2022-10-22": 207
     }
   },
   {
@@ -122,11 +122,11 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "89.42%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "89.22%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.13%",
     "time": 3505,
     "timeDay": 2189,
@@ -134,7 +134,7 @@
     "timeMonth": 1404,
     "timeYear": 3505,
     "dailyMinutesDown": {
-      "2022-12-27": 153,
+      "2022-12-27": 156,
       "2022-12-05": 20,
       "2022-11-09": 210,
       "2022-11-08": 157,
@@ -153,7 +153,7 @@
       "2022-10-26": 111,
       "2022-10-24": 128,
       "2022-10-23": 195,
-      "2022-10-22": 93
+      "2022-10-22": 54
     }
   },
   {
@@ -161,19 +161,19 @@
     "url": "https://kusama.w3f.community/erastats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-erastats",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "98.81%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "98.80%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 1002,
     "timeDay": 1781,
     "timeWeek": 1321,
     "timeMonth": 538,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2022-12-27": 120,
+      "2022-12-27": 122,
       "2022-12-17": 33,
       "2022-11-09": 228,
       "2022-11-08": 157,
@@ -194,8 +194,7 @@
       "2022-10-23": 194,
       "2022-10-22": 181,
       "2022-10-21": 255,
-      "2022-10-20": 252,
-      "2022-10-19": 41
+      "2022-10-20": 252
     }
   },
   {
