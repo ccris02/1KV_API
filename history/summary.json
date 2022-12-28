@@ -4,19 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "75.67%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "75.19%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "99.26%",
-    "time": 2314,
-    "timeDay": 5528,
-    "timeWeek": 4123,
-    "timeMonth": 2221,
-    "timeYear": 2314,
+    "time": 2313,
+    "timeDay": 5285,
+    "timeWeek": 3999,
+    "timeMonth": 2197,
+    "timeYear": 2313,
     "dailyMinutesDown": {
-      "2022-12-28": 62,
+      "2022-12-28": 69,
       "2022-12-27": 288,
       "2022-11-09": 214,
       "2022-11-08": 156,
@@ -84,9 +84,9 @@
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "82.84%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "83.86%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.25%",
     "time": 971,
     "timeDay": 3786,
@@ -94,7 +94,7 @@
     "timeMonth": 1187,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2022-12-28": 90,
+      "2022-12-28": 75,
       "2022-12-27": 157,
       "2022-11-09": 211,
       "2022-11-08": 157,
@@ -114,7 +114,8 @@
       "2022-10-24": 127,
       "2022-10-23": 174,
       "2022-10-22": 197,
-      "2022-10-21": 228
+      "2022-10-21": 228,
+      "2022-10-20": 16
     }
   },
   {
@@ -163,9 +164,9 @@
     "slug": "kusama-w3f-community-erastats",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "84.21%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "85.13%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.22%",
     "time": 1004,
     "timeDay": 1894,
@@ -173,7 +174,7 @@
     "timeMonth": 746,
     "timeYear": 1004,
     "dailyMinutesDown": {
-      "2022-12-28": 72,
+      "2022-12-28": 59,
       "2022-12-27": 155,
       "2022-12-17": 33,
       "2022-11-09": 228,
@@ -194,7 +195,8 @@
       "2022-10-24": 129,
       "2022-10-23": 194,
       "2022-10-22": 181,
-      "2022-10-21": 255
+      "2022-10-21": 255,
+      "2022-10-20": 16
     }
   },
   {
