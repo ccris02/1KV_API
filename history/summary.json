@@ -46,9 +46,9 @@
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "83.34%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "84.36%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.22%",
     "time": 4438,
     "timeDay": 1967,
@@ -56,7 +56,7 @@
     "timeMonth": 768,
     "timeYear": 4438,
     "dailyMinutesDown": {
-      "2022-12-28": 71,
+      "2022-12-28": 56,
       "2022-12-27": 169,
       "2022-11-09": 230,
       "2022-11-08": 157,
@@ -75,7 +75,7 @@
       "2022-10-26": 88,
       "2022-10-24": 127,
       "2022-10-23": 174,
-      "2022-10-22": 152
+      "2022-10-22": 168
     }
   },
   {
@@ -163,11 +163,11 @@
     "url": "https://kusama.w3f.community/erastats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-erastats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "84.42%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.22%",
     "time": 1003,
     "timeDay": 1731,
@@ -175,7 +175,7 @@
     "timeMonth": 661,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2022-12-28": 69,
+      "2022-12-28": 61,
       "2022-12-27": 155,
       "2022-12-17": 33,
       "2022-11-09": 228,
@@ -206,9 +206,9 @@
     "slug": "kusama-w3f-community-locationstats",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "75.04%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "75.64%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.14%",
     "time": 1002,
     "timeDay": 2495,
@@ -216,7 +216,7 @@
     "timeMonth": 855,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2022-12-28": 187,
+      "2022-12-28": 178,
       "2022-12-27": 173,
       "2022-12-17": 33,
       "2022-11-09": 227,
@@ -240,7 +240,7 @@
       "2022-10-21": 183,
       "2022-10-20": 252,
       "2022-10-19": 139,
-      "2022-10-18": 23
+      "2022-10-18": 52
     }
   },
   {
