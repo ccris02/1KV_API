@@ -80,19 +80,19 @@
     "url": "https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "71.22%",
-    "uptimeWeek": "95.72%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "71.17%",
+    "uptimeWeek": "95.71%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 983,
     "timeDay": 4080,
     "timeWeek": 3456,
     "timeMonth": 1772,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2022-12-28": 273,
+      "2022-12-28": 274,
       "2022-12-27": 157,
       "2022-11-09": 211,
       "2022-11-08": 157,
@@ -112,7 +112,7 @@
       "2022-10-24": 127,
       "2022-10-23": 174,
       "2022-10-22": 197,
-      "2022-10-21": 95
+      "2022-10-21": 80
     }
   },
   {
