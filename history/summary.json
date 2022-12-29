@@ -6,7 +6,7 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "41.34%",
+    "uptimeDay": "42.08%",
     "uptimeWeek": "86.80%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "99.28%",
@@ -72,19 +72,19 @@
     "url": "https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "52.79%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "52.54%",
+    "uptimeWeek": "90.58%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "99.28%",
     "time": 1015,
     "timeDay": 6362,
     "timeWeek": 4623,
     "timeMonth": 2886,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2022-12-29": 265,
+      "2022-12-29": 269,
       "2022-12-28": 525,
       "2022-12-27": 157,
       "2022-11-09": 211,
@@ -101,7 +101,7 @@
       "2022-10-29": 26,
       "2022-10-28": 194,
       "2022-10-27": 317,
-      "2022-10-26": 64
+      "2022-10-26": 23
     }
   },
   {
@@ -182,10 +182,10 @@
     "url": "https://kusama.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "55.77%",
-    "uptimeWeek": "89.98%",
+    "uptimeDay": "55.68%",
+    "uptimeWeek": "89.97%",
     "uptimeMonth": "97.62%",
     "uptimeYear": "99.22%",
     "time": 1028,
@@ -194,7 +194,7 @@
     "timeMonth": 1906,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-12-29": 236,
+      "2022-12-29": 237,
       "2022-12-28": 600,
       "2022-12-27": 173,
       "2022-12-17": 33,
@@ -213,8 +213,7 @@
       "2022-10-28": 204,
       "2022-10-27": 338,
       "2022-10-26": 111,
-      "2022-10-24": 145,
-      "2022-10-23": 16
+      "2022-10-24": 145
     }
   },
   {
