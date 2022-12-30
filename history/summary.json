@@ -6,7 +6,7 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "36.42%",
+    "uptimeDay": "36.71%",
     "uptimeWeek": "78.03%",
     "uptimeMonth": "94.95%",
     "uptimeYear": "99.26%",
@@ -34,19 +34,19 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "48.46%",
-    "uptimeWeek": "83.73%",
-    "uptimeMonth": "96.26%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "48.42%",
+    "uptimeWeek": "83.70%",
+    "uptimeMonth": "96.25%",
+    "uptimeYear": "99.29%",
     "time": 4443,
     "timeDay": 5646,
     "timeWeek": 3960,
     "timeMonth": 2853,
     "timeYear": 4443,
     "dailyMinutesDown": {
-      "2022-12-30": 179,
+      "2022-12-30": 182,
       "2022-12-29": 792,
       "2022-12-28": 498,
       "2022-12-27": 169,
@@ -57,8 +57,7 @@
       "2022-11-05": 367,
       "2022-11-04": 283,
       "2022-11-03": 327,
-      "2022-11-02": 136,
-      "2022-11-01": 49
+      "2022-11-02": 136
     }
   },
   {
@@ -67,18 +66,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "51.89%",
-    "uptimeWeek": "84.03%",
-    "uptimeMonth": "96.33%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.31%",
+    "uptimeDay": "52.67%",
+    "uptimeWeek": "84.13%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "99.31%",
     "time": 1039,
     "timeDay": 3993,
     "timeWeek": 4506,
     "timeMonth": 3206,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2022-12-30": 230,
+      "2022-12-30": 220,
       "2022-12-29": 700,
       "2022-12-28": 525,
       "2022-12-27": 157,
@@ -91,7 +90,7 @@
       "2022-11-03": 172,
       "2022-11-02": 119,
       "2022-11-01": 194,
-      "2022-10-31": 113
+      "2022-10-31": 141
     }
   },
   {
@@ -101,9 +100,9 @@
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "67.62%",
-    "uptimeWeek": "87.63%",
-    "uptimeMonth": "97.11%",
+    "uptimeDay": "68.21%",
+    "uptimeWeek": "87.71%",
+    "uptimeMonth": "97.13%",
     "uptimeYear": "99.22%",
     "time": 3554,
     "timeDay": 5639,
@@ -111,7 +110,7 @@
     "timeMonth": 4297,
     "timeYear": 3554,
     "dailyMinutesDown": {
-      "2022-12-30": 124,
+      "2022-12-30": 116,
       "2022-12-29": 568,
       "2022-12-28": 384,
       "2022-12-27": 173,
@@ -126,7 +125,7 @@
       "2022-11-02": 140,
       "2022-11-01": 264,
       "2022-10-31": 187,
-      "2022-10-30": 33
+      "2022-10-30": 49
     }
   },
   {
@@ -168,11 +167,11 @@
     "url": "https://kusama.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "65.04%",
-    "uptimeWeek": "85.24%",
-    "uptimeMonth": "96.53%",
+    "uptimeDay": "64.93%",
+    "uptimeWeek": "85.22%",
+    "uptimeMonth": "96.52%",
     "uptimeYear": "99.24%",
     "time": 1031,
     "timeDay": 1253,
@@ -180,7 +179,7 @@
     "timeMonth": 1762,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2022-12-30": 202,
+      "2022-12-30": 204,
       "2022-12-29": 510,
       "2022-12-28": 600,
       "2022-12-27": 173,
@@ -198,7 +197,7 @@
       "2022-10-30": 325,
       "2022-10-29": 26,
       "2022-10-28": 204,
-      "2022-10-27": 32
+      "2022-10-27": 17
     }
   },
   {
