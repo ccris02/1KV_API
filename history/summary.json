@@ -4,11 +4,11 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "90.85%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "90.87%",
     "uptimeYear": "99.22%",
     "time": 2583,
     "timeDay": 2784,
@@ -16,7 +16,7 @@
     "timeMonth": 4779,
     "timeYear": 2583,
     "dailyMinutesDown": {
-      "2023-01-23": 7,
+      "2023-01-23": 1,
       "2023-01-22": 34,
       "2023-01-13": 25,
       "2023-01-10": 435,
@@ -34,9 +34,9 @@
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "93.48%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "90.94%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "90.89%",
     "uptimeYear": "99.22%",
     "time": 4372,
     "timeDay": 7572,
@@ -44,7 +44,6 @@
     "timeMonth": 3552,
     "timeYear": 4372,
     "dailyMinutesDown": {
-      "2023-01-23": 5,
       "2023-01-22": 88,
       "2023-01-10": 310,
       "2023-01-09": 618,
@@ -52,7 +51,7 @@
       "2023-01-07": 658,
       "2023-01-06": 659,
       "2023-01-05": 829,
-      "2023-01-04": 221
+      "2023-01-04": 247
     }
   },
   {
@@ -88,18 +87,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "90.73%",
+    "uptimeYear": "99.20%",
     "time": 3600,
     "timeDay": 4462,
     "timeWeek": 2478,
     "timeMonth": 4462,
     "timeYear": 3600,
     "dailyMinutesDown": {
-      "2023-01-23": 4,
       "2023-01-13": 21,
       "2023-01-10": 257,
       "2023-01-09": 598,
@@ -109,7 +107,7 @@
       "2023-01-05": 439,
       "2023-01-04": 511,
       "2023-01-03": 674,
-      "2023-01-02": 150
+      "2023-01-02": 208
     }
   },
   {
@@ -180,7 +178,7 @@
     "uptimeYear": "99.11%",
     "time": 2127,
     "timeDay": 541,
-    "timeWeek": 835,
+    "timeWeek": 838,
     "timeMonth": 925,
     "timeYear": 2127,
     "dailyMinutesDown": {
