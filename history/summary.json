@@ -13,7 +13,7 @@
     "time": 2594,
     "timeDay": 13165,
     "timeWeek": 4089,
-    "timeMonth": 4805,
+    "timeMonth": 4816,
     "timeYear": 2594,
     "dailyMinutesDown": {
       "2023-01-23": 29,
@@ -41,7 +41,7 @@
     "time": 4365,
     "timeDay": 315,
     "timeWeek": 3164,
-    "timeMonth": 3620,
+    "timeMonth": 3630,
     "timeYear": 4365,
     "dailyMinutesDown": {
       "2023-01-23": 28,
@@ -69,7 +69,7 @@
     "time": 1162,
     "timeDay": 273,
     "timeWeek": 467,
-    "timeMonth": 3158,
+    "timeMonth": 3167,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2023-01-23": 21,
@@ -97,7 +97,7 @@
     "time": 3596,
     "timeDay": 993,
     "timeWeek": 2956,
-    "timeMonth": 4446,
+    "timeMonth": 4455,
     "timeYear": 3596,
     "dailyMinutesDown": {
       "2023-01-25": 46,
@@ -128,7 +128,7 @@
     "time": 1151,
     "timeDay": 144,
     "timeWeek": 213,
-    "timeMonth": 2673,
+    "timeMonth": 2680,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2023-01-25": 45,
@@ -158,7 +158,7 @@
     "time": 1100,
     "timeDay": 152,
     "timeWeek": 184,
-    "timeMonth": 1940,
+    "timeMonth": 1945,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2023-01-25": 43,
@@ -178,11 +178,11 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "96.64%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "99.13%",
     "time": 2114,
     "timeDay": 628,
@@ -190,7 +190,7 @@
     "timeMonth": 830,
     "timeYear": 2114,
     "dailyMinutesDown": {
-      "2023-01-28": 8,
+      "2023-01-28": 2,
       "2023-01-23": 19,
       "2023-01-17": 154,
       "2023-01-16": 19,
