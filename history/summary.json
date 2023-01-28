@@ -11,7 +11,7 @@
     "uptimeMonth": "90.80%",
     "uptimeYear": "99.22%",
     "time": 2594,
-    "timeDay": 9528,
+    "timeDay": 13165,
     "timeWeek": 4089,
     "timeMonth": 4832,
     "timeYear": 2594,
@@ -39,9 +39,9 @@
     "uptimeMonth": "90.89%",
     "uptimeYear": "99.23%",
     "time": 4365,
-    "timeDay": 2790,
+    "timeDay": 315,
     "timeWeek": 3164,
-    "timeMonth": 3609,
+    "timeMonth": 3616,
     "timeYear": 4365,
     "dailyMinutesDown": {
       "2023-01-23": 28,
@@ -67,9 +67,9 @@
     "uptimeMonth": "91.02%",
     "uptimeYear": "99.24%",
     "time": 1162,
-    "timeDay": 240,
+    "timeDay": 273,
     "timeWeek": 467,
-    "timeMonth": 3198,
+    "timeMonth": 3222,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2023-01-23": 21,
@@ -95,9 +95,9 @@
     "uptimeMonth": "90.76%",
     "uptimeYear": "99.22%",
     "time": 3596,
-    "timeDay": 762,
+    "timeDay": 993,
     "timeWeek": 2868,
-    "timeMonth": 4454,
+    "timeMonth": 4464,
     "timeYear": 3596,
     "dailyMinutesDown": {
       "2023-01-25": 46,
@@ -126,9 +126,9 @@
     "uptimeMonth": "89.74%",
     "uptimeYear": "99.13%",
     "time": 1151,
-    "timeDay": 150,
+    "timeDay": 144,
     "timeWeek": 213,
-    "timeMonth": 2641,
+    "timeMonth": 2655,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2023-01-25": 45,
@@ -156,7 +156,7 @@
     "uptimeMonth": "90.67%",
     "uptimeYear": "99.21%",
     "time": 1100,
-    "timeDay": 153,
+    "timeDay": 152,
     "timeWeek": 184,
     "timeMonth": 2015,
     "timeYear": 1100,
@@ -180,9 +180,9 @@
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "96.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "99.13%",
     "time": 2115,
     "timeDay": 638,
@@ -190,7 +190,6 @@
     "timeMonth": 942,
     "timeYear": 2115,
     "dailyMinutesDown": {
-      "2023-01-28": 4,
       "2023-01-23": 19,
       "2023-01-17": 154,
       "2023-01-16": 19,
@@ -220,7 +219,7 @@
       "2022-10-21": 170,
       "2022-10-20": 48,
       "2022-10-19": 285,
-      "2022-10-18": 91
+      "2022-10-18": 132
     }
   },
   {
@@ -321,10 +320,10 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "96.35%",
     "uptimeYear": "99.10%",
     "time": 1397,
@@ -333,6 +332,7 @@
     "timeMonth": 1057,
     "timeYear": 1397,
     "dailyMinutesDown": {
+      "2023-01-28": 3,
       "2023-01-25": 24,
       "2023-01-23": 17,
       "2023-01-17": 174,
@@ -362,8 +362,7 @@
       "2022-10-22": 51,
       "2022-10-21": 140,
       "2022-10-20": 80,
-      "2022-10-19": 230,
-      "2022-10-18": 25
+      "2022-10-19": 230
     }
   },
   {
