@@ -13,7 +13,7 @@
     "time": 2594,
     "timeDay": 1987,
     "timeWeek": 4149,
-    "timeMonth": 4564,
+    "timeMonth": 4557,
     "timeYear": 2594,
     "dailyMinutesDown": {
       "2023-01-23": 29,
@@ -41,7 +41,7 @@
     "time": 4364,
     "timeDay": 448,
     "timeWeek": 3185,
-    "timeMonth": 3546,
+    "timeMonth": 3556,
     "timeYear": 4364,
     "dailyMinutesDown": {
       "2023-01-23": 28,
@@ -69,7 +69,7 @@
     "time": 1162,
     "timeDay": 196,
     "timeWeek": 475,
-    "timeMonth": 2944,
+    "timeMonth": 2895,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2023-01-23": 21,
@@ -97,7 +97,7 @@
     "time": 3595,
     "timeDay": 1176,
     "timeWeek": 2897,
-    "timeMonth": 4160,
+    "timeMonth": 4169,
     "timeYear": 3595,
     "dailyMinutesDown": {
       "2023-01-25": 46,
@@ -128,7 +128,7 @@
     "time": 1150,
     "timeDay": 274,
     "timeWeek": 227,
-    "timeMonth": 2449,
+    "timeMonth": 2456,
     "timeYear": 1150,
     "dailyMinutesDown": {
       "2023-01-25": 45,
@@ -158,7 +158,7 @@
     "time": 1099,
     "timeDay": 232,
     "timeWeek": 193,
-    "timeMonth": 1862,
+    "timeMonth": 1863,
     "timeYear": 1099,
     "dailyMinutesDown": {
       "2023-01-25": 43,
@@ -320,11 +320,11 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "96.52%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "96.51%",
     "uptimeYear": "99.10%",
     "time": 1397,
     "timeDay": 1329,
@@ -332,6 +332,7 @@
     "timeMonth": 1072,
     "timeYear": 1397,
     "dailyMinutesDown": {
+      "2023-01-29": 3,
       "2023-01-25": 24,
       "2023-01-23": 17,
       "2023-01-17": 174,
@@ -361,8 +362,7 @@
       "2022-10-22": 51,
       "2022-10-21": 140,
       "2022-10-20": 80,
-      "2022-10-19": 230,
-      "2022-10-18": 25
+      "2022-10-19": 230
     }
   },
   {
