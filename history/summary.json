@@ -96,19 +96,19 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "79.86%",
-    "uptimeWeek": "95.26%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "81.13%",
+    "uptimeWeek": "95.24%",
     "uptimeMonth": "92.09%",
     "uptimeYear": "99.18%",
     "time": 3587,
     "timeDay": 2459,
     "timeWeek": 2378,
-    "timeMonth": 3147,
+    "timeMonth": 3156,
     "timeYear": 3587,
     "dailyMinutesDown": {
-      "2023-02-04": 148,
+      "2023-02-04": 150,
       "2023-02-03": 276,
       "2023-02-02": 54,
       "2023-01-25": 46,
@@ -121,7 +121,7 @@
       "2023-01-06": 473,
       "2023-01-05": 439,
       "2023-01-04": 511,
-      "2023-01-03": 599
+      "2023-01-03": 575
     }
   },
   {
@@ -138,7 +138,7 @@
     "time": 1158,
     "timeDay": 1849,
     "timeWeek": 2743,
-    "timeMonth": 1572,
+    "timeMonth": 1587,
     "timeYear": 1158,
     "dailyMinutesDown": {
       "2023-02-04": 138,
@@ -171,7 +171,7 @@
     "time": 1105,
     "timeDay": 4247,
     "timeWeek": 2086,
-    "timeMonth": 1377,
+    "timeMonth": 1390,
     "timeYear": 1105,
     "dailyMinutesDown": {
       "2023-02-04": 652,
@@ -202,7 +202,7 @@
     "time": 2102,
     "timeDay": 307,
     "timeWeek": 603,
-    "timeMonth": 823,
+    "timeMonth": 828,
     "timeYear": 2102,
     "dailyMinutesDown": {
       "2023-01-23": 19,
@@ -251,7 +251,7 @@
     "time": 748,
     "timeDay": 104,
     "timeWeek": 138,
-    "timeMonth": 691,
+    "timeMonth": 703,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2023-01-23": 18,
@@ -298,7 +298,7 @@
     "time": 453,
     "timeDay": 97,
     "timeWeek": 135,
-    "timeMonth": 276,
+    "timeMonth": 279,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2023-01-23": 17,
@@ -344,7 +344,7 @@
     "time": 1395,
     "timeDay": 800,
     "timeWeek": 934,
-    "timeMonth": 1079,
+    "timeMonth": 1089,
     "timeYear": 1395,
     "dailyMinutesDown": {
       "2023-01-25": 24,
@@ -394,7 +394,7 @@
     "time": 410,
     "timeDay": 97,
     "timeWeek": 132,
-    "timeMonth": 171,
+    "timeMonth": 173,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2023-01-25": 23,
@@ -444,7 +444,7 @@
     "time": 439,
     "timeDay": 101,
     "timeWeek": 139,
-    "timeMonth": 176,
+    "timeMonth": 177,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2023-01-25": 21,
