@@ -4,18 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "98.61%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "82.55%",
     "uptimeMonth": "94.70%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 2661,
     "timeDay": 3465,
     "timeWeek": 5028,
     "timeMonth": 3937,
     "timeYear": 2661,
     "dailyMinutesDown": {
+      "2023-02-12": 1,
       "2023-02-11": 20,
       "2023-02-09": 174,
       "2023-02-08": 431,
@@ -30,7 +31,7 @@
       "2023-01-13": 25,
       "2023-01-10": 435,
       "2023-01-09": 696,
-      "2023-01-08": 551
+      "2023-01-08": 482
     }
   },
   {
@@ -106,9 +107,9 @@
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "84.70%",
-    "uptimeMonth": "94.92%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "84.76%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "99.19%",
     "time": 3588,
     "timeDay": 5538,
@@ -116,7 +117,7 @@
     "timeMonth": 3039,
     "timeYear": 3588,
     "dailyMinutesDown": {
-      "2023-02-12": 24,
+      "2023-02-12": 18,
       "2023-02-09": 156,
       "2023-02-08": 269,
       "2023-02-07": 701,
@@ -132,7 +133,7 @@
       "2023-01-09": 598,
       "2023-01-08": 482,
       "2023-01-07": 409,
-      "2023-01-06": 290
+      "2023-01-06": 326
     }
   },
   {
@@ -178,8 +179,8 @@
     "status": "up",
     "uptime": "98.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.78%",
-    "uptimeMonth": "84.04%",
+    "uptimeWeek": "42.66%",
+    "uptimeMonth": "84.01%",
     "uptimeYear": "98.25%",
     "time": 1135,
     "timeDay": 183,
@@ -187,7 +188,7 @@
     "timeMonth": 2270,
     "timeYear": 1135,
     "dailyMinutesDown": {
-      "2023-02-12": 670,
+      "2023-02-12": 681,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 469,
