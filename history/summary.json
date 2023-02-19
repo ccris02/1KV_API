@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "87.15%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "92.44%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.27%",
     "time": 2719,
     "timeDay": 3388,
@@ -16,7 +16,7 @@
     "timeMonth": 4220,
     "timeYear": 2752,
     "dailyMinutesDown": {
-      "2023-02-19": 185,
+      "2023-02-19": 172,
       "2023-02-18": 225,
       "2023-02-17": 87,
       "2023-02-16": 203,
@@ -36,7 +36,7 @@
       "2023-01-22": 34,
       "2023-01-13": 25,
       "2023-01-10": 435,
-      "2023-01-09": 61
+      "2023-01-09": 79
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "down",
+    "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "93.97%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "93.99%",
     "uptimeMonth": "93.60%",
-    "uptimeYear": "99.20%",
-    "time": 3565,
-    "timeDay": 2321,
-    "timeWeek": 2710,
-    "timeMonth": 2970,
-    "timeYear": 3569,
+    "uptimeYear": "99.19%",
+    "time": 3564,
+    "timeDay": 2232,
+    "timeWeek": 2690,
+    "timeMonth": 2962,
+    "timeYear": 3568,
     "dailyMinutesDown": {
-      "2023-02-19": 36,
+      "2023-02-19": 34,
       "2023-02-18": 76,
       "2023-02-17": 107,
       "2023-02-16": 158,
@@ -156,7 +156,7 @@
       "2023-01-10": 257,
       "2023-01-09": 598,
       "2023-01-08": 482,
-      "2023-01-07": 73
+      "2023-01-07": 93
     }
   },
   {
@@ -206,8 +206,8 @@
     "slug": "kusama-w3f-community-locationstats",
     "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "25.35%",
-    "uptimeWeek": "63.08%",
+    "uptimeDay": "26.05%",
+    "uptimeWeek": "63.18%",
     "uptimeMonth": "73.87%",
     "uptimeYear": "97.47%",
     "time": 1157,
