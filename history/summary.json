@@ -5,10 +5,10 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "83.03%",
-    "uptimeWeek": "89.43%",
-    "uptimeMonth": "92.26%",
+    "uptime": "99.30%",
+    "uptimeDay": "83.96%",
+    "uptimeWeek": "89.57%",
+    "uptimeMonth": "92.29%",
     "uptimeYear": "99.27%",
     "time": 2736,
     "timeDay": 4302,
@@ -16,7 +16,7 @@
     "timeMonth": 4269,
     "timeYear": 2762,
     "dailyMinutesDown": {
-      "2023-02-20": 91,
+      "2023-02-20": 78,
       "2023-02-19": 172,
       "2023-02-18": 225,
       "2023-02-17": 87,
@@ -36,7 +36,8 @@
       "2023-01-23": 29,
       "2023-01-22": 34,
       "2023-01-13": 25,
-      "2023-01-10": 400
+      "2023-01-10": 435,
+      "2023-01-09": 22
     }
   },
   {
@@ -124,19 +125,19 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "99.19%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "99.20%",
     "time": 3561,
     "timeDay": 2217,
     "timeWeek": 2442,
     "timeMonth": 2922,
     "timeYear": 3566,
     "dailyMinutesDown": {
-      "2023-02-20": 50,
+      "2023-02-20": 51,
       "2023-02-19": 34,
       "2023-02-18": 76,
       "2023-02-17": 107,
@@ -159,7 +160,7 @@
       "2023-01-10": 257,
       "2023-01-09": 598,
       "2023-01-08": 482,
-      "2023-01-07": 53
+      "2023-01-07": 13
     }
   },
   {
@@ -209,8 +210,8 @@
     "slug": "kusama-w3f-community-locationstats",
     "status": "up",
     "uptime": "97.56%",
-    "uptimeDay": "63.01%",
-    "uptimeWeek": "68.46%",
+    "uptimeDay": "63.43%",
+    "uptimeWeek": "68.52%",
     "uptimeMonth": "73.53%",
     "uptimeYear": "97.45%",
     "time": 1156,
