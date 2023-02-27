@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "91.68%",
-    "uptimeWeek": "79.30%",
-    "uptimeMonth": "90.30%",
+    "uptimeDay": "92.51%",
+    "uptimeWeek": "79.42%",
+    "uptimeMonth": "90.29%",
     "uptimeYear": "99.19%",
     "time": 2834,
     "timeDay": 5938,
@@ -16,7 +16,7 @@
     "timeMonth": 4584,
     "timeYear": 2876,
     "dailyMinutesDown": {
-      "2023-02-26": 119,
+      "2023-02-26": 107,
       "2023-02-25": 194,
       "2023-02-24": 255,
       "2023-02-23": 273,
@@ -33,7 +33,7 @@
       "2023-02-11": 20,
       "2023-02-09": 174,
       "2023-02-08": 431,
-      "2023-02-07": 530
+      "2023-02-07": 549
     }
   },
   {
@@ -82,7 +82,7 @@
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "92.99%",
+    "uptimeDay": "94.91%",
     "uptimeWeek": "69.20%",
     "uptimeMonth": "84.21%",
     "uptimeYear": "98.57%",
