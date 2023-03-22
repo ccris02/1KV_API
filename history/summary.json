@@ -13,7 +13,7 @@
     "time": 2866,
     "timeDay": 3252,
     "timeWeek": 1797,
-    "timeMonth": 3476,
+    "timeMonth": 3423,
     "timeYear": 2933,
     "dailyMinutesDown": {
       "2023-03-22": 126,
@@ -107,7 +107,7 @@
     "uptime": "98.20%",
     "uptimeDay": "87.61%",
     "uptimeWeek": "95.85%",
-    "uptimeMonth": "86.21%",
+    "uptimeMonth": "86.26%",
     "uptimeYear": "97.96%",
     "time": 1354,
     "timeDay": 631,
@@ -313,11 +313,11 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "20.50%",
-    "uptimeWeek": "20.34%",
-    "uptimeMonth": "77.46%",
+    "uptimeDay": "21.42%",
+    "uptimeWeek": "20.33%",
+    "uptimeMonth": "77.47%",
     "uptimeYear": "98.12%",
     "time": 2275,
     "timeDay": 2372,
@@ -325,7 +325,7 @@
     "timeMonth": 3100,
     "timeYear": 2312,
     "dailyMinutesDown": {
-      "2023-03-22": 721,
+      "2023-03-22": 731,
       "2023-03-21": 1107,
       "2023-03-20": 1088,
       "2023-03-19": 1111,
@@ -337,7 +337,7 @@
       "2023-03-13": 287,
       "2023-03-12": 202,
       "2023-03-11": 250,
-      "2023-03-10": 121
+      "2023-03-10": 105
     }
   },
   {
@@ -345,19 +345,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "19.92%",
-    "uptimeWeek": "21.26%",
-    "uptimeMonth": "77.70%",
-    "uptimeYear": "98.14%",
+    "status": "down",
+    "uptime": "98.37%",
+    "uptimeDay": "20.93%",
+    "uptimeWeek": "21.25%",
+    "uptimeMonth": "77.91%",
+    "uptimeYear": "98.16%",
     "time": 995,
     "timeDay": 1351,
     "timeWeek": 2534,
     "timeMonth": 1955,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2023-03-22": 733,
+      "2023-03-22": 741,
       "2023-03-21": 1098,
       "2023-03-20": 1060,
       "2023-03-19": 1096,
@@ -369,7 +369,7 @@
       "2023-03-13": 276,
       "2023-03-12": 140,
       "2023-03-11": 223,
-      "2023-03-10": 245
+      "2023-03-10": 147
     }
   },
   {
@@ -377,19 +377,19 @@
     "url": "https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "20.41%",
-    "uptimeWeek": "21.82%",
-    "uptimeMonth": "77.60%",
-    "uptimeYear": "98.13%",
+    "uptimeDay": "21.52%",
+    "uptimeWeek": "21.75%",
+    "uptimeMonth": "77.65%",
+    "uptimeYear": "98.14%",
     "time": 784,
     "timeDay": 3999,
     "timeWeek": 3329,
     "timeMonth": 2025,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2023-03-22": 720,
+      "2023-03-22": 727,
       "2023-03-21": 1110,
       "2023-03-20": 1050,
       "2023-03-19": 1090,
@@ -404,7 +404,7 @@
       "2023-03-10": 188,
       "2023-03-09": 139,
       "2023-03-08": 249,
-      "2023-03-07": 54
+      "2023-03-07": 22
     }
   },
   {
@@ -412,11 +412,11 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "23.58%",
-    "uptimeWeek": "24.16%",
-    "uptimeMonth": "78.21%",
+    "uptimeDay": "24.78%",
+    "uptimeWeek": "24.11%",
+    "uptimeMonth": "78.20%",
     "uptimeYear": "98.14%",
     "time": 1557,
     "timeDay": 2621,
@@ -424,7 +424,7 @@
     "timeMonth": 2212,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2023-03-22": 693,
+      "2023-03-22": 698,
       "2023-03-21": 1087,
       "2023-03-20": 1053,
       "2023-03-19": 929,
@@ -444,7 +444,7 @@
       "2023-01-25": 24,
       "2023-01-23": 17,
       "2023-01-17": 174,
-      "2023-01-16": 38
+      "2023-01-16": 18
     }
   },
   {
@@ -452,19 +452,19 @@
     "url": "https://polkadot.w3f.community/erastats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erastats",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "24.17%",
-    "uptimeWeek": "23.18%",
-    "uptimeMonth": "76.35%",
-    "uptimeYear": "97.99%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "25.46%",
+    "uptimeWeek": "23.14%",
+    "uptimeMonth": "76.34%",
+    "uptimeYear": "98.00%",
     "time": 620,
     "timeDay": 4743,
     "timeWeek": 3555,
     "timeMonth": 1576,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2023-03-22": 688,
+      "2023-03-22": 692,
       "2023-03-21": 1065,
       "2023-03-20": 1042,
       "2023-03-19": 1091,
@@ -483,7 +483,7 @@
       "2023-02-28": 33,
       "2023-01-25": 23,
       "2023-01-23": 16,
-      "2023-01-17": 152
+      "2023-01-17": 116
     }
   },
   {
@@ -491,19 +491,19 @@
     "url": "https://polkadot.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-locationstats",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "24.23%",
-    "uptimeWeek": "23.68%",
+    "status": "down",
+    "uptime": "98.16%",
+    "uptimeDay": "25.62%",
+    "uptimeWeek": "23.65%",
     "uptimeMonth": "75.28%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 483,
     "timeDay": 465,
-    "timeWeek": 2070,
+    "timeWeek": 2041,
     "timeMonth": 737,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-03-22": 690,
+      "2023-03-22": 693,
       "2023-03-21": 1056,
       "2023-03-20": 1032,
       "2023-03-19": 1081,
@@ -521,7 +521,7 @@
       "2023-03-07": 432,
       "2023-02-28": 33,
       "2023-01-25": 21,
-      "2023-01-17": 123
+      "2023-01-17": 88
     }
   },
   {
