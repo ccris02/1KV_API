@@ -17,15 +17,15 @@ on:
 jobs:
   release:
     name: Check status
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.3
+        uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
       - name: Update response time
-        uses: upptime/uptime-monitor@v1.26.4
+        uses: upptime/uptime-monitor@v1.29.0
         with:
           command: "response-time"
         env:
