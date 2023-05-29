@@ -1,7 +1,7 @@
 url: https://kusama.w3f.community/locationstats
-status: down
-code: 503
-responseTime: 153
-lastUpdated: 2023-05-29T14:31:42.764Z
+status: up
+code: 200
+responseTime: 94
+lastUpdated: 2023-05-29T14:38:13.175Z
 startTime: Wed Feb 02 2022 21:59:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
