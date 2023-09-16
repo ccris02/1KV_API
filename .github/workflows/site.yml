@@ -17,7 +17,7 @@ on:
 jobs:
   release:
     name: Build and deploy site
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
@@ -26,7 +26,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
       - name: Generate site
-        uses: upptime/uptime-monitor@v1.29.0
+        uses: upptime/uptime-monitor@v1.31.2
         with:
           command: "site"
         env:
