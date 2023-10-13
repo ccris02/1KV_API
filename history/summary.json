@@ -4,18 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 2887,
-    "timeDay": 357,
-    "timeWeek": 1038,
-    "timeMonth": 723,
-    "timeYear": 2953,
+    "timeDay": 516,
+    "timeWeek": 1008,
+    "timeMonth": 722,
+    "timeYear": 2951,
     "dailyMinutesDown": {
+      "2023-10-13": 2,
       "2023-06-14": 29,
       "2023-05-30": 181,
       "2023-05-29": 310,
@@ -26,7 +27,7 @@
       "2023-05-24": 89,
       "2023-05-23": 981,
       "2023-05-22": 1303,
-      "2023-05-21": 556
+      "2023-05-21": 513
     }
   },
   {
@@ -35,7 +36,7 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -44,7 +45,7 @@
     "timeDay": 128,
     "timeWeek": 139,
     "timeMonth": 1087,
-    "timeYear": 2868,
+    "timeYear": 2844,
     "dailyMinutesDown": {
       "2023-06-14": 29,
       "2023-05-30": 216,
@@ -74,7 +75,7 @@
     "timeDay": 115,
     "timeWeek": 142,
     "timeMonth": 394,
-    "timeYear": 1652,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2023-06-14": 29,
       "2023-05-30": 216,
@@ -104,7 +105,7 @@
     "timeDay": 792,
     "timeWeek": 782,
     "timeMonth": 1003,
-    "timeYear": 2794,
+    "timeYear": 2802,
     "dailyMinutesDown": {
       "2023-06-14": 29,
       "2023-05-30": 216,
@@ -134,7 +135,7 @@
     "timeDay": 112,
     "timeWeek": 195,
     "timeMonth": 201,
-    "timeYear": 1722,
+    "timeYear": 1729,
     "dailyMinutesDown": {
       "2023-06-14": 29,
       "2023-05-30": 222,
@@ -164,7 +165,7 @@
     "timeDay": 153,
     "timeWeek": 207,
     "timeMonth": 229,
-    "timeYear": 1387,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2023-06-14": 29,
       "2023-05-30": 222,
@@ -195,7 +196,7 @@
     "timeDay": 529,
     "timeWeek": 621,
     "timeMonth": 665,
-    "timeYear": 1834,
+    "timeYear": 1838,
     "dailyMinutesDown": {
       "2023-05-23": 836,
       "2023-05-22": 1316,
@@ -219,7 +220,7 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -228,7 +229,7 @@
     "timeDay": 98,
     "timeWeek": 133,
     "timeMonth": 210,
-    "timeYear": 1106,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2023-05-23": 836,
       "2023-05-22": 1317,
@@ -262,7 +263,7 @@
     "timeDay": 100,
     "timeWeek": 138,
     "timeMonth": 175,
-    "timeYear": 1078,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2023-05-29": 27,
       "2023-05-23": 842,
@@ -297,7 +298,7 @@
     "timeDay": 631,
     "timeWeek": 815,
     "timeMonth": 954,
-    "timeYear": 1688,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2023-05-29": 27,
       "2023-05-23": 852,
@@ -369,7 +370,7 @@
     "timeDay": 106,
     "timeWeek": 130,
     "timeMonth": 181,
-    "timeYear": 593,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2023-05-29": 28,
       "2023-05-23": 881,
