@@ -402,19 +402,19 @@
     "url": "https://google.com",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google.png",
     "slug": "test-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 251,
-    "timeWeek": 281,
-    "timeMonth": 246,
+    "timeDay": 231,
+    "timeWeek": 273,
+    "timeMonth": 245,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-10-16": 3
+      "2023-10-16": 14
     }
   }
 ]
