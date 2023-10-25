@@ -5,14 +5,14 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.04%",
     "time": 2915,
     "timeDay": 496,
-    "timeWeek": 864,
+    "timeWeek": 1023,
     "timeMonth": 761,
     "timeYear": 2937,
     "dailyMinutesDown": {
@@ -43,7 +43,7 @@
     "uptimeYear": "99.03%",
     "time": 2790,
     "timeDay": 1020,
-    "timeWeek": 187,
+    "timeWeek": 214,
     "timeMonth": 898,
     "timeYear": 2529,
     "dailyMinutesDown": {
@@ -74,7 +74,7 @@
     "uptimeYear": "99.03%",
     "time": 1652,
     "timeDay": 854,
-    "timeWeek": 191,
+    "timeWeek": 208,
     "timeMonth": 389,
     "timeYear": 1712,
     "dailyMinutesDown": {
@@ -105,7 +105,7 @@
     "uptimeYear": "99.02%",
     "time": 2788,
     "timeDay": 1040,
-    "timeWeek": 789,
+    "timeWeek": 824,
     "timeMonth": 1014,
     "timeYear": 2783,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "98.98%",
     "time": 1710,
     "timeDay": 650,
-    "timeWeek": 168,
+    "timeWeek": 180,
     "timeMonth": 194,
     "timeYear": 1776,
     "dailyMinutesDown": {
@@ -201,7 +201,7 @@
     "timeDay": 457,
     "timeWeek": 755,
     "timeMonth": 734,
-    "timeYear": 1891,
+    "timeYear": 1895,
     "dailyMinutesDown": {
       "2023-05-23": 836,
       "2023-05-22": 1316,
@@ -234,7 +234,7 @@
     "timeDay": 134,
     "timeWeek": 118,
     "timeMonth": 150,
-    "timeYear": 1172,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2023-05-23": 836,
       "2023-05-22": 1317,
@@ -268,7 +268,7 @@
     "timeDay": 137,
     "timeWeek": 126,
     "timeMonth": 170,
-    "timeYear": 1164,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2023-05-29": 27,
       "2023-05-23": 842,
@@ -303,7 +303,7 @@
     "timeDay": 850,
     "timeWeek": 649,
     "timeMonth": 906,
-    "timeYear": 1730,
+    "timeYear": 1736,
     "dailyMinutesDown": {
       "2023-05-29": 27,
       "2023-05-23": 852,
@@ -339,7 +339,7 @@
     "timeDay": 134,
     "timeWeek": 122,
     "timeMonth": 196,
-    "timeYear": 906,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2023-05-29": 28,
       "2023-05-23": 852,
@@ -375,7 +375,7 @@
     "timeDay": 136,
     "timeWeek": 124,
     "timeMonth": 157,
-    "timeYear": 628,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2023-05-29": 28,
       "2023-05-23": 881,
@@ -402,17 +402,19 @@
     "url": "https://google.com",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google.png",
     "slug": "test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 171,
-    "timeWeek": 223,
-    "timeMonth": 245,
-    "timeYear": 181,
-    "dailyMinutesDown": {}
+    "time": 182,
+    "timeDay": 327,
+    "timeWeek": 249,
+    "timeMonth": 251,
+    "timeYear": 183,
+    "dailyMinutesDown": {
+      "2023-10-25": 3
+    }
   }
 ]
