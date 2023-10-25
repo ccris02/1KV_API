@@ -201,7 +201,7 @@
     "timeDay": 457,
     "timeWeek": 755,
     "timeMonth": 734,
-    "timeYear": 1895,
+    "timeYear": 1896,
     "dailyMinutesDown": {
       "2023-05-23": 836,
       "2023-05-22": 1316,
@@ -268,7 +268,7 @@
     "timeDay": 137,
     "timeWeek": 126,
     "timeMonth": 170,
-    "timeYear": 1171,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2023-05-29": 27,
       "2023-05-23": 842,
@@ -303,7 +303,7 @@
     "timeDay": 850,
     "timeWeek": 649,
     "timeMonth": 906,
-    "timeYear": 1736,
+    "timeYear": 1737,
     "dailyMinutesDown": {
       "2023-05-29": 27,
       "2023-05-23": 852,
@@ -375,7 +375,7 @@
     "timeDay": 136,
     "timeWeek": 124,
     "timeMonth": 157,
-    "timeYear": 633,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2023-05-29": 28,
       "2023-05-23": 881,
@@ -402,19 +402,19 @@
     "url": "https://google.com",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google.png",
     "slug": "test-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 327,
-    "timeWeek": 249,
-    "timeMonth": 251,
-    "timeYear": 183,
+    "time": 183,
+    "timeDay": 456,
+    "timeWeek": 292,
+    "timeMonth": 263,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2023-10-25": 3
+      "2023-10-25": 7
     }
   }
 ]
