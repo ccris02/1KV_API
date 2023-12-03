@@ -4,18 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.11%",
-    "time": 2691,
-    "timeDay": 472,
-    "timeWeek": 612,
-    "timeMonth": 1314,
-    "timeYear": 2546,
+    "uptimeYear": "99.12%",
+    "time": 2682,
+    "timeDay": 400,
+    "timeWeek": 599,
+    "timeMonth": 1300,
+    "timeYear": 2545,
     "dailyMinutesDown": {
+      "2023-12-03": 2,
       "2023-12-01": 23,
       "2023-11-22": 22,
       "2023-11-16": 23,
@@ -30,7 +31,7 @@
       "2023-05-24": 89,
       "2023-05-23": 981,
       "2023-05-22": 1303,
-      "2023-05-21": 67
+      "2023-05-21": 50
     }
   },
   {
