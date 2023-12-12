@@ -12,7 +12,7 @@
     "uptimeYear": "99.14%",
     "time": 2650,
     "timeDay": 574,
-    "timeWeek": 2322,
+    "timeWeek": 2531,
     "timeMonth": 1608,
     "timeYear": 2557,
     "dailyMinutesDown": {
@@ -47,7 +47,7 @@
     "uptimeYear": "99.09%",
     "time": 1851,
     "timeDay": 101,
-    "timeWeek": 149,
+    "timeWeek": 151,
     "timeMonth": 210,
     "timeYear": 1617,
     "dailyMinutesDown": {
@@ -81,7 +81,7 @@
     "uptimeYear": "98.77%",
     "time": 1499,
     "timeDay": 100,
-    "timeWeek": 162,
+    "timeWeek": 164,
     "timeMonth": 144,
     "timeYear": 1384,
     "dailyMinutesDown": {
@@ -117,7 +117,7 @@
     "uptimeYear": "99.05%",
     "time": 2035,
     "timeDay": 996,
-    "timeWeek": 1268,
+    "timeWeek": 852,
     "timeMonth": 944,
     "timeYear": 1981,
     "dailyMinutesDown": {
@@ -151,7 +151,7 @@
     "uptimeYear": "99.00%",
     "time": 1430,
     "timeDay": 99,
-    "timeWeek": 172,
+    "timeWeek": 179,
     "timeMonth": 152,
     "timeYear": 1369,
     "dailyMinutesDown": {
@@ -185,7 +185,7 @@
     "uptimeYear": "98.95%",
     "time": 1206,
     "timeDay": 117,
-    "timeWeek": 140,
+    "timeWeek": 139,
     "timeMonth": 184,
     "timeYear": 1076,
     "dailyMinutesDown": {
@@ -423,17 +423,19 @@
     "url": "https://google.com",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/google.png",
     "slug": "test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 101,
-    "timeWeek": 124,
-    "timeMonth": 128,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "timeDay": 257,
+    "timeWeek": 160,
+    "timeMonth": 137,
+    "timeYear": 172,
+    "dailyMinutesDown": {
+      "2023-12-12": 2
+    }
   }
 ]
