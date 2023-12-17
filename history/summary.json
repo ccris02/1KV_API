@@ -4,18 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.79%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.10%",
-    "time": 2617,
+    "time": 2615,
     "timeDay": 1020,
-    "timeWeek": 921,
+    "timeWeek": 802,
     "timeMonth": 1546,
     "timeYear": 2546,
     "dailyMinutesDown": {
+      "2023-12-17": 0,
       "2023-12-13": 32,
       "2023-12-12": 292,
       "2023-12-08": 27,
@@ -33,7 +34,7 @@
       "2023-05-25": 415,
       "2023-05-24": 89,
       "2023-05-23": 981,
-      "2023-05-22": 1089
+      "2023-05-22": 1070
     }
   },
   {
@@ -49,7 +50,7 @@
     "uptimeYear": "99.08%",
     "time": 1801,
     "timeDay": 303,
-    "timeWeek": 188,
+    "timeWeek": 180,
     "timeMonth": 214,
     "timeYear": 1609,
     "dailyMinutesDown": {
@@ -85,7 +86,7 @@
     "uptimeYear": "98.75%",
     "time": 1440,
     "timeDay": 112,
-    "timeWeek": 174,
+    "timeWeek": 159,
     "timeMonth": 147,
     "timeYear": 1379,
     "dailyMinutesDown": {
@@ -123,7 +124,7 @@
     "uptimeYear": "99.03%",
     "time": 2243,
     "timeDay": 2024,
-    "timeWeek": 880,
+    "timeWeek": 891,
     "timeMonth": 882,
     "timeYear": 1974,
     "dailyMinutesDown": {
@@ -159,9 +160,9 @@
     "uptimeYear": "98.96%",
     "time": 1406,
     "timeDay": 115,
-    "timeWeek": 258,
+    "timeWeek": 243,
     "timeMonth": 175,
-    "timeYear": 1365,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2023-12-13": 32,
       "2023-12-12": 292,
@@ -195,9 +196,9 @@
     "uptimeYear": "98.92%",
     "time": 1150,
     "timeDay": 113,
-    "timeWeek": 149,
+    "timeWeek": 145,
     "timeMonth": 179,
-    "timeYear": 1070,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2023-12-13": 32,
       "2023-12-12": 292,
@@ -233,7 +234,7 @@
     "timeDay": 1607,
     "timeWeek": 668,
     "timeMonth": 694,
-    "timeYear": 2040,
+    "timeYear": 2042,
     "dailyMinutesDown": {
       "2023-05-23": 836,
       "2023-05-22": 1316,
@@ -266,7 +267,7 @@
     "timeDay": 151,
     "timeWeek": 134,
     "timeMonth": 121,
-    "timeYear": 1300,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2023-05-23": 836,
       "2023-05-22": 1317,
@@ -300,7 +301,7 @@
     "timeDay": 351,
     "timeWeek": 198,
     "timeMonth": 390,
-    "timeYear": 1442,
+    "timeYear": 1445,
     "dailyMinutesDown": {
       "2023-05-29": 27,
       "2023-05-23": 842,
@@ -335,7 +336,7 @@
     "timeDay": 833,
     "timeWeek": 829,
     "timeMonth": 657,
-    "timeYear": 1749,
+    "timeYear": 1751,
     "dailyMinutesDown": {
       "2023-05-29": 27,
       "2023-05-23": 852,
@@ -371,7 +372,7 @@
     "timeDay": 1456,
     "timeWeek": 325,
     "timeMonth": 161,
-    "timeYear": 1130,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2023-05-29": 28,
       "2023-05-23": 852,
@@ -407,7 +408,7 @@
     "timeDay": 132,
     "timeWeek": 141,
     "timeMonth": 197,
-    "timeYear": 698,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2023-05-29": 28,
       "2023-05-23": 881,
