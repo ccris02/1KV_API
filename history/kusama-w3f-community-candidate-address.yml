@@ -1,7 +1,7 @@
 url: https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf
-status: up
-code: 200
-responseTime: 787
-lastUpdated: 2023-12-28T19:25:48.755Z
+status: down
+code: 502
+responseTime: 655
+lastUpdated: 2023-12-28T21:20:08.131Z
 startTime: 2022-02-02T21:59:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
