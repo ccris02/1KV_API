@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "97.25%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "99.31%",
     "time": 2475,
     "timeDay": 1626,
@@ -16,7 +16,7 @@
     "timeMonth": 1880,
     "timeYear": 2328,
     "dailyMinutesDown": {
-      "2023-12-29": 47,
+      "2023-12-29": 42,
       "2023-12-28": 22,
       "2023-12-26": 21,
       "2023-12-24": 29,
@@ -39,7 +39,7 @@
       "2023-05-26": 372,
       "2023-05-25": 415,
       "2023-05-24": 89,
-      "2023-05-23": 137
+      "2023-05-23": 156
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeDay": 695,
     "timeWeek": 672,
     "timeMonth": 973,
-    "timeYear": 1463,
+    "timeYear": 1464,
     "dailyMinutesDown": {
       "2023-12-29": 42,
       "2023-12-28": 22,
@@ -98,7 +98,7 @@
     "timeDay": 796,
     "timeWeek": 400,
     "timeMonth": 945,
-    "timeYear": 1193,
+    "timeYear": 1194,
     "dailyMinutesDown": {
       "2023-12-29": 42,
       "2023-12-28": 22,
@@ -134,17 +134,17 @@
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.22%",
     "time": 1875,
     "timeDay": 1410,
     "timeWeek": 818,
     "timeMonth": 1086,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2023-12-29": 45,
+      "2023-12-29": 42,
       "2023-12-28": 22,
       "2023-12-26": 21,
       "2023-12-24": 29,
@@ -165,7 +165,7 @@
       "2023-05-26": 344,
       "2023-05-25": 214,
       "2023-05-24": 54,
-      "2023-05-23": 142
+      "2023-05-23": 162
     }
   },
   {
@@ -183,7 +183,7 @@
     "timeDay": 515,
     "timeWeek": 349,
     "timeMonth": 714,
-    "timeYear": 1196,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2023-12-29": 42,
       "2023-12-28": 22,
@@ -329,7 +329,7 @@
     "status": "up",
     "uptime": "98.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.23%",
+    "uptimeWeek": "87.33%",
     "uptimeMonth": "94.99%",
     "uptimeYear": "97.19%",
     "time": 1345,
