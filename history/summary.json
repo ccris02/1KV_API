@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "86.26%",
-    "uptimeWeek": "95.60%",
-    "uptimeMonth": "96.51%",
+    "uptimeDay": "85.56%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "96.49%",
     "uptimeYear": "99.37%",
     "time": 2322,
     "timeDay": 1936,
@@ -16,7 +16,7 @@
     "timeMonth": 2136,
     "timeYear": 2165,
     "dailyMinutesDown": {
-      "2024-01-03": 100,
+      "2024-01-03": 111,
       "2024-01-02": 97,
       "2024-01-01": 98,
       "2023-12-31": 43,
@@ -49,19 +49,19 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "88.19%",
-    "uptimeWeek": "96.21%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "96.19%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.38%",
     "time": 1368,
-    "timeDay": 499,
-    "timeWeek": 808,
-    "timeMonth": 947,
-    "timeYear": 1189,
+    "timeDay": 492,
+    "timeWeek": 805,
+    "timeMonth": 945,
+    "timeYear": 1188,
     "dailyMinutesDown": {
-      "2024-01-03": 100,
+      "2024-01-03": 103,
       "2024-01-02": 70,
       "2024-01-01": 91,
       "2023-12-31": 16,
@@ -85,7 +85,7 @@
       "2023-05-28": 402,
       "2023-05-27": 418,
       "2023-05-26": 373,
-      "2023-05-25": 196
+      "2023-05-25": 176
     }
   },
   {
@@ -141,10 +141,10 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "87.32%",
-    "uptimeWeek": "95.89%",
+    "uptimeDay": "87.23%",
+    "uptimeWeek": "95.88%",
     "uptimeMonth": "95.00%",
     "uptimeYear": "99.23%",
     "time": 1643,
@@ -153,7 +153,7 @@
     "timeMonth": 1128,
     "timeYear": 1567,
     "dailyMinutesDown": {
-      "2024-01-03": 89,
+      "2024-01-03": 90,
       "2024-01-02": 94,
       "2024-01-01": 96,
       "2023-12-31": 16,
@@ -177,7 +177,7 @@
       "2023-05-28": 403,
       "2023-05-27": 396,
       "2023-05-26": 344,
-      "2023-05-25": 70
+      "2023-05-25": 46
     }
   },
   {
