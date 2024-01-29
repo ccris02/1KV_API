@@ -4,19 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "80.54%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "80.50%",
     "uptimeMonth": "91.92%",
     "uptimeYear": "98.97%",
-    "time": 2138,
+    "time": 2135,
     "timeDay": 2386,
     "timeWeek": 2283,
-    "timeMonth": 2442,
+    "timeMonth": 2446,
     "timeYear": 2111,
     "dailyMinutesDown": {
-      "2024-01-29": 16,
+      "2024-01-29": 20,
       "2024-01-28": 17,
       "2024-01-25": 978,
       "2024-01-24": 928,
@@ -54,7 +54,7 @@
       "2023-06-14": 29,
       "2023-05-30": 181,
       "2023-05-29": 310,
-      "2023-05-28": 107
+      "2023-05-28": 89
     }
   },
   {
@@ -71,7 +71,7 @@
     "time": 1141,
     "timeDay": 3401,
     "timeWeek": 2386,
-    "timeMonth": 1156,
+    "timeMonth": 1158,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2024-01-25": 921,
@@ -125,7 +125,7 @@
     "time": 914,
     "timeDay": 3812,
     "timeWeek": 2213,
-    "timeMonth": 949,
+    "timeMonth": 951,
     "timeYear": 892,
     "dailyMinutesDown": {
       "2024-01-25": 943,
@@ -172,19 +172,19 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "80.04%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "80.03%",
     "uptimeMonth": "91.96%",
     "uptimeYear": "98.80%",
-    "time": 1408,
+    "time": 1409,
     "timeDay": 883,
     "timeWeek": 877,
-    "timeMonth": 1378,
+    "timeMonth": 1381,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2024-01-29": 74,
+      "2024-01-29": 75,
       "2024-01-25": 974,
       "2024-01-24": 942,
       "2024-01-23": 23,
@@ -219,7 +219,7 @@
       "2023-06-14": 29,
       "2023-05-30": 216,
       "2023-05-29": 337,
-      "2023-05-28": 274
+      "2023-05-28": 254
     }
   },
   {
@@ -236,7 +236,7 @@
     "time": 851,
     "timeDay": 2177,
     "timeWeek": 1383,
-    "timeMonth": 514,
+    "timeMonth": 515,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2024-01-25": 974,
@@ -291,7 +291,7 @@
     "time": 700,
     "timeDay": 2254,
     "timeWeek": 1274,
-    "timeMonth": 495,
+    "timeMonth": 496,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2024-01-25": 975,
