@@ -1,7 +1,7 @@
 url: https://polkadot.w3f.community/erastats
-status: down
-code: 503
-responseTime: 88
-lastUpdated: 2024-02-01T10:59:49.772Z
+status: up
+code: 200
+responseTime: 163
+lastUpdated: 2024-02-01T11:07:56.229Z
 startTime: 2022-02-02T21:59:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
