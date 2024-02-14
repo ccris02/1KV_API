@@ -1,7 +1,7 @@
 url: https://polkadot.w3f.community/locationstats
-status: up
-code: 200
-responseTime: 3491
-lastUpdated: 2024-02-13T23:02:20.966Z
+status: down
+code: 503
+responseTime: 93
+lastUpdated: 2024-02-14T09:35:53.541Z
 startTime: 2022-02-02T21:59:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
