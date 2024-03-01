@@ -4,18 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "96.47%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 1736,
-    "timeDay": 562,
-    "timeWeek": 1116,
+    "timeDay": 677,
+    "timeWeek": 1126,
     "timeMonth": 1259,
     "timeYear": 1607,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-29": 19,
       "2024-02-27": 20,
       "2024-02-24": 31,
@@ -61,7 +62,7 @@
       "2023-11-16": 23,
       "2023-10-14": 18,
       "2023-06-14": 29,
-      "2023-05-30": 181
+      "2023-05-30": 121
     }
   },
   {
@@ -69,18 +70,19 @@
     "url": "https://kusama.w3f.community/erapoints/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-erapoints-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "98.79%",
     "time": 925,
-    "timeDay": 175,
-    "timeWeek": 740,
+    "timeDay": 202,
+    "timeWeek": 763,
     "timeMonth": 1033,
     "timeYear": 779,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-29": 19,
       "2024-02-27": 20,
       "2024-02-24": 31,
@@ -124,7 +126,7 @@
       "2023-06-14": 29,
       "2023-05-30": 216,
       "2023-05-29": 337,
-      "2023-05-28": 18
+      "2023-05-28": 2
     }
   },
   {
@@ -132,18 +134,19 @@
     "url": "https://kusama.w3f.community/score/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "96.48%",
     "uptimeYear": "98.48%",
     "time": 789,
-    "timeDay": 104,
+    "timeDay": 103,
     "timeWeek": 144,
     "timeMonth": 725,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-29": 18,
       "2024-02-27": 20,
       "2024-02-24": 31,
@@ -189,7 +192,7 @@
       "2023-06-14": 29,
       "2023-05-30": 216,
       "2023-05-29": 337,
-      "2023-05-28": 223
+      "2023-05-28": 191
     }
   },
   {
@@ -197,18 +200,19 @@
     "url": "https://kusama.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.30%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "98.60%",
-    "time": 1169,
-    "timeDay": 2469,
-    "timeWeek": 1970,
+    "time": 1170,
+    "timeDay": 2300,
+    "timeWeek": 2004,
     "timeMonth": 1197,
     "timeYear": 1119,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-29": 19,
       "2024-02-27": 21,
       "2024-02-24": 31,
@@ -254,7 +258,7 @@
       "2023-10-14": 18,
       "2023-06-14": 29,
       "2023-05-30": 216,
-      "2023-05-29": 68
+      "2023-05-29": 46
     }
   },
   {
@@ -262,18 +266,19 @@
     "url": "https://kusama.w3f.community/erastats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-erastats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "98.75%",
     "time": 649,
-    "timeDay": 103,
-    "timeWeek": 320,
+    "timeDay": 102,
+    "timeWeek": 327,
     "timeMonth": 330,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-29": 19,
       "2024-02-27": 21,
       "2024-02-24": 31,
@@ -319,7 +324,7 @@
       "2023-06-14": 29,
       "2023-05-30": 222,
       "2023-05-29": 337,
-      "2023-05-28": 45
+      "2023-05-28": 18
     }
   },
   {
@@ -327,18 +332,19 @@
     "url": "https://kusama.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-locationstats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "98.73%",
-    "time": 585,
-    "timeDay": 521,
-    "timeWeek": 235,
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "98.74%",
+    "time": 578,
+    "timeDay": 728,
+    "timeWeek": 239,
     "timeMonth": 331,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-29": 19,
       "2024-02-27": 21,
       "2024-02-24": 31,
@@ -384,7 +390,7 @@
       "2023-06-14": 29,
       "2023-05-30": 222,
       "2023-05-29": 337,
-      "2023-05-28": 150
+      "2023-05-28": 107
     }
   },
   {
@@ -392,18 +398,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "98.41%",
-    "time": 2454,
+    "uptimeYear": "98.44%",
+    "time": 2455,
     "timeDay": 5189,
-    "timeWeek": 2686,
+    "timeWeek": 2746,
     "timeMonth": 3549,
     "timeYear": 2583,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-24": 37,
       "2024-02-20": 19,
       "2024-02-19": 21,
@@ -423,7 +430,7 @@
       "2023-05-19": 516,
       "2023-05-17": 94,
       "2023-04-03": 502,
-      "2023-04-02": 653
+      "2023-04-02": 486
     }
   },
   {
@@ -431,18 +438,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "98.32%",
-    "time": 1281,
+    "uptimeYear": "98.35%",
+    "time": 1282,
     "timeDay": 7433,
-    "timeWeek": 1449,
+    "timeWeek": 1447,
     "timeMonth": 1325,
     "timeYear": 1386,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-24": 30,
       "2024-02-20": 19,
       "2024-02-19": 22,
@@ -462,7 +470,7 @@
       "2023-05-19": 516,
       "2023-05-17": 94,
       "2023-04-03": 528,
-      "2023-04-02": 966
+      "2023-04-02": 809
     }
   },
   {
@@ -470,18 +478,19 @@
     "url": "https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.00%",
-    "time": 1388,
+    "uptimeYear": "98.03%",
+    "time": 1389,
     "timeDay": 3972,
-    "timeWeek": 706,
-    "timeMonth": 1083,
+    "timeWeek": 702,
+    "timeMonth": 1090,
     "timeYear": 1539,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-24": 21,
       "2024-02-20": 19,
       "2024-02-19": 22,
@@ -504,7 +513,7 @@
       "2023-05-19": 523,
       "2023-05-17": 94,
       "2023-04-03": 525,
-      "2023-04-02": 978
+      "2023-04-02": 816
     }
   },
   {
@@ -512,18 +521,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.11%",
+    "uptimeYear": "98.14%",
     "time": 1936,
     "timeDay": 4346,
-    "timeWeek": 1240,
+    "timeWeek": 1241,
     "timeMonth": 2276,
     "timeYear": 2017,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-24": 21,
       "2024-02-20": 19,
       "2024-02-19": 22,
@@ -545,7 +555,7 @@
       "2023-05-17": 94,
       "2023-04-03": 503,
       "2023-04-02": 1169,
-      "2023-04-01": 831
+      "2023-04-01": 663
     }
   },
   {
@@ -553,18 +563,19 @@
     "url": "https://polkadot.w3f.community/erastats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erastats",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.02%",
     "time": 1119,
     "timeDay": 118,
-    "timeWeek": 269,
+    "timeWeek": 273,
     "timeMonth": 1179,
     "timeYear": 1253,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-24": 21,
       "2024-02-20": 19,
       "2024-02-19": 22,
@@ -587,7 +598,7 @@
       "2023-04-03": 471,
       "2023-04-02": 1157,
       "2023-04-01": 1115,
-      "2023-03-31": 320
+      "2023-03-31": 161
     }
   },
   {
@@ -595,18 +606,19 @@
     "url": "https://polkadot.w3f.community/locationstats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-locationstats",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.76%",
+    "uptimeYear": "97.79%",
     "time": 754,
     "timeDay": 463,
-    "timeWeek": 894,
+    "timeWeek": 879,
     "timeMonth": 859,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2024-03-01": 2,
       "2024-02-24": 21,
       "2024-02-20": 19,
       "2024-02-19": 22,
@@ -630,7 +642,7 @@
       "2023-04-02": 1121,
       "2023-04-01": 1105,
       "2023-03-31": 1112,
-      "2023-03-30": 176
+      "2023-03-30": 13
     }
   },
   {
