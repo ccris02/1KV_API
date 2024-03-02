@@ -6,17 +6,16 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "98.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "96.47%",
+    "uptimeYear": "98.75%",
     "time": 1738,
     "timeDay": 4600,
     "timeWeek": 2039,
     "timeMonth": 1268,
     "timeYear": 1610,
     "dailyMinutesDown": {
-      "2024-03-01": 6,
       "2024-02-29": 19,
       "2024-02-27": 20,
       "2024-02-24": 31,
@@ -62,7 +61,7 @@
       "2023-11-16": 23,
       "2023-10-14": 18,
       "2023-06-14": 29,
-      "2023-05-30": 121
+      "2023-05-30": 181
     }
   },
   {
@@ -72,9 +71,9 @@
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "96.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "98.79%",
     "time": 925,
     "timeDay": 483,
@@ -82,7 +81,6 @@
     "timeMonth": 1030,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2024-03-01": 6,
       "2024-02-29": 19,
       "2024-02-27": 20,
       "2024-02-24": 31,
@@ -126,7 +124,7 @@
       "2023-06-14": 29,
       "2023-05-30": 216,
       "2023-05-29": 337,
-      "2023-05-28": 2
+      "2023-05-28": 18
     }
   },
   {
@@ -136,9 +134,9 @@
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "96.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "98.48%",
     "time": 787,
     "timeDay": 247,
@@ -146,7 +144,6 @@
     "timeMonth": 730,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2024-03-01": 6,
       "2024-02-29": 18,
       "2024-02-27": 20,
       "2024-02-24": 31,
@@ -192,7 +189,7 @@
       "2023-06-14": 29,
       "2023-05-30": 216,
       "2023-05-29": 337,
-      "2023-05-28": 191
+      "2023-05-28": 223
     }
   },
   {
@@ -202,9 +199,9 @@
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "96.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "98.60%",
     "time": 1170,
     "timeDay": 1171,
@@ -212,7 +209,6 @@
     "timeMonth": 1224,
     "timeYear": 1118,
     "dailyMinutesDown": {
-      "2024-03-01": 6,
       "2024-02-29": 19,
       "2024-02-27": 21,
       "2024-02-24": 31,
@@ -258,7 +254,7 @@
       "2023-10-14": 18,
       "2023-06-14": 29,
       "2023-05-30": 216,
-      "2023-05-29": 46
+      "2023-05-29": 68
     }
   },
   {
@@ -268,9 +264,9 @@
     "slug": "kusama-w3f-community-erastats",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "96.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "98.75%",
     "time": 634,
     "timeDay": 112,
@@ -278,7 +274,6 @@
     "timeMonth": 316,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2024-03-01": 6,
       "2024-02-29": 19,
       "2024-02-27": 21,
       "2024-02-24": 31,
@@ -324,7 +319,7 @@
       "2023-06-14": 29,
       "2023-05-30": 222,
       "2023-05-29": 337,
-      "2023-05-28": 18
+      "2023-05-28": 45
     }
   },
   {
@@ -334,17 +329,16 @@
     "slug": "kusama-w3f-community-locationstats",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "96.41%",
-    "uptimeYear": "98.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "98.73%",
     "time": 574,
     "timeDay": 115,
     "timeWeek": 213,
     "timeMonth": 288,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-03-01": 6,
       "2024-02-29": 19,
       "2024-02-27": 21,
       "2024-02-24": 31,
@@ -390,7 +384,7 @@
       "2023-06-14": 29,
       "2023-05-30": 222,
       "2023-05-29": 337,
-      "2023-05-28": 107
+      "2023-05-28": 150
     }
   },
   {
