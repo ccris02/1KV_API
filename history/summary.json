@@ -395,19 +395,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "96.42%",
-    "uptimeWeek": "98.86%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "98.54%",
-    "time": 2891,
-    "timeDay": 9760,
+    "uptimeYear": "98.58%",
+    "time": 2892,
+    "timeDay": 8110,
     "timeWeek": 8729,
     "timeMonth": 5680,
     "timeYear": 3021,
     "dailyMinutesDown": {
-      "2024-03-05": 15,
+      "2024-03-05": 16,
       "2024-03-04": 57,
       "2024-03-03": 44,
       "2024-02-24": 37,
@@ -428,7 +428,7 @@
       "2023-05-20": 1260,
       "2023-05-19": 516,
       "2023-05-17": 94,
-      "2023-04-03": 330
+      "2023-04-03": 162
     }
   },
   {
