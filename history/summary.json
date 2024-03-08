@@ -6,17 +6,16 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "96.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "98.77%",
     "time": 1712,
     "timeDay": 2097,
     "timeWeek": 2709,
-    "timeMonth": 1679,
+    "timeMonth": 1651,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2024-03-08": 5,
       "2024-03-07": 19,
       "2024-03-06": 18,
       "2024-03-05": 37,
@@ -62,7 +61,8 @@
       "2023-12-08": 27,
       "2023-12-03": 29,
       "2023-12-01": 23,
-      "2023-11-22": 22
+      "2023-11-22": 22,
+      "2023-11-16": 23
     }
   },
   {
@@ -79,7 +79,7 @@
     "time": 915,
     "timeDay": 215,
     "timeWeek": 544,
-    "timeMonth": 806,
+    "timeMonth": 814,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2024-03-07": 19,
@@ -145,7 +145,7 @@
     "time": 746,
     "timeDay": 198,
     "timeWeek": 276,
-    "timeMonth": 635,
+    "timeMonth": 643,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2024-03-07": 19,
@@ -214,7 +214,7 @@
     "time": 1173,
     "timeDay": 2486,
     "timeWeek": 1849,
-    "timeMonth": 1554,
+    "timeMonth": 1569,
     "timeYear": 1129,
     "dailyMinutesDown": {
       "2024-03-07": 20,
@@ -281,7 +281,7 @@
     "time": 728,
     "timeDay": 145,
     "timeWeek": 153,
-    "timeMonth": 229,
+    "timeMonth": 231,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2024-03-05": 19,
@@ -347,7 +347,7 @@
     "time": 508,
     "timeDay": 158,
     "timeWeek": 273,
-    "timeMonth": 270,
+    "timeMonth": 260,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2024-03-05": 19,
@@ -405,18 +405,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.39%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "96.37%",
     "uptimeMonth": "98.99%",
-    "uptimeYear": "98.56%",
-    "time": 3328,
-    "timeDay": 1278,
+    "uptimeYear": "98.58%",
+    "time": 3329,
+    "timeDay": 835,
     "timeWeek": 9825,
     "timeMonth": 7054,
-    "timeYear": 3294,
+    "timeYear": 3306,
     "dailyMinutesDown": {
+      "2024-03-08": 2,
       "2024-03-06": 145,
       "2024-03-05": 118,
       "2024-03-04": 57,
@@ -437,8 +438,7 @@
       "2023-05-22": 1316,
       "2023-05-21": 1339,
       "2023-05-20": 1260,
-      "2023-05-19": 516,
-      "2023-05-17": 94
+      "2023-05-19": 516
     }
   },
   {
@@ -453,10 +453,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.35%",
     "time": 1377,
-    "timeDay": 3972,
+    "timeDay": 4422,
     "timeWeek": 1951,
     "timeMonth": 1528,
-    "timeYear": 1390,
+    "timeYear": 1399,
     "dailyMinutesDown": {
       "2024-03-05": 39,
       "2024-02-24": 30,
@@ -496,7 +496,7 @@
     "timeDay": 189,
     "timeWeek": 904,
     "timeMonth": 978,
-    "timeYear": 1491,
+    "timeYear": 1500,
     "dailyMinutesDown": {
       "2024-03-05": 25,
       "2024-02-24": 21,
@@ -539,7 +539,7 @@
     "timeDay": 1278,
     "timeWeek": 1385,
     "timeMonth": 1893,
-    "timeYear": 1995,
+    "timeYear": 2008,
     "dailyMinutesDown": {
       "2024-03-07": 22,
       "2024-03-05": 19,
@@ -579,11 +579,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.02%",
-    "time": 1133,
+    "time": 1210,
     "timeDay": 333,
     "timeWeek": 553,
     "timeMonth": 823,
-    "timeYear": 1235,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
@@ -626,7 +626,7 @@
     "timeDay": 144,
     "timeWeek": 1035,
     "timeMonth": 823,
-    "timeYear": 824,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
