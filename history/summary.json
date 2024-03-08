@@ -4,9 +4,9 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "98.62%",
     "uptimeWeek": "98.61%",
     "uptimeMonth": "96.99%",
     "uptimeYear": "98.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 1683,
     "timeYear": 1624,
     "dailyMinutesDown": {
+      "2024-03-08": 1,
       "2024-03-07": 19,
       "2024-03-06": 18,
       "2024-03-05": 37,
@@ -61,8 +62,7 @@
       "2023-12-08": 27,
       "2023-12-03": 29,
       "2023-12-01": 23,
-      "2023-11-22": 22,
-      "2023-11-16": 23
+      "2023-11-22": 22
     }
   },
   {
@@ -456,7 +456,7 @@
     "timeDay": 3972,
     "timeWeek": 1903,
     "timeMonth": 1528,
-    "timeYear": 1390,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2024-03-05": 39,
       "2024-02-24": 30,
@@ -492,11 +492,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.03%",
-    "time": 1413,
+    "time": 1492,
     "timeDay": 189,
     "timeWeek": 883,
     "timeMonth": 978,
-    "timeYear": 1502,
+    "timeYear": 1504,
     "dailyMinutesDown": {
       "2024-03-05": 25,
       "2024-02-24": 21,
@@ -531,15 +531,15 @@
     "slug": "polkadot-w3f-community-candidates",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "98.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "98.19%",
     "time": 1961,
-    "timeDay": 1208,
+    "timeDay": 1278,
     "timeWeek": 1379,
     "timeMonth": 1893,
-    "timeYear": 2003,
+    "timeYear": 2004,
     "dailyMinutesDown": {
       "2024-03-07": 22,
       "2024-03-05": 19,
@@ -583,7 +583,7 @@
     "timeDay": 333,
     "timeWeek": 542,
     "timeMonth": 823,
-    "timeYear": 1240,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
@@ -626,7 +626,7 @@
     "timeDay": 144,
     "timeWeek": 1009,
     "timeMonth": 823,
-    "timeYear": 819,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
