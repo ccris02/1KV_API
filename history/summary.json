@@ -4,11 +4,11 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "96.98%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "98.77%",
     "time": 1703,
     "timeDay": 2622,
@@ -16,7 +16,7 @@
     "timeMonth": 1689,
     "timeYear": 1626,
     "dailyMinutesDown": {
-      "2024-03-08": 5,
+      "2024-03-08": 2,
       "2024-03-07": 19,
       "2024-03-06": 18,
       "2024-03-05": 37,
@@ -415,7 +415,7 @@
     "timeDay": 4492,
     "timeWeek": 9973,
     "timeMonth": 7142,
-    "timeYear": 3315,
+    "timeYear": 3317,
     "dailyMinutesDown": {
       "2024-03-06": 145,
       "2024-03-05": 118,
@@ -456,7 +456,7 @@
     "timeDay": 4959,
     "timeWeek": 2003,
     "timeMonth": 1518,
-    "timeYear": 1389,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2024-03-05": 39,
       "2024-02-24": 30,
@@ -496,7 +496,7 @@
     "timeDay": 189,
     "timeWeek": 954,
     "timeMonth": 978,
-    "timeYear": 1490,
+    "timeYear": 1492,
     "dailyMinutesDown": {
       "2024-03-05": 25,
       "2024-02-24": 21,
@@ -539,7 +539,7 @@
     "timeDay": 1334,
     "timeWeek": 1406,
     "timeMonth": 1891,
-    "timeYear": 2011,
+    "timeYear": 2014,
     "dailyMinutesDown": {
       "2024-03-07": 22,
       "2024-03-05": 19,
@@ -583,7 +583,7 @@
     "timeDay": 333,
     "timeWeek": 583,
     "timeMonth": 823,
-    "timeYear": 1245,
+    "timeYear": 1248,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
@@ -626,7 +626,7 @@
     "timeDay": 144,
     "timeWeek": 1095,
     "timeMonth": 823,
-    "timeYear": 832,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
