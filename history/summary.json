@@ -407,18 +407,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "96.57%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.59%",
+    "uptime": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "98.57%",
     "time": 3487,
     "timeDay": 9987,
     "timeWeek": 10153,
     "timeMonth": 7385,
     "timeYear": 3513,
     "dailyMinutesDown": {
-      "2024-03-10": 5,
       "2024-03-09": 21,
       "2024-03-06": 145,
       "2024-03-05": 118,
@@ -440,7 +439,7 @@
       "2023-05-22": 1316,
       "2023-05-21": 1339,
       "2023-05-20": 1260,
-      "2023-05-19": 419
+      "2023-05-19": 516
     }
   },
   {
@@ -495,7 +494,7 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.03%",
-    "time": 1499,
+    "time": 1468,
     "timeDay": 208,
     "timeWeek": 1789,
     "timeMonth": 932,
@@ -532,18 +531,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "98.19%",
-    "time": 1997,
+    "uptimeYear": "98.22%",
+    "time": 1999,
     "timeDay": 590,
     "timeWeek": 1590,
     "timeMonth": 1724,
-    "timeYear": 1905,
+    "timeYear": 1907,
     "dailyMinutesDown": {
+      "2024-03-10": 2,
       "2024-03-07": 22,
       "2024-03-05": 19,
       "2024-03-02": 18,
@@ -568,7 +568,7 @@
       "2023-05-17": 94,
       "2023-04-03": 503,
       "2023-04-02": 1169,
-      "2023-04-01": 329
+      "2023-04-01": 166
     }
   },
   {
