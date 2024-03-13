@@ -449,18 +449,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "98.37%",
-    "time": 1339,
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "98.40%",
+    "time": 1340,
     "timeDay": 173,
     "timeWeek": 4176,
     "timeMonth": 1858,
     "timeYear": 1229,
     "dailyMinutesDown": {
+      "2024-03-13": 1,
       "2024-03-10": 20,
       "2024-03-05": 39,
       "2024-02-24": 30,
@@ -482,7 +483,7 @@
       "2023-05-19": 516,
       "2023-05-17": 94,
       "2023-04-03": 528,
-      "2023-04-02": 645
+      "2023-04-02": 486
     }
   },
   {
