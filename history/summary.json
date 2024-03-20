@@ -415,7 +415,7 @@
     "time": 3905,
     "timeDay": 8741,
     "timeWeek": 8701,
-    "timeMonth": 7637,
+    "timeMonth": 7656,
     "timeYear": 4032,
     "dailyMinutesDown": {
       "2024-03-14": 25,
@@ -451,18 +451,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "98.40%",
+    "uptime": "99.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "98.37%",
     "time": 1328,
     "timeDay": 715,
     "timeWeek": 4707,
-    "timeMonth": 2300,
+    "timeMonth": 2326,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2024-03-19": 4,
       "2024-03-10": 20,
       "2024-03-05": 39,
       "2024-02-24": 30,
@@ -484,7 +483,7 @@
       "2023-05-19": 516,
       "2023-05-17": 94,
       "2023-04-03": 528,
-      "2023-04-02": 486
+      "2023-04-02": 645
     }
   },
   {
@@ -501,7 +500,7 @@
     "time": 1323,
     "timeDay": 160,
     "timeWeek": 2082,
-    "timeMonth": 805,
+    "timeMonth": 816,
     "timeYear": 1196,
     "dailyMinutesDown": {
       "2024-03-05": 25,
@@ -544,7 +543,7 @@
     "time": 1964,
     "timeDay": 1140,
     "timeWeek": 2125,
-    "timeMonth": 1434,
+    "timeMonth": 1444,
     "timeYear": 1816,
     "dailyMinutesDown": {
       "2024-03-07": 22,
@@ -588,7 +587,7 @@
     "time": 1181,
     "timeDay": 125,
     "timeWeek": 658,
-    "timeMonth": 594,
+    "timeMonth": 416,
     "timeYear": 1033,
     "dailyMinutesDown": {
       "2024-03-02": 24,
@@ -631,7 +630,7 @@
     "time": 884,
     "timeDay": 170,
     "timeWeek": 163,
-    "timeMonth": 621,
+    "timeMonth": 629,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2024-03-02": 24,
