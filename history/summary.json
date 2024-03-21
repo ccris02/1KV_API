@@ -14,7 +14,7 @@
     "timeDay": 610,
     "timeWeek": 1673,
     "timeMonth": 2398,
-    "timeYear": 1659,
+    "timeYear": 1660,
     "dailyMinutesDown": {
       "2024-03-07": 19,
       "2024-03-06": 18,
@@ -80,7 +80,7 @@
     "timeDay": 249,
     "timeWeek": 511,
     "timeMonth": 927,
-    "timeYear": 787,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2024-03-08": 16,
       "2024-03-07": 19,
@@ -406,19 +406,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "98.58%",
+    "uptimeDay": "98.53%",
     "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.61%",
-    "time": 3996,
-    "timeDay": 7952,
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.62%",
+    "time": 3999,
+    "timeDay": 6946,
     "timeWeek": 8526,
     "timeMonth": 7810,
-    "timeYear": 4097,
+    "timeYear": 4104,
     "dailyMinutesDown": {
-      "2024-03-21": 13,
+      "2024-03-21": 14,
       "2024-03-20": 162,
       "2024-03-14": 25,
       "2024-03-13": 15,
@@ -444,7 +444,7 @@
       "2023-05-22": 1316,
       "2023-05-21": 1339,
       "2023-05-20": 1260,
-      "2023-05-19": 78
+      "2023-05-19": 33
     }
   },
   {
@@ -453,18 +453,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "98.40%",
+    "uptime": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "98.37%",
     "time": 1292,
     "timeDay": 578,
     "timeWeek": 3333,
     "timeMonth": 2321,
-    "timeYear": 1167,
+    "timeYear": 1169,
     "dailyMinutesDown": {
-      "2024-03-21": 6,
       "2024-03-10": 20,
       "2024-03-05": 39,
       "2024-02-24": 30,
@@ -486,7 +485,7 @@
       "2023-05-19": 516,
       "2023-05-17": 94,
       "2023-04-03": 528,
-      "2023-04-02": 486
+      "2023-04-02": 645
     }
   },
   {
@@ -504,7 +503,7 @@
     "timeDay": 161,
     "timeWeek": 2504,
     "timeMonth": 937,
-    "timeYear": 1181,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2024-03-05": 25,
       "2024-02-24": 21,
@@ -547,7 +546,7 @@
     "timeDay": 1047,
     "timeWeek": 2419,
     "timeMonth": 1431,
-    "timeYear": 1814,
+    "timeYear": 1816,
     "dailyMinutesDown": {
       "2024-03-07": 22,
       "2024-03-05": 19,
@@ -591,7 +590,7 @@
     "timeDay": 159,
     "timeWeek": 583,
     "timeMonth": 418,
-    "timeYear": 1024,
+    "timeYear": 1025,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
@@ -634,7 +633,7 @@
     "timeDay": 167,
     "timeWeek": 166,
     "timeMonth": 701,
-    "timeYear": 838,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
