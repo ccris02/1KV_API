@@ -416,7 +416,7 @@
     "timeDay": 3540,
     "timeWeek": 8262,
     "timeMonth": 7971,
-    "timeYear": 4123,
+    "timeYear": 4126,
     "dailyMinutesDown": {
       "2024-03-21": 13,
       "2024-03-20": 162,
@@ -452,18 +452,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "98.37%",
-    "time": 1292,
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "98.40%",
+    "time": 1293,
     "timeDay": 3391,
     "timeWeek": 2973,
     "timeMonth": 2601,
-    "timeYear": 1149,
+    "timeYear": 1151,
     "dailyMinutesDown": {
+      "2024-03-23": 1,
       "2024-03-10": 20,
       "2024-03-05": 39,
       "2024-02-24": 30,
@@ -485,7 +486,7 @@
       "2023-05-19": 516,
       "2023-05-17": 94,
       "2023-04-03": 528,
-      "2023-04-02": 645
+      "2023-04-02": 486
     }
   },
   {
@@ -503,7 +504,7 @@
     "timeDay": 101,
     "timeWeek": 2100,
     "timeMonth": 1026,
-    "timeYear": 1101,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-03-05": 25,
       "2024-02-24": 21,
@@ -546,7 +547,7 @@
     "timeDay": 651,
     "timeWeek": 2250,
     "timeMonth": 1446,
-    "timeYear": 1784,
+    "timeYear": 1779,
     "dailyMinutesDown": {
       "2024-03-07": 22,
       "2024-03-05": 19,
@@ -590,7 +591,7 @@
     "timeDay": 112,
     "timeWeek": 226,
     "timeMonth": 438,
-    "timeYear": 952,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
@@ -633,7 +634,7 @@
     "timeDay": 271,
     "timeWeek": 161,
     "timeMonth": 730,
-    "timeYear": 796,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
