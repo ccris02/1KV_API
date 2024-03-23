@@ -216,7 +216,7 @@
     "timeDay": 726,
     "timeWeek": 3137,
     "timeMonth": 2586,
-    "timeYear": 1163,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2024-03-07": 20,
       "2024-03-05": 19,
@@ -408,17 +408,16 @@
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.61%",
     "time": 4015,
     "timeDay": 2213,
-    "timeWeek": 7552,
+    "timeWeek": 7638,
     "timeMonth": 7921,
     "timeYear": 4131,
     "dailyMinutesDown": {
-      "2024-03-23": 7,
       "2024-03-21": 13,
       "2024-03-20": 162,
       "2024-03-14": 25,
@@ -445,7 +444,7 @@
       "2023-05-22": 1316,
       "2023-05-21": 1339,
       "2023-05-20": 1260,
-      "2023-05-19": 33
+      "2023-05-19": 78
     }
   },
   {
@@ -460,7 +459,7 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.37%",
     "time": 1292,
-    "timeDay": 2766,
+    "timeDay": 3423,
     "timeWeek": 2911,
     "timeMonth": 2627,
     "timeYear": 1150,
@@ -581,18 +580,19 @@
     "url": "https://polkadot.w3f.community/erastats",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erastats",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "98.02%",
-    "time": 1182,
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.05%",
+    "time": 1184,
     "timeDay": 112,
     "timeWeek": 226,
     "timeMonth": 446,
     "timeYear": 941,
     "dailyMinutesDown": {
+      "2024-03-23": 2,
       "2024-03-02": 24,
       "2024-02-24": 21,
       "2024-02-20": 19,
@@ -615,8 +615,7 @@
       "2023-05-17": 86,
       "2023-04-03": 471,
       "2023-04-02": 1157,
-      "2023-04-01": 1115,
-      "2023-03-31": 161
+      "2023-04-01": 1115
     }
   },
   {
