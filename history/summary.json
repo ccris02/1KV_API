@@ -14,7 +14,7 @@
     "timeDay": 1329,
     "timeWeek": 898,
     "timeMonth": 2478,
-    "timeYear": 1652,
+    "timeYear": 1653,
     "dailyMinutesDown": {
       "2024-03-07": 19,
       "2024-03-06": 18,
@@ -80,7 +80,7 @@
     "timeDay": 151,
     "timeWeek": 457,
     "timeMonth": 925,
-    "timeYear": 776,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2024-03-08": 16,
       "2024-03-07": 19,
@@ -216,7 +216,7 @@
     "timeDay": 711,
     "timeWeek": 2829,
     "timeMonth": 2585,
-    "timeYear": 1166,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2024-03-07": 20,
       "2024-03-05": 19,
@@ -349,7 +349,7 @@
     "timeDay": 130,
     "timeWeek": 184,
     "timeMonth": 286,
-    "timeYear": 411,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2024-03-05": 19,
       "2024-03-02": 65,
@@ -407,18 +407,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "98.43%",
+    "uptime": "99.35%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "98.44%",
     "uptimeYear": "98.62%",
     "time": 4013,
-    "timeDay": 1086,
-    "timeWeek": 6551,
-    "timeMonth": 7863,
+    "timeDay": 1024,
+    "timeWeek": 6324,
+    "timeMonth": 7902,
     "timeYear": 4146,
     "dailyMinutesDown": {
-      "2024-03-24": 32,
+      "2024-03-24": 27,
       "2024-03-21": 13,
       "2024-03-20": 162,
       "2024-03-14": 25,
@@ -444,7 +444,8 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 1260
+      "2023-05-20": 1260,
+      "2023-05-19": 33
     }
   },
   {
@@ -452,18 +453,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "98.40%",
     "time": 1293,
     "timeDay": 1738,
     "timeWeek": 2254,
-    "timeMonth": 2656,
+    "timeMonth": 2692,
     "timeYear": 1158,
     "dailyMinutesDown": {
+      "2024-03-24": 1,
       "2024-03-10": 20,
       "2024-03-05": 39,
       "2024-02-24": 30,
@@ -485,7 +487,7 @@
       "2023-05-19": 516,
       "2023-05-17": 94,
       "2023-04-03": 528,
-      "2023-04-02": 645
+      "2023-04-02": 486
     }
   },
   {
@@ -502,8 +504,8 @@
     "time": 1330,
     "timeDay": 256,
     "timeWeek": 756,
-    "timeMonth": 1039,
-    "timeYear": 1038,
+    "timeMonth": 1058,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2024-03-05": 25,
       "2024-02-24": 21,
@@ -545,8 +547,8 @@
     "time": 1963,
     "timeDay": 2140,
     "timeWeek": 1272,
-    "timeMonth": 1471,
-    "timeYear": 1798,
+    "timeMonth": 1487,
+    "timeYear": 1800,
     "dailyMinutesDown": {
       "2024-03-07": 22,
       "2024-03-05": 19,
@@ -589,8 +591,8 @@
     "time": 1186,
     "timeDay": 833,
     "timeWeek": 348,
-    "timeMonth": 441,
-    "timeYear": 950,
+    "timeMonth": 447,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
@@ -632,8 +634,8 @@
     "time": 910,
     "timeDay": 203,
     "timeWeek": 164,
-    "timeMonth": 720,
-    "timeYear": 765,
+    "timeMonth": 733,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2024-03-02": 24,
       "2024-02-24": 21,
