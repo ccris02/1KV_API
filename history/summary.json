@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "98.77%",
     "time": 1648,
     "timeDay": 1519,
@@ -16,7 +16,6 @@
     "timeMonth": 2447,
     "timeYear": 1655,
     "dailyMinutesDown": {
-      "2024-03-24": 9,
       "2024-03-07": 19,
       "2024-03-06": 18,
       "2024-03-05": 37,
@@ -62,7 +61,8 @@
       "2023-12-08": 27,
       "2023-12-03": 29,
       "2023-12-01": 23,
-      "2023-11-22": 22
+      "2023-11-22": 22,
+      "2023-11-16": 23
     }
   },
   {
@@ -72,9 +72,9 @@
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "98.82%",
     "time": 917,
     "timeDay": 1220,
@@ -82,7 +82,6 @@
     "timeMonth": 943,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2024-03-24": 9,
       "2024-03-08": 16,
       "2024-03-07": 19,
       "2024-03-06": 18,
@@ -130,7 +129,7 @@
       "2023-10-14": 18,
       "2023-06-14": 29,
       "2023-05-30": 216,
-      "2023-05-29": 46
+      "2023-05-29": 68
     }
   },
   {
@@ -407,19 +406,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "down",
+    "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "98.44%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "98.62%",
-    "time": 4013,
-    "timeDay": 914,
-    "timeWeek": 6113,
-    "timeMonth": 7842,
-    "timeYear": 4153,
+    "time": 4018,
+    "timeDay": 1809,
+    "timeWeek": 6165,
+    "timeMonth": 7847,
+    "timeYear": 4158,
     "dailyMinutesDown": {
-      "2024-03-24": 28,
+      "2024-03-24": 32,
       "2024-03-21": 13,
       "2024-03-20": 162,
       "2024-03-14": 25,
