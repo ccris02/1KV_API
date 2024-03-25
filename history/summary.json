@@ -538,18 +538,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.19%",
-    "time": 1936,
+    "uptimeYear": "98.22%",
+    "time": 1937,
     "timeDay": 1211,
     "timeWeek": 1244,
     "timeMonth": 1554,
     "timeYear": 1764,
     "dailyMinutesDown": {
+      "2024-03-25": 1,
       "2024-03-07": 22,
       "2024-03-05": 19,
       "2024-03-02": 18,
@@ -574,7 +575,7 @@
       "2023-05-17": 94,
       "2023-04-03": 503,
       "2023-04-02": 1169,
-      "2023-04-01": 329
+      "2023-04-01": 166
     }
   },
   {
