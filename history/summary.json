@@ -413,18 +413,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "86.68%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.65%",
+    "uptime": "99.36%",
+    "uptimeDay": "87.06%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.63%",
     "time": 4030,
-    "timeDay": 4802,
-    "timeWeek": 5251,
+    "timeDay": 6012,
+    "timeWeek": 5070,
     "timeMonth": 7968,
-    "timeYear": 4204,
+    "timeYear": 4211,
     "dailyMinutesDown": {
-      "2024-03-26": 108,
+      "2024-03-26": 102,
       "2024-03-25": 84,
       "2024-03-24": 27,
       "2024-03-21": 13,
@@ -452,7 +452,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 913
+      "2023-05-20": 1046
     }
   },
   {
@@ -470,7 +470,7 @@
     "timeDay": 2798,
     "timeWeek": 1965,
     "timeMonth": 3008,
-    "timeYear": 1180,
+    "timeYear": 1181,
     "dailyMinutesDown": {
       "2024-03-26": 102,
       "2024-03-25": 81,
@@ -512,7 +512,7 @@
     "timeDay": 1992,
     "timeWeek": 1163,
     "timeMonth": 1266,
-    "timeYear": 973,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2024-03-26": 100,
       "2024-03-25": 59,
@@ -547,19 +547,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "87.70%",
-    "uptimeWeek": "98.24%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "87.58%",
+    "uptimeWeek": "98.23%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "98.22%",
+    "uptimeYear": "98.26%",
     "time": 1921,
     "timeDay": 980,
     "timeWeek": 1203,
     "timeMonth": 1525,
-    "timeYear": 1714,
+    "timeYear": 1716,
     "dailyMinutesDown": {
-      "2024-03-26": 102,
+      "2024-03-26": 104,
       "2024-03-25": 75,
       "2024-03-07": 22,
       "2024-03-05": 19,
@@ -584,7 +584,7 @@
       "2023-05-19": 523,
       "2023-05-17": 94,
       "2023-04-03": 503,
-      "2023-04-02": 1169
+      "2023-04-02": 988
     }
   },
   {
@@ -602,7 +602,7 @@
     "timeDay": 154,
     "timeWeek": 273,
     "timeMonth": 447,
-    "timeYear": 854,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2024-03-26": 246,
       "2024-03-25": 165,
@@ -637,7 +637,7 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-locationstats",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "89.65%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.60%",
@@ -646,7 +646,7 @@
     "timeDay": 508,
     "timeWeek": 283,
     "timeMonth": 562,
-    "timeYear": 703,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2024-03-26": 99,
       "2024-03-25": 50,
