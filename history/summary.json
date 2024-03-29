@@ -422,7 +422,7 @@
     "timeDay": 7424,
     "timeWeek": 5571,
     "timeMonth": 8094,
-    "timeYear": 4314,
+    "timeYear": 4318,
     "dailyMinutesDown": {
       "2024-03-26": 102,
       "2024-03-25": 84,
@@ -470,7 +470,7 @@
     "timeDay": 1051,
     "timeWeek": 2865,
     "timeMonth": 3052,
-    "timeYear": 1161,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-03-26": 102,
       "2024-03-25": 81,
@@ -502,18 +502,19 @@
     "url": "https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.42%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.41%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "98.09%",
-    "time": 1182,
+    "uptimeYear": "98.12%",
+    "time": 1183,
     "timeDay": 162,
     "timeWeek": 956,
     "timeMonth": 1276,
-    "timeYear": 906,
+    "timeYear": 907,
     "dailyMinutesDown": {
+      "2024-03-29": 1,
       "2024-03-26": 100,
       "2024-03-25": 59,
       "2024-03-05": 25,
@@ -539,7 +540,7 @@
       "2023-05-19": 523,
       "2023-05-17": 94,
       "2023-04-03": 525,
-      "2023-04-02": 327
+      "2023-04-02": 157
     }
   },
   {
@@ -557,7 +558,7 @@
     "timeDay": 1269,
     "timeWeek": 1308,
     "timeMonth": 1556,
-    "timeYear": 1624,
+    "timeYear": 1625,
     "dailyMinutesDown": {
       "2024-03-26": 102,
       "2024-03-25": 75,
@@ -602,7 +603,7 @@
     "timeDay": 1246,
     "timeWeek": 512,
     "timeMonth": 512,
-    "timeYear": 813,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2024-03-26": 246,
       "2024-03-25": 165,
@@ -646,7 +647,7 @@
     "timeDay": 295,
     "timeWeek": 358,
     "timeMonth": 582,
-    "timeYear": 659,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-03-26": 99,
       "2024-03-25": 50,
