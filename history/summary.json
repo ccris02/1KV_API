@@ -14,7 +14,7 @@
     "timeDay": 741,
     "timeWeek": 587,
     "timeMonth": 2451,
-    "timeYear": 1665,
+    "timeYear": 1666,
     "dailyMinutesDown": {
       "2024-03-26": 26,
       "2024-03-25": 37,
@@ -147,7 +147,7 @@
     "timeDay": 672,
     "timeWeek": 158,
     "timeMonth": 287,
-    "timeYear": 565,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2024-03-26": 24,
       "2024-03-25": 17,
@@ -218,7 +218,7 @@
     "timeDay": 1602,
     "timeWeek": 1402,
     "timeMonth": 2454,
-    "timeYear": 1173,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2024-03-26": 24,
       "2024-03-25": 16,
@@ -414,9 +414,9 @@
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "98.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "98.65%",
     "time": 4326,
     "timeDay": 6401,
@@ -424,7 +424,6 @@
     "timeMonth": 8067,
     "timeYear": 4434,
     "dailyMinutesDown": {
-      "2024-04-01": 5,
       "2024-03-31": 25,
       "2024-03-26": 102,
       "2024-03-25": 84,
@@ -454,7 +453,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 897
+      "2023-05-20": 913
     }
   },
   {
@@ -549,18 +548,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.04%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "98.25%",
-    "time": 1749,
+    "uptimeYear": "98.28%",
+    "time": 1751,
     "timeDay": 2085,
     "timeWeek": 1300,
     "timeMonth": 1460,
     "timeYear": 1647,
     "dailyMinutesDown": {
+      "2024-04-01": 1,
       "2024-03-31": 21,
       "2024-03-26": 102,
       "2024-03-25": 75,
