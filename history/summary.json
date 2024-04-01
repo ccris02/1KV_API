@@ -413,18 +413,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "98.04%",
+    "uptime": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "98.65%",
     "time": 4348,
-    "timeDay": 7362,
+    "timeDay": 7768,
     "timeWeek": 7117,
     "timeMonth": 8057,
     "timeYear": 4454,
     "dailyMinutesDown": {
-      "2024-04-01": 5,
       "2024-03-31": 25,
       "2024-03-26": 102,
       "2024-03-25": 84,
@@ -454,7 +453,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 897
+      "2023-05-20": 913
     }
   },
   {
@@ -462,19 +461,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "98.53%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "98.56%",
     "time": 1252,
     "timeDay": 6065,
     "timeWeek": 2830,
     "timeMonth": 3002,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2024-04-01": 21,
+      "2024-04-01": 23,
       "2024-03-26": 102,
       "2024-03-25": 81,
       "2024-03-10": 20,
@@ -496,8 +495,7 @@
       "2023-05-21": 1348,
       "2023-05-20": 1267,
       "2023-05-19": 516,
-      "2023-05-17": 94,
-      "2023-04-03": 161
+      "2023-05-17": 94
     }
   },
   {
@@ -599,7 +597,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.93%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.07%",
     "time": 1000,
     "timeDay": 928,
     "timeWeek": 485,
