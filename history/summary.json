@@ -412,11 +412,11 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "98.28%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "98.66%",
     "time": 4399,
     "timeDay": 4445,
@@ -424,7 +424,7 @@
     "timeMonth": 7062,
     "timeYear": 4457,
     "dailyMinutesDown": {
-      "2024-04-05": 25,
+      "2024-04-05": 27,
       "2024-04-04": 35,
       "2024-03-31": 25,
       "2024-03-26": 102,
@@ -455,7 +455,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 801
+      "2023-05-20": 768
     }
   },
   {
@@ -464,18 +464,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "98.57%",
+    "uptime": "99.33%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "98.55%",
     "time": 1249,
-    "timeDay": 5902,
+    "timeDay": 6686,
     "timeWeek": 4040,
     "timeMonth": 3442,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2024-04-05": 21,
+      "2024-04-05": 17,
       "2024-04-01": 21,
       "2024-03-26": 102,
       "2024-03-25": 81,
@@ -497,7 +497,8 @@
       "2023-05-22": 1317,
       "2023-05-21": 1348,
       "2023-05-20": 1267,
-      "2023-05-19": 516
+      "2023-05-19": 516,
+      "2023-05-17": 94
     }
   },
   {
@@ -593,7 +594,7 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erastats",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
