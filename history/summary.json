@@ -414,17 +414,17 @@
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "98.66%",
     "time": 4410,
-    "timeDay": 4836,
+    "timeDay": 5011,
     "timeWeek": 5413,
     "timeMonth": 6947,
     "timeYear": 4454,
     "dailyMinutesDown": {
-      "2024-04-05": 30,
+      "2024-04-05": 25,
       "2024-04-04": 35,
       "2024-03-31": 25,
       "2024-03-26": 102,
@@ -455,7 +455,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 768
+      "2023-05-20": 801
     }
   },
   {
