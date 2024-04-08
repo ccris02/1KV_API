@@ -414,10 +414,10 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "89.55%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "98.40%",
+    "uptime": "99.37%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "98.41%",
     "uptimeYear": "98.64%",
     "time": 4358,
     "timeDay": 3480,
@@ -425,7 +425,7 @@
     "timeMonth": 6250,
     "timeYear": 4403,
     "dailyMinutesDown": {
-      "2024-04-07": 151,
+      "2024-04-07": 146,
       "2024-04-05": 25,
       "2024-04-04": 35,
       "2024-03-31": 25,
@@ -457,7 +457,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 751
+      "2023-05-20": 768
     }
   },
   {
