@@ -413,19 +413,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "96.60%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "98.64%",
-    "time": 4339,
+    "time": 4341,
     "timeDay": 3431,
     "timeWeek": 3510,
-    "timeMonth": 5763,
+    "timeMonth": 5777,
     "timeYear": 4388,
     "dailyMinutesDown": {
-      "2024-04-12": 38,
+      "2024-04-12": 40,
       "2024-04-11": 156,
       "2024-04-07": 146,
       "2024-04-05": 25,
@@ -459,7 +459,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 554
+      "2023-05-20": 537
     }
   },
   {
@@ -468,18 +468,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "98.57%",
+    "uptime": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.55%",
     "time": 1333,
     "timeDay": 3031,
     "timeWeek": 2945,
     "timeMonth": 3107,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2024-04-12": 5,
       "2024-04-05": 17,
       "2024-04-01": 21,
       "2024-03-26": 102,
@@ -502,7 +501,8 @@
       "2023-05-22": 1317,
       "2023-05-21": 1348,
       "2023-05-20": 1267,
-      "2023-05-19": 516
+      "2023-05-19": 516,
+      "2023-05-17": 94
     }
   },
   {
@@ -563,7 +563,7 @@
     "time": 1706,
     "timeDay": 982,
     "timeWeek": 1553,
-    "timeMonth": 1570,
+    "timeMonth": 1553,
     "timeYear": 1596,
     "dailyMinutesDown": {
       "2024-03-31": 21,
