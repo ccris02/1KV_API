@@ -415,17 +415,16 @@
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "96.58%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "98.64%",
     "time": 4296,
-    "timeDay": 4909,
-    "timeWeek": 3881,
+    "timeDay": 3963,
+    "timeWeek": 3906,
     "timeMonth": 5644,
     "timeYear": 4387,
     "dailyMinutesDown": {
-      "2024-04-13": 4,
       "2024-04-12": 38,
       "2024-04-11": 156,
       "2024-04-07": 146,
@@ -460,7 +459,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1316,
       "2023-05-21": 1339,
-      "2023-05-20": 537
+      "2023-05-20": 554
     }
   },
   {
@@ -468,18 +467,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "98.55%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "98.57%",
     "time": 1367,
     "timeDay": 8367,
-    "timeWeek": 3260,
-    "timeMonth": 3276,
+    "timeWeek": 3357,
+    "timeMonth": 3298,
     "timeYear": 1363,
     "dailyMinutesDown": {
+      "2024-04-13": 2,
       "2024-04-05": 17,
       "2024-04-01": 21,
       "2024-03-26": 102,
@@ -502,8 +502,7 @@
       "2023-05-22": 1317,
       "2023-05-21": 1348,
       "2023-05-20": 1267,
-      "2023-05-19": 516,
-      "2023-05-17": 94
+      "2023-05-19": 516
     }
   },
   {
@@ -606,7 +605,7 @@
     "uptimeMonth": "99.06%",
     "uptimeYear": "98.49%",
     "time": 969,
-    "timeDay": 1122,
+    "timeDay": 785,
     "timeWeek": 480,
     "timeMonth": 526,
     "timeYear": 730,
