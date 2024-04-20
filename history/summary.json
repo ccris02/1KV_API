@@ -13,7 +13,7 @@
     "time": 1635,
     "timeDay": 942,
     "timeWeek": 1617,
-    "timeMonth": 1264,
+    "timeMonth": 1273,
     "timeYear": 1671,
     "dailyMinutesDown": {
       "2024-04-20": 23,
@@ -78,7 +78,7 @@
     "time": 771,
     "timeDay": 442,
     "timeWeek": 860,
-    "timeMonth": 595,
+    "timeMonth": 601,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2024-04-20": 23,
@@ -149,7 +149,7 @@
     "time": 622,
     "timeDay": 2884,
     "timeWeek": 1414,
-    "timeMonth": 868,
+    "timeMonth": 877,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2024-04-20": 23,
@@ -222,7 +222,7 @@
     "time": 1191,
     "timeDay": 2277,
     "timeWeek": 1782,
-    "timeMonth": 1736,
+    "timeMonth": 1752,
     "timeYear": 1184,
     "dailyMinutesDown": {
       "2024-04-20": 23,
@@ -292,7 +292,7 @@
     "time": 505,
     "timeDay": 2717,
     "timeWeek": 895,
-    "timeMonth": 906,
+    "timeMonth": 915,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-04-20": 23,
@@ -363,7 +363,7 @@
     "time": 419,
     "timeDay": 120,
     "timeWeek": 158,
-    "timeMonth": 251,
+    "timeMonth": 253,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2024-04-20": 23,
@@ -433,8 +433,8 @@
     "uptimeYear": "98.72%",
     "time": 4315,
     "timeDay": 7148,
-    "timeWeek": 4449,
-    "timeMonth": 4724,
+    "timeWeek": 4476,
+    "timeMonth": 4734,
     "timeYear": 4404,
     "dailyMinutesDown": {
       "2024-04-20": 39,
@@ -575,10 +575,10 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "98.55%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "98.53%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "98.51%",
     "time": 1707,
@@ -587,7 +587,7 @@
     "timeMonth": 1307,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2024-04-20": 23,
+      "2024-04-20": 25,
       "2024-04-19": 46,
       "2024-04-17": 24,
       "2024-04-14": 53,
