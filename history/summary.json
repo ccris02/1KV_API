@@ -437,18 +437,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "98.97%",
+    "uptime": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.93%",
     "time": 4326,
-    "timeDay": 10623,
+    "timeDay": 10159,
     "timeWeek": 3774,
     "timeMonth": 4381,
     "timeYear": 4384,
     "dailyMinutesDown": {
-      "2024-04-28": 5,
       "2024-04-26": 120,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -491,7 +490,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 1044
+      "2023-05-22": 1227
     }
   },
   {
@@ -499,18 +498,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.08%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "98.67%",
-    "time": 1511,
+    "time": 1512,
     "timeDay": 2985,
     "timeWeek": 1959,
     "timeMonth": 2564,
     "timeYear": 1533,
     "dailyMinutesDown": {
+      "2024-04-28": 2,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -542,7 +542,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 904
+      "2023-05-20": 884
     }
   },
   {
