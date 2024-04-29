@@ -81,7 +81,7 @@
     "timeDay": 165,
     "timeWeek": 1760,
     "timeMonth": 1082,
-    "timeYear": 796,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2024-04-26": 23,
       "2024-04-24": 257,
@@ -551,18 +551,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "98.35%",
+    "uptime": "99.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "98.32%",
     "time": 910,
     "timeDay": 200,
     "timeWeek": 530,
     "timeMonth": 458,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2024-04-29": 6,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -594,7 +593,7 @@
       "2023-05-23": 842,
       "2023-05-22": 1317,
       "2023-05-21": 1366,
-      "2023-05-20": 1086
+      "2023-05-20": 1220
     }
   },
   {
@@ -602,18 +601,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.57%",
-    "time": 1653,
-    "timeDay": 1073,
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.59%",
+    "time": 1640,
+    "timeDay": 1085,
     "timeWeek": 1551,
     "timeMonth": 1469,
     "timeYear": 1572,
     "dailyMinutesDown": {
+      "2024-04-29": 2,
       "2024-04-28": 16,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -647,7 +647,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1220
+      "2023-05-20": 1086
     }
   },
   {
