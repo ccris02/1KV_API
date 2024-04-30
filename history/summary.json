@@ -224,7 +224,7 @@
     "uptimeWeek": "97.22%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "98.61%",
-    "time": 1227,
+    "time": 1215,
     "timeDay": 557,
     "timeWeek": 1964,
     "timeMonth": 1912,
@@ -499,11 +499,11 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "98.67%",
     "time": 1573,
     "timeDay": 4066,
@@ -511,6 +511,7 @@
     "timeMonth": 2795,
     "timeYear": 1605,
     "dailyMinutesDown": {
+      "2024-04-30": 2,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -542,7 +543,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 904
+      "2023-05-20": 884
     }
   },
   {
@@ -557,7 +558,7 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.32%",
     "time": 891,
-    "timeDay": 284,
+    "timeDay": 294,
     "timeWeek": 526,
     "timeMonth": 460,
     "timeYear": 767,
@@ -602,18 +603,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.59%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.57%",
     "time": 1615,
     "timeDay": 755,
     "timeWeek": 1303,
     "timeMonth": 1449,
     "timeYear": 1567,
     "dailyMinutesDown": {
-      "2024-04-30": 7,
       "2024-04-28": 16,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -647,7 +647,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1086
+      "2023-05-20": 1220
     }
   },
   {
