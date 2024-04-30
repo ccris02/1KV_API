@@ -444,7 +444,7 @@
     "uptimeYear": "98.98%",
     "time": 4570,
     "timeDay": 10077,
-    "timeWeek": 6676,
+    "timeWeek": 6707,
     "timeMonth": 5080,
     "timeYear": 4645,
     "dailyMinutesDown": {
@@ -501,17 +501,16 @@
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "98.67%",
     "time": 1587,
     "timeDay": 5554,
-    "timeWeek": 3157,
+    "timeWeek": 3080,
     "timeMonth": 2828,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2024-04-30": 6,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -543,7 +542,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 884
+      "2023-05-20": 904
     }
   },
   {
@@ -551,18 +550,19 @@
     "url": "https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "98.32%",
-    "time": 891,
+    "uptimeYear": "98.35%",
+    "time": 892,
     "timeDay": 373,
-    "timeWeek": 513,
+    "timeWeek": 520,
     "timeMonth": 459,
     "timeYear": 767,
     "dailyMinutesDown": {
+      "2024-04-30": 2,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -594,7 +594,7 @@
       "2023-05-23": 842,
       "2023-05-22": 1317,
       "2023-05-21": 1366,
-      "2023-05-20": 1220
+      "2023-05-20": 1086
     }
   },
   {
@@ -610,7 +610,7 @@
     "uptimeYear": "98.57%",
     "time": 1576,
     "timeDay": 1213,
-    "timeWeek": 1352,
+    "timeWeek": 1363,
     "timeMonth": 1459,
     "timeYear": 1569,
     "dailyMinutesDown": {
@@ -663,7 +663,7 @@
     "uptimeYear": "98.40%",
     "time": 804,
     "timeDay": 133,
-    "timeWeek": 342,
+    "timeWeek": 345,
     "timeMonth": 405,
     "timeYear": 646,
     "dailyMinutesDown": {
