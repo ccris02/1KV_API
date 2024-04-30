@@ -437,18 +437,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "99.02%",
+    "uptime": "99.54%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "98.98%",
     "time": 4519,
     "timeDay": 10823,
-    "timeWeek": 6083,
+    "timeWeek": 6112,
     "timeMonth": 4962,
     "timeYear": 4601,
     "dailyMinutesDown": {
-      "2024-04-30": 5,
       "2024-04-29": 41,
       "2024-04-26": 120,
       "2024-04-25": 23,
@@ -492,7 +491,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 755
+      "2023-05-22": 961
     }
   },
   {
@@ -508,7 +507,7 @@
     "uptimeYear": "98.67%",
     "time": 1587,
     "timeDay": 5541,
-    "timeWeek": 2934,
+    "timeWeek": 2958,
     "timeMonth": 2845,
     "timeYear": 1619,
     "dailyMinutesDown": {
@@ -559,7 +558,7 @@
     "uptimeYear": "98.32%",
     "time": 891,
     "timeDay": 294,
-    "timeWeek": 532,
+    "timeWeek": 536,
     "timeMonth": 460,
     "timeYear": 767,
     "dailyMinutesDown": {
@@ -602,18 +601,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.57%",
-    "time": 1615,
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.59%",
+    "time": 1616,
     "timeDay": 757,
-    "timeWeek": 1305,
+    "timeWeek": 1310,
     "timeMonth": 1449,
     "timeYear": 1567,
     "dailyMinutesDown": {
+      "2024-04-30": 2,
       "2024-04-28": 16,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -647,7 +647,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1220
+      "2023-05-20": 1086
     }
   },
   {
@@ -663,7 +663,7 @@
     "uptimeYear": "98.40%",
     "time": 804,
     "timeDay": 140,
-    "timeWeek": 325,
+    "timeWeek": 317,
     "timeMonth": 405,
     "timeYear": 646,
     "dailyMinutesDown": {
