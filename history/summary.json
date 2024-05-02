@@ -12,9 +12,9 @@
     "uptimeYear": "98.77%",
     "time": 1685,
     "timeDay": 1282,
-    "timeWeek": 2976,
+    "timeWeek": 2599,
     "timeMonth": 1983,
-    "timeYear": 1713,
+    "timeYear": 1714,
     "dailyMinutesDown": {
       "2024-04-26": 23,
       "2024-04-24": 273,
@@ -79,9 +79,9 @@
     "uptimeYear": "98.77%",
     "time": 795,
     "timeDay": 992,
-    "timeWeek": 2575,
+    "timeWeek": 2216,
     "timeMonth": 1108,
-    "timeYear": 800,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2024-04-26": 23,
       "2024-04-24": 257,
@@ -150,7 +150,7 @@
     "uptimeYear": "98.45%",
     "time": 620,
     "timeDay": 338,
-    "timeWeek": 2145,
+    "timeWeek": 1755,
     "timeMonth": 1389,
     "timeYear": 638,
     "dailyMinutesDown": {
@@ -226,7 +226,7 @@
     "uptimeYear": "98.61%",
     "time": 1214,
     "timeDay": 823,
-    "timeWeek": 2013,
+    "timeWeek": 2028,
     "timeMonth": 1873,
     "timeYear": 1213,
     "dailyMinutesDown": {
@@ -294,9 +294,9 @@
     "uptimeYear": "98.69%",
     "time": 514,
     "timeDay": 168,
-    "timeWeek": 775,
+    "timeWeek": 821,
     "timeMonth": 901,
-    "timeYear": 491,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2024-04-26": 23,
       "2024-04-24": 257,
@@ -369,7 +369,7 @@
     "uptimeYear": "98.68%",
     "time": 398,
     "timeDay": 188,
-    "timeWeek": 470,
+    "timeWeek": 496,
     "timeMonth": 238,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -437,18 +437,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "99.02%",
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.98%",
     "time": 4677,
     "timeDay": 11511,
-    "timeWeek": 8831,
-    "timeMonth": 5167,
+    "timeWeek": 8882,
+    "timeMonth": 5133,
     "timeYear": 4734,
     "dailyMinutesDown": {
-      "2024-05-02": 5,
       "2024-04-29": 41,
       "2024-04-26": 120,
       "2024-04-25": 23,
@@ -492,7 +491,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 755
+      "2023-05-22": 961
     }
   },
   {
@@ -508,8 +507,8 @@
     "uptimeYear": "98.67%",
     "time": 1612,
     "timeDay": 5196,
-    "timeWeek": 4309,
-    "timeMonth": 2838,
+    "timeWeek": 4376,
+    "timeMonth": 2847,
     "timeYear": 1651,
     "dailyMinutesDown": {
       "2024-04-26": 69,
@@ -551,18 +550,19 @@
     "url": "https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "98.32%",
-    "time": 884,
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "98.35%",
+    "time": 859,
     "timeDay": 113,
-    "timeWeek": 158,
+    "timeWeek": 159,
     "timeMonth": 455,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2024-05-02": 3,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -594,7 +594,7 @@
       "2023-05-23": 842,
       "2023-05-22": 1317,
       "2023-05-21": 1366,
-      "2023-05-20": 1220
+      "2023-05-20": 1086
     }
   },
   {
@@ -610,7 +610,7 @@
     "uptimeYear": "98.57%",
     "time": 1576,
     "timeDay": 817,
-    "timeWeek": 1735,
+    "timeWeek": 1476,
     "timeMonth": 1455,
     "timeYear": 1565,
     "dailyMinutesDown": {
@@ -663,7 +663,7 @@
     "uptimeYear": "98.40%",
     "time": 792,
     "timeDay": 126,
-    "timeWeek": 294,
+    "timeWeek": 299,
     "timeMonth": 397,
     "timeYear": 644,
     "dailyMinutesDown": {
@@ -714,7 +714,7 @@
     "uptimeYear": "98.42%",
     "time": 541,
     "timeDay": 130,
-    "timeWeek": 141,
+    "timeWeek": 143,
     "timeMonth": 166,
     "timeYear": 507,
     "dailyMinutesDown": {
