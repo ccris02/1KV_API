@@ -437,18 +437,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "99.01%",
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.98%",
     "time": 4620,
     "timeDay": 10666,
-    "timeWeek": 8972,
+    "timeWeek": 9021,
     "timeMonth": 5171,
     "timeYear": 4741,
     "dailyMinutesDown": {
-      "2024-05-02": 7,
       "2024-04-29": 41,
       "2024-04-26": 120,
       "2024-04-25": 23,
@@ -492,7 +491,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 755
+      "2023-05-22": 961
     }
   },
   {
@@ -500,18 +499,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "98.67%",
-    "time": 1612,
+    "time": 1614,
     "timeDay": 5196,
-    "timeWeek": 4515,
+    "timeWeek": 4663,
     "timeMonth": 2847,
     "timeYear": 1651,
     "dailyMinutesDown": {
+      "2024-05-02": 2,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -543,7 +543,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 904
+      "2023-05-20": 884
     }
   },
   {
@@ -559,7 +559,7 @@
     "uptimeYear": "98.32%",
     "time": 859,
     "timeDay": 125,
-    "timeWeek": 160,
+    "timeWeek": 162,
     "timeMonth": 454,
     "timeYear": 763,
     "dailyMinutesDown": {
@@ -610,7 +610,7 @@
     "uptimeYear": "98.57%",
     "time": 1579,
     "timeDay": 1229,
-    "timeWeek": 1518,
+    "timeWeek": 1528,
     "timeMonth": 1463,
     "timeYear": 1568,
     "dailyMinutesDown": {
@@ -663,7 +663,7 @@
     "uptimeYear": "98.40%",
     "time": 792,
     "timeDay": 126,
-    "timeWeek": 313,
+    "timeWeek": 320,
     "timeMonth": 397,
     "timeYear": 644,
     "dailyMinutesDown": {
