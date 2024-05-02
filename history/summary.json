@@ -14,7 +14,7 @@
     "timeDay": 1055,
     "timeWeek": 2900,
     "timeMonth": 1983,
-    "timeYear": 1712,
+    "timeYear": 1713,
     "dailyMinutesDown": {
       "2024-04-26": 23,
       "2024-04-24": 273,
@@ -81,7 +81,7 @@
     "timeDay": 706,
     "timeWeek": 2497,
     "timeMonth": 1108,
-    "timeYear": 799,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2024-04-26": 23,
       "2024-04-24": 257,
@@ -152,7 +152,7 @@
     "timeDay": 248,
     "timeWeek": 2020,
     "timeMonth": 1389,
-    "timeYear": 637,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2024-04-26": 23,
       "2024-04-24": 257,
@@ -219,18 +219,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.62%",
+    "uptime": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.61%",
     "time": 1214,
     "timeDay": 717,
     "timeWeek": 1903,
     "timeMonth": 1873,
-    "timeYear": 1212,
+    "timeYear": 1213,
     "dailyMinutesDown": {
-      "2024-05-02": 6,
       "2024-04-26": 23,
       "2024-04-24": 257,
       "2024-04-23": 167,
@@ -279,7 +278,7 @@
       "2023-12-24": 29,
       "2023-12-22": 836,
       "2023-12-21": 435,
-      "2023-12-20": 54
+      "2023-12-20": 130
     }
   },
   {
@@ -602,18 +601,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.15%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.59%",
     "time": 1576,
     "timeDay": 1027,
     "timeWeek": 1634,
     "timeMonth": 1455,
     "timeYear": 1566,
     "dailyMinutesDown": {
+      "2024-05-02": 1,
       "2024-04-28": 16,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -647,7 +647,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1220
+      "2023-05-20": 1086
     }
   },
   {
