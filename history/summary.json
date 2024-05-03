@@ -437,18 +437,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "99.02%",
+    "uptime": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.98%",
     "time": 4712,
-    "timeDay": 8187,
-    "timeWeek": 10466,
-    "timeMonth": 5354,
+    "timeDay": 7255,
+    "timeWeek": 10484,
+    "timeMonth": 5362,
     "timeYear": 4796,
     "dailyMinutesDown": {
-      "2024-05-03": 6,
       "2024-04-29": 41,
       "2024-04-26": 120,
       "2024-04-25": 23,
@@ -492,7 +491,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 755
+      "2023-05-22": 961
     }
   },
   {
@@ -559,7 +558,7 @@
     "uptimeYear": "98.32%",
     "time": 843,
     "timeDay": 113,
-    "timeWeek": 179,
+    "timeWeek": 181,
     "timeMonth": 444,
     "timeYear": 760,
     "dailyMinutesDown": {
@@ -602,18 +601,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.59%",
     "time": 1686,
-    "timeDay": 1159,
+    "timeDay": 1016,
     "timeWeek": 1122,
     "timeMonth": 1437,
     "timeYear": 1562,
     "dailyMinutesDown": {
+      "2024-05-03": 2,
       "2024-04-28": 16,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -647,7 +647,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1220
+      "2023-05-20": 1086
     }
   },
   {
