@@ -436,18 +436,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "98.98%",
-    "time": 4687,
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "99.02%",
+    "time": 4682,
     "timeDay": 9667,
-    "timeWeek": 10273,
+    "timeWeek": 10333,
     "timeMonth": 5268,
     "timeYear": 4787,
     "dailyMinutesDown": {
+      "2024-05-03": 1,
       "2024-04-29": 41,
       "2024-04-26": 120,
       "2024-04-25": 23,
@@ -491,7 +492,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 961
+      "2023-05-22": 755
     }
   },
   {
@@ -557,7 +558,7 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.32%",
     "time": 859,
-    "timeDay": 132,
+    "timeDay": 117,
     "timeWeek": 184,
     "timeMonth": 452,
     "timeYear": 762,
@@ -602,18 +603,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.59%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.57%",
     "time": 1683,
     "timeDay": 1399,
     "timeWeek": 1141,
-    "timeMonth": 1452,
+    "timeMonth": 1445,
     "timeYear": 1565,
     "dailyMinutesDown": {
-      "2024-05-03": 4,
       "2024-04-28": 16,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -647,7 +647,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1086
+      "2023-05-20": 1220
     }
   },
   {
@@ -663,7 +663,7 @@
     "uptimeYear": "98.40%",
     "time": 792,
     "timeDay": 136,
-    "timeWeek": 204,
+    "timeWeek": 208,
     "timeMonth": 392,
     "timeYear": 644,
     "dailyMinutesDown": {
