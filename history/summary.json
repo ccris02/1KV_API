@@ -5,18 +5,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.78%",
+    "uptime": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.77%",
     "time": 1685,
     "timeDay": 1434,
     "timeWeek": 1796,
     "timeMonth": 1945,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2024-05-04": 9,
       "2024-04-26": 23,
       "2024-04-24": 273,
       "2024-04-23": 167,
@@ -64,7 +63,7 @@
       "2023-12-26": 21,
       "2023-12-24": 29,
       "2023-12-22": 303,
-      "2023-12-21": 125
+      "2023-12-21": 155
     }
   },
   {
@@ -74,9 +73,9 @@
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "98.77%",
     "time": 798,
     "timeDay": 1627,
@@ -84,7 +83,6 @@
     "timeMonth": 1126,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-05-04": 9,
       "2024-04-26": 23,
       "2024-04-24": 257,
       "2024-04-23": 166,
@@ -135,7 +133,8 @@
       "2023-12-20": 120,
       "2023-12-13": 32,
       "2023-12-12": 292,
-      "2023-12-01": 23
+      "2023-12-01": 23,
+      "2023-11-22": 22
     }
   },
   {
@@ -144,18 +143,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-score-address",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.46%",
+    "uptime": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.45%",
     "time": 621,
     "timeDay": 860,
     "timeWeek": 1046,
     "timeMonth": 1358,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2024-05-04": 9,
       "2024-04-26": 23,
       "2024-04-24": 257,
       "2024-04-23": 166,
@@ -212,7 +210,7 @@
       "2023-11-16": 23,
       "2023-10-14": 18,
       "2023-06-14": 29,
-      "2023-05-30": 156
+      "2023-05-30": 216
     }
   },
   {
@@ -221,18 +219,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm.png",
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.62%",
+    "uptime": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.61%",
     "time": 1217,
     "timeDay": 521,
     "timeWeek": 1098,
     "timeMonth": 1889,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2024-05-04": 9,
       "2024-04-26": 23,
       "2024-04-24": 257,
       "2024-04-23": 167,
@@ -281,7 +278,7 @@
       "2023-12-24": 29,
       "2023-12-22": 836,
       "2023-12-21": 435,
-      "2023-12-20": 54
+      "2023-12-20": 130
     }
   },
   {
@@ -291,9 +288,9 @@
     "slug": "kusama-w3f-community-erastats",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "98.69%",
     "time": 507,
     "timeDay": 132,
@@ -301,7 +298,6 @@
     "timeMonth": 881,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2024-05-04": 9,
       "2024-04-26": 23,
       "2024-04-24": 257,
       "2024-04-23": 167,
@@ -356,7 +352,8 @@
       "2023-11-22": 22,
       "2023-11-16": 23,
       "2023-10-14": 17,
-      "2023-06-14": 29
+      "2023-06-14": 29,
+      "2023-05-30": 31
     }
   },
   {
@@ -366,9 +363,9 @@
     "slug": "kusama-w3f-community-locationstats",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "98.68%",
     "time": 396,
     "timeDay": 145,
@@ -376,7 +373,6 @@
     "timeMonth": 229,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2024-05-04": 9,
       "2024-04-26": 23,
       "2024-04-24": 257,
       "2024-04-23": 167,
@@ -432,7 +428,7 @@
       "2023-11-16": 23,
       "2023-10-14": 17,
       "2023-06-14": 29,
-      "2023-05-30": 86
+      "2023-05-30": 122
     }
   },
   {
@@ -447,7 +443,7 @@
     "uptimeMonth": "98.04%",
     "uptimeYear": "98.98%",
     "time": 4718,
-    "timeDay": 8357,
+    "timeDay": 7703,
     "timeWeek": 10676,
     "timeMonth": 5378,
     "timeYear": 4810,
@@ -511,7 +507,7 @@
     "uptimeYear": "98.67%",
     "time": 1622,
     "timeDay": 4856,
-    "timeWeek": 5183,
+    "timeWeek": 5294,
     "timeMonth": 2948,
     "timeYear": 1680,
     "dailyMinutesDown": {
@@ -605,18 +601,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "98.57%",
-    "time": 1657,
+    "uptimeYear": "98.59%",
+    "time": 1658,
     "timeDay": 989,
     "timeWeek": 1112,
     "timeMonth": 1428,
     "timeYear": 1560,
     "dailyMinutesDown": {
+      "2024-05-04": 1,
       "2024-04-28": 16,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -650,7 +647,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1220
+      "2023-05-20": 1086
     }
   },
   {
