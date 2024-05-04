@@ -4,18 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.69%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 1695,
-    "timeDay": 1084,
-    "timeWeek": 1817,
-    "timeMonth": 1947,
-    "timeYear": 1724,
+    "timeDay": 838,
+    "timeWeek": 1762,
+    "timeMonth": 1936,
+    "timeYear": 1723,
     "dailyMinutesDown": {
+      "2024-05-04": 0,
       "2024-04-26": 23,
       "2024-04-24": 273,
       "2024-04-23": 167,
@@ -63,7 +64,7 @@
       "2023-12-26": 21,
       "2023-12-24": 29,
       "2023-12-22": 303,
-      "2023-12-21": 155
+      "2023-12-21": 125
     }
   },
   {
@@ -443,9 +444,9 @@
     "uptimeMonth": "98.08%",
     "uptimeYear": "98.98%",
     "time": 4728,
-    "timeDay": 11471,
-    "timeWeek": 10490,
-    "timeMonth": 5422,
+    "timeDay": 10976,
+    "timeWeek": 10602,
+    "timeMonth": 5429,
     "timeYear": 4816,
     "dailyMinutesDown": {
       "2024-04-29": 41,
@@ -602,18 +603,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.59%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.57%",
     "time": 1634,
     "timeDay": 1116,
     "timeWeek": 1119,
     "timeMonth": 1419,
     "timeYear": 1558,
     "dailyMinutesDown": {
-      "2024-05-04": 6,
       "2024-04-28": 16,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -647,7 +647,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1086
+      "2023-05-20": 1220
     }
   },
   {
