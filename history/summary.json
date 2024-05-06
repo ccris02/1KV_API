@@ -437,18 +437,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.57%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "99.04%",
     "time": 4822,
-    "timeDay": 13912,
-    "timeWeek": 10675,
-    "timeMonth": 5901,
+    "timeDay": 14574,
+    "timeWeek": 10932,
+    "timeMonth": 5929,
     "timeYear": 4952,
     "dailyMinutesDown": {
-      "2024-05-06": 40,
+      "2024-05-06": 35,
       "2024-05-05": 17,
       "2024-04-29": 41,
       "2024-04-26": 120,
@@ -493,7 +493,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 488
+      "2023-05-22": 586
     }
   },
   {
@@ -501,19 +501,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "87.81%",
-    "uptimeWeek": "98.26%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "98.76%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.65%",
     "time": 1662,
-    "timeDay": 8645,
-    "timeWeek": 4889,
-    "timeMonth": 2900,
+    "timeDay": 11429,
+    "timeWeek": 5159,
+    "timeMonth": 2910,
     "timeYear": 1713,
     "dailyMinutesDown": {
-      "2024-05-06": 176,
+      "2024-05-06": 178,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -545,7 +545,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 884
+      "2023-05-20": 808
     }
   },
   {
@@ -560,8 +560,8 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.32%",
     "time": 823,
-    "timeDay": 308,
-    "timeWeek": 194,
+    "timeDay": 128,
+    "timeWeek": 198,
     "timeMonth": 440,
     "timeYear": 758,
     "dailyMinutesDown": {
@@ -611,8 +611,8 @@
     "uptimeMonth": "98.89%",
     "uptimeYear": "98.57%",
     "time": 1621,
-    "timeDay": 781,
-    "timeWeek": 1092,
+    "timeDay": 823,
+    "timeWeek": 1088,
     "timeMonth": 1411,
     "timeYear": 1554,
     "dailyMinutesDown": {
@@ -665,7 +665,7 @@
     "uptimeYear": "98.39%",
     "time": 791,
     "timeDay": 134,
-    "timeWeek": 166,
+    "timeWeek": 168,
     "timeMonth": 382,
     "timeYear": 640,
     "dailyMinutesDown": {
@@ -717,7 +717,7 @@
     "uptimeYear": "98.42%",
     "time": 525,
     "timeDay": 372,
-    "timeWeek": 160,
+    "timeWeek": 161,
     "timeMonth": 159,
     "timeYear": 506,
     "dailyMinutesDown": {
