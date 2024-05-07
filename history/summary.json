@@ -444,8 +444,8 @@
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.04%",
     "time": 4949,
-    "timeDay": 12260,
-    "timeWeek": 11320,
+    "timeDay": 12854,
+    "timeWeek": 11319,
     "timeMonth": 6333,
     "timeYear": 5058,
     "dailyMinutesDown": {
@@ -502,18 +502,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "98.76%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.65%",
     "time": 1715,
     "timeDay": 8723,
     "timeWeek": 5815,
     "timeMonth": 3128,
     "timeYear": 1774,
     "dailyMinutesDown": {
+      "2024-05-07": 2,
       "2024-05-06": 176,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -546,7 +547,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 884
+      "2023-05-20": 808
     }
   },
   {
@@ -555,18 +556,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
     "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "98.35%",
+    "uptime": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "98.32%",
     "time": 821,
     "timeDay": 174,
     "timeWeek": 165,
     "timeMonth": 437,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2024-05-07": 6,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -598,7 +598,7 @@
       "2023-05-23": 842,
       "2023-05-22": 1317,
       "2023-05-21": 1366,
-      "2023-05-20": 1086
+      "2023-05-20": 1220
     }
   },
   {
