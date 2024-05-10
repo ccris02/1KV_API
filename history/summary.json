@@ -228,7 +228,7 @@
     "time": 1229,
     "timeDay": 818,
     "timeWeek": 2125,
-    "timeMonth": 1958,
+    "timeMonth": 1964,
     "timeYear": 1228,
     "dailyMinutesDown": {
       "2024-04-26": 23,
@@ -437,18 +437,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "98.24%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 5062,
     "timeDay": 11360,
     "timeWeek": 11549,
-    "timeMonth": 6701,
+    "timeMonth": 6710,
     "timeYear": 5209,
     "dailyMinutesDown": {
+      "2024-05-10": 2,
       "2024-05-09": 25,
       "2024-05-08": 23,
       "2024-05-06": 35,
@@ -496,7 +497,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 365
+      "2023-05-22": 317
     }
   },
   {
@@ -512,7 +513,7 @@
     "uptimeYear": "98.64%",
     "time": 1756,
     "timeDay": 1505,
-    "timeWeek": 5891,
+    "timeWeek": 5888,
     "timeMonth": 3217,
     "timeYear": 1820,
     "dailyMinutesDown": {
@@ -609,17 +610,16 @@
     "slug": "polkadot-w3f-community-candidates",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.59%",
     "time": 1561,
     "timeDay": 1134,
     "timeWeek": 1233,
     "timeMonth": 1411,
     "timeYear": 1557,
     "dailyMinutesDown": {
-      "2024-05-10": 7,
       "2024-05-09": 22,
       "2024-04-28": 16,
       "2024-04-26": 69,
@@ -654,7 +654,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1053
+      "2023-05-20": 1086
     }
   },
   {
