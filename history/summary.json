@@ -438,18 +438,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.19%",
+    "uptime": "99.59%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.20%",
     "uptimeYear": "99.08%",
     "time": 5102,
-    "timeDay": 11334,
+    "timeDay": 11370,
     "timeWeek": 11870,
     "timeMonth": 6791,
     "timeYear": 5233,
     "dailyMinutesDown": {
-      "2024-05-10": 20,
+      "2024-05-10": 15,
       "2024-05-09": 25,
       "2024-05-08": 23,
       "2024-05-06": 35,
@@ -497,7 +497,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 281
+      "2023-05-22": 317
     }
   },
   {
@@ -505,18 +505,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "98.76%",
-    "uptimeYear": "98.64%",
+    "uptimeYear": "98.65%",
     "time": 1773,
     "timeDay": 6627,
     "timeWeek": 6847,
     "timeMonth": 3327,
     "timeYear": 1847,
     "dailyMinutesDown": {
+      "2024-05-10": 2,
       "2024-05-06": 176,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -549,7 +550,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 884
+      "2023-05-20": 808
     }
   },
   {
@@ -616,8 +617,8 @@
     "uptimeYear": "98.59%",
     "time": 1563,
     "timeDay": 1772,
-    "timeWeek": 1278,
-    "timeMonth": 1415,
+    "timeWeek": 1292,
+    "timeMonth": 1408,
     "timeYear": 1558,
     "dailyMinutesDown": {
       "2024-05-09": 22,
