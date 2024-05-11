@@ -437,18 +437,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.08%",
-    "time": 5207,
-    "timeDay": 10846,
+    "time": 5210,
+    "timeDay": 10330,
     "timeWeek": 11896,
     "timeMonth": 7124,
     "timeYear": 5320,
     "dailyMinutesDown": {
+      "2024-05-11": 1,
       "2024-05-10": 15,
       "2024-05-09": 25,
       "2024-05-08": 23,
@@ -497,7 +498,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 317
+      "2023-05-22": 281
     }
   },
   {
@@ -558,18 +559,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
     "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "98.35%",
+    "uptime": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "98.32%",
     "time": 792,
     "timeDay": 133,
     "timeWeek": 169,
     "timeMonth": 424,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2024-05-11": 6,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -601,7 +601,7 @@
       "2023-05-23": 842,
       "2023-05-22": 1317,
       "2023-05-21": 1366,
-      "2023-05-20": 1086
+      "2023-05-20": 1220
     }
   },
   {
@@ -616,7 +616,7 @@
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.59%",
     "time": 1640,
-    "timeDay": 1055,
+    "timeDay": 903,
     "timeWeek": 1316,
     "timeMonth": 1401,
     "timeYear": 1555,
