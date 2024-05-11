@@ -438,10 +438,10 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.55%",
+    "uptime": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.08%",
     "time": 5207,
     "timeDay": 10846,
@@ -449,7 +449,6 @@
     "timeMonth": 7124,
     "timeYear": 5320,
     "dailyMinutesDown": {
-      "2024-05-11": 6,
       "2024-05-10": 15,
       "2024-05-09": 25,
       "2024-05-08": 23,
@@ -498,7 +497,7 @@
       "2023-12-21": 286,
       "2023-12-20": 146,
       "2023-05-23": 836,
-      "2023-05-22": 281
+      "2023-05-22": 317
     }
   },
   {
@@ -513,7 +512,7 @@
     "uptimeMonth": "98.76%",
     "uptimeYear": "98.64%",
     "time": 1856,
-    "timeDay": 8663,
+    "timeDay": 9613,
     "timeWeek": 7713,
     "timeMonth": 3561,
     "timeYear": 1926,
@@ -558,18 +557,19 @@
     "url": "https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "98.32%",
+    "uptimeYear": "98.35%",
     "time": 792,
     "timeDay": 131,
     "timeWeek": 170,
     "timeMonth": 425,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2024-05-11": 2,
       "2024-04-26": 69,
       "2024-04-25": 23,
       "2024-04-24": 24,
@@ -601,7 +601,7 @@
       "2023-05-23": 842,
       "2023-05-22": 1317,
       "2023-05-21": 1366,
-      "2023-05-20": 1220
+      "2023-05-20": 1086
     }
   },
   {
