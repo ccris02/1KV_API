@@ -4,18 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "98.65%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 1715,
     "timeDay": 2649,
     "timeWeek": 2297,
     "timeMonth": 2093,
-    "timeYear": 1751,
+    "timeYear": 1752,
     "dailyMinutesDown": {
+      "2024-05-12": 0,
       "2024-05-07": 18,
       "2024-04-26": 23,
       "2024-04-24": 273,
@@ -64,7 +65,7 @@
       "2023-12-26": 21,
       "2023-12-24": 29,
       "2023-12-22": 303,
-      "2023-12-21": 125
+      "2023-12-21": 77
     }
   },
   {
@@ -438,18 +439,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "80.88%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.57%",
+    "uptimeDay": "81.25%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "99.03%",
     "time": 5250,
-    "timeDay": 11637,
+    "timeDay": 12777,
     "timeWeek": 12189,
-    "timeMonth": 7293,
+    "timeMonth": 7316,
     "timeYear": 5354,
     "dailyMinutesDown": {
-      "2024-05-12": 218,
+      "2024-05-12": 213,
       "2024-05-11": 57,
       "2024-05-10": 15,
       "2024-05-09": 25,
@@ -498,7 +499,8 @@
       "2023-12-22": 43,
       "2023-12-21": 286,
       "2023-12-20": 146,
-      "2023-05-23": 596
+      "2023-05-23": 836,
+      "2023-05-22": 281
     }
   },
   {
@@ -566,7 +568,7 @@
     "uptimeYear": "98.32%",
     "time": 775,
     "timeDay": 116,
-    "timeWeek": 141,
+    "timeWeek": 142,
     "timeMonth": 426,
     "timeYear": 746,
     "dailyMinutesDown": {
