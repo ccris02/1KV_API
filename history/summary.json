@@ -5,18 +5,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.78%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.77%",
     "time": 1726,
     "timeDay": 3672,
     "timeWeek": 2839,
     "timeMonth": 2205,
     "timeYear": 1762,
     "dailyMinutesDown": {
-      "2024-05-13": 5,
       "2024-05-07": 18,
       "2024-04-26": 23,
       "2024-04-24": 273,
@@ -65,7 +64,7 @@
       "2023-12-26": 21,
       "2023-12-24": 29,
       "2023-12-22": 303,
-      "2023-12-21": 77
+      "2023-12-21": 125
     }
   },
   {
@@ -516,7 +515,7 @@
     "uptimeYear": "98.65%",
     "time": 1890,
     "timeDay": 7640,
-    "timeWeek": 7297,
+    "timeWeek": 7434,
     "timeMonth": 3622,
     "timeYear": 1975,
     "dailyMinutesDown": {
@@ -612,18 +611,19 @@
     "url": "https://polkadot.w3f.community/candidates",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidates",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "98.59%",
-    "time": 1604,
+    "uptimeYear": "98.62%",
+    "time": 1605,
     "timeDay": 868,
     "timeWeek": 1270,
     "timeMonth": 1384,
     "timeYear": 1546,
     "dailyMinutesDown": {
+      "2024-05-13": 2,
       "2024-05-10": 25,
       "2024-05-09": 22,
       "2024-04-28": 16,
@@ -659,7 +659,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 1053
+      "2023-05-20": 920
     }
   },
   {
