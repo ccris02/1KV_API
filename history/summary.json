@@ -4,18 +4,19 @@
     "url": "https://kusama.w3f.community/candidate/Dq97kmsJXGTciU1eMXZMAp4D41Y9e7kQ4hmFBfZW7YD4CCf",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/ksm2.png",
     "slug": "kusama-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "98.65%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 1726,
     "timeDay": 3979,
     "timeWeek": 2885,
     "timeMonth": 2211,
     "timeYear": 1762,
     "dailyMinutesDown": {
+      "2024-05-13": 1,
       "2024-05-07": 18,
       "2024-04-26": 23,
       "2024-04-24": 273,
@@ -64,7 +65,7 @@
       "2023-12-26": 21,
       "2023-12-24": 29,
       "2023-12-22": 303,
-      "2023-12-21": 125
+      "2023-12-21": 77
     }
   },
   {
@@ -438,18 +439,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "99.03%",
     "time": 5226,
-    "timeDay": 7322,
+    "timeDay": 7233,
     "timeWeek": 11044,
     "timeMonth": 7340,
     "timeYear": 5378,
     "dailyMinutesDown": {
-      "2024-05-13": 7,
       "2024-05-12": 213,
       "2024-05-11": 57,
       "2024-05-10": 15,
@@ -499,7 +499,8 @@
       "2023-12-22": 43,
       "2023-12-21": 286,
       "2023-12-20": 146,
-      "2023-05-23": 596
+      "2023-05-23": 836,
+      "2023-05-22": 281
     }
   },
   {
@@ -515,7 +516,7 @@
     "uptimeYear": "98.65%",
     "time": 1890,
     "timeDay": 7640,
-    "timeWeek": 7188,
+    "timeWeek": 7297,
     "timeMonth": 3622,
     "timeYear": 1975,
     "dailyMinutesDown": {
