@@ -13,7 +13,7 @@
     "time": 1736,
     "timeDay": 20853,
     "timeWeek": 3656,
-    "timeMonth": 2275,
+    "timeMonth": 2134,
     "timeYear": 1774,
     "dailyMinutesDown": {
       "2024-05-07": 18,
@@ -81,7 +81,7 @@
     "time": 815,
     "timeDay": 529,
     "timeWeek": 2482,
-    "timeMonth": 1428,
+    "timeMonth": 1318,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2024-04-26": 23,
@@ -152,7 +152,7 @@
     "time": 622,
     "timeDay": 112,
     "timeWeek": 446,
-    "timeMonth": 1319,
+    "timeMonth": 1326,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2024-04-26": 23,
@@ -221,17 +221,16 @@
     "slug": "kusama-w3f-community-candidates",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.61%",
     "time": 1230,
     "timeDay": 1165,
     "timeWeek": 1517,
-    "timeMonth": 1923,
+    "timeMonth": 1924,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2024-05-14": 7,
       "2024-04-26": 23,
       "2024-04-24": 257,
       "2024-04-23": 167,
@@ -280,7 +279,7 @@
       "2023-12-24": 29,
       "2023-12-22": 836,
       "2023-12-21": 435,
-      "2023-12-20": 54
+      "2023-12-20": 130
     }
   },
   {
@@ -297,7 +296,7 @@
     "time": 491,
     "timeDay": 312,
     "timeWeek": 189,
-    "timeMonth": 654,
+    "timeMonth": 656,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2024-04-26": 23,
@@ -447,7 +446,7 @@
     "time": 5306,
     "timeDay": 20132,
     "timeWeek": 11071,
-    "timeMonth": 7537,
+    "timeMonth": 7548,
     "timeYear": 5447,
     "dailyMinutesDown": {
       "2024-05-12": 213,
@@ -517,7 +516,7 @@
     "time": 1908,
     "timeDay": 4479,
     "timeWeek": 6954,
-    "timeMonth": 3720,
+    "timeMonth": 3732,
     "timeYear": 2002,
     "dailyMinutesDown": {
       "2024-05-13": 23,
@@ -570,7 +569,7 @@
     "time": 789,
     "timeDay": 98,
     "timeWeek": 912,
-    "timeMonth": 487,
+    "timeMonth": 488,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2024-04-26": 69,
@@ -621,7 +620,7 @@
     "time": 1535,
     "timeDay": 761,
     "timeWeek": 1161,
-    "timeMonth": 1371,
+    "timeMonth": 1369,
     "timeYear": 1540,
     "dailyMinutesDown": {
       "2024-05-14": 16,
@@ -677,7 +676,7 @@
     "time": 749,
     "timeDay": 117,
     "timeWeek": 1663,
-    "timeMonth": 462,
+    "timeMonth": 463,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2024-05-08": 16,
@@ -730,7 +729,7 @@
     "time": 629,
     "timeDay": 113,
     "timeWeek": 209,
-    "timeMonth": 153,
+    "timeMonth": 148,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2024-04-26": 69,
@@ -780,7 +779,7 @@
     "time": 165,
     "timeDay": 122,
     "timeWeek": 210,
-    "timeMonth": 176,
+    "timeMonth": 177,
     "timeYear": 169,
     "dailyMinutesDown": {}
   }
