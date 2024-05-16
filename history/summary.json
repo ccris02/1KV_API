@@ -83,7 +83,7 @@
     "timeDay": 641,
     "timeWeek": 2078,
     "timeMonth": 1293,
-    "timeYear": 829,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2024-05-16": 23,
       "2024-04-26": 23,
@@ -441,19 +441,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "97.97%",
-    "uptimeYear": "99.16%",
-    "time": 5446,
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "99.21%",
+    "time": 5448,
     "timeDay": 12894,
     "timeWeek": 11364,
-    "timeMonth": 7851,
+    "timeMonth": 7875,
     "timeYear": 5556,
     "dailyMinutesDown": {
-      "2024-05-16": 38,
+      "2024-05-16": 40,
       "2024-05-15": 35,
       "2024-05-12": 213,
       "2024-05-11": 57,
@@ -504,7 +504,7 @@
       "2023-12-22": 43,
       "2023-12-21": 286,
       "2023-12-20": 146,
-      "2023-05-23": 384
+      "2023-05-23": 119
     }
   },
   {
@@ -620,17 +620,16 @@
     "slug": "polkadot-w3f-community-candidates",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.61%",
     "time": 1539,
-    "timeDay": 1414,
-    "timeWeek": 1104,
+    "timeDay": 1535,
+    "timeWeek": 1109,
     "timeMonth": 1373,
     "timeYear": 1541,
     "dailyMinutesDown": {
-      "2024-05-16": 6,
       "2024-05-15": 15,
       "2024-05-14": 16,
       "2024-05-10": 25,
@@ -668,7 +667,7 @@
       "2023-05-23": 852,
       "2023-05-22": 1365,
       "2023-05-21": 1367,
-      "2023-05-20": 884
+      "2023-05-20": 904
     }
   },
   {
