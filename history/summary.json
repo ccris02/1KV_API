@@ -442,18 +442,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "96.16%",
-    "uptimeMonth": "97.98%",
+    "uptime": "99.65%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "99.21%",
     "time": 5479,
     "timeDay": 8799,
-    "timeWeek": 10456,
-    "timeMonth": 8116,
+    "timeWeek": 10387,
+    "timeMonth": 8122,
     "timeYear": 5622,
     "dailyMinutesDown": {
-      "2024-05-17": 44,
+      "2024-05-17": 33,
       "2024-05-16": 38,
       "2024-05-15": 35,
       "2024-05-12": 213,
@@ -505,7 +505,7 @@
       "2023-12-22": 43,
       "2023-12-21": 286,
       "2023-12-20": 146,
-      "2023-05-23": 58
+      "2023-05-23": 79
     }
   },
   {
@@ -522,7 +522,7 @@
     "time": 1972,
     "timeDay": 3627,
     "timeWeek": 5703,
-    "timeMonth": 3750,
+    "timeMonth": 3736,
     "timeYear": 2046,
     "dailyMinutesDown": {
       "2024-05-16": 39,
@@ -567,18 +567,19 @@
     "url": "https://polkadot.w3f.community/score/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-score-address",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "98.34%",
+    "uptimeYear": "98.35%",
     "time": 787,
     "timeDay": 105,
     "timeWeek": 776,
-    "timeMonth": 479,
+    "timeMonth": 481,
     "timeYear": 757,
     "dailyMinutesDown": {
+      "2024-05-17": 2,
       "2024-05-16": 23,
       "2024-04-26": 69,
       "2024-04-25": 23,
@@ -611,7 +612,7 @@
       "2023-05-23": 842,
       "2023-05-22": 1317,
       "2023-05-21": 1366,
-      "2023-05-20": 1086
+      "2023-05-20": 1053
     }
   },
   {
@@ -628,7 +629,7 @@
     "time": 1541,
     "timeDay": 1010,
     "timeWeek": 1067,
-    "timeMonth": 1375,
+    "timeMonth": 1378,
     "timeYear": 1540,
     "dailyMinutesDown": {
       "2024-05-15": 15,
