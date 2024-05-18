@@ -12,9 +12,9 @@
     "uptimeYear": "98.78%",
     "time": 1737,
     "timeDay": 564,
-    "timeWeek": 2343,
+    "timeWeek": 2215,
     "timeMonth": 2058,
-    "timeYear": 1783,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2024-05-16": 23,
       "2024-05-07": 18,
@@ -83,7 +83,7 @@
     "timeDay": 161,
     "timeWeek": 957,
     "timeMonth": 1311,
-    "timeYear": 832,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2024-05-16": 23,
       "2024-04-26": 23,
@@ -154,7 +154,7 @@
     "timeDay": 150,
     "timeWeek": 312,
     "timeMonth": 1258,
-    "timeYear": 645,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2024-05-16": 23,
       "2024-04-26": 23,
@@ -375,7 +375,7 @@
     "timeDay": 142,
     "timeWeek": 281,
     "timeMonth": 236,
-    "timeYear": 379,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2024-05-16": 23,
       "2024-04-26": 23,
@@ -442,18 +442,18 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.65%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "99.21%",
     "time": 5538,
     "timeDay": 8180,
     "timeWeek": 9660,
-    "timeMonth": 8199,
+    "timeMonth": 8210,
     "timeYear": 5643,
     "dailyMinutesDown": {
-      "2024-05-18": 63,
+      "2024-05-18": 57,
       "2024-05-17": 69,
       "2024-05-16": 38,
       "2024-05-15": 35,
@@ -505,7 +505,7 @@
       "2024-01-11": 531,
       "2023-12-22": 43,
       "2023-12-21": 286,
-      "2023-12-20": 71
+      "2023-12-20": 146
     }
   },
   {
@@ -513,18 +513,19 @@
     "url": "https://polkadot.w3f.community/erapoints/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.66%",
-    "time": 1955,
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.69%",
+    "time": 1957,
     "timeDay": 3279,
     "timeWeek": 5386,
     "timeMonth": 3790,
     "timeYear": 2067,
     "dailyMinutesDown": {
+      "2024-05-18": 2,
       "2024-05-17": 22,
       "2024-05-16": 39,
       "2024-05-13": 23,
@@ -560,7 +561,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 702
+      "2023-05-20": 554
     }
   },
   {
