@@ -441,19 +441,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "92.35%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.23%",
     "time": 5489,
     "timeDay": 8186,
     "timeWeek": 9682,
     "timeMonth": 8308,
     "timeYear": 5664,
     "dailyMinutesDown": {
-      "2024-05-18": 73,
+      "2024-05-18": 75,
       "2024-05-17": 69,
       "2024-05-16": 38,
       "2024-05-15": 35,
@@ -505,7 +505,7 @@
       "2024-01-11": 531,
       "2023-12-22": 43,
       "2023-12-21": 286,
-      "2023-12-20": 71
+      "2023-12-20": 21
     }
   },
   {
@@ -514,18 +514,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-erapoints-address",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.68%",
+    "uptime": "99.41%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.66%",
     "time": 1964,
     "timeDay": 3242,
     "timeWeek": 4716,
     "timeMonth": 3807,
     "timeYear": 2067,
     "dailyMinutesDown": {
-      "2024-05-18": 4,
       "2024-05-17": 22,
       "2024-05-16": 39,
       "2024-05-13": 23,
@@ -561,7 +560,7 @@
       "2023-05-23": 836,
       "2023-05-22": 1317,
       "2023-05-21": 1348,
-      "2023-05-20": 554
+      "2023-05-20": 702
     }
   },
   {
@@ -629,7 +628,7 @@
     "uptimeYear": "98.61%",
     "time": 1538,
     "timeDay": 860,
-    "timeWeek": 972,
+    "timeWeek": 978,
     "timeMonth": 1345,
     "timeYear": 1536,
     "dailyMinutesDown": {
