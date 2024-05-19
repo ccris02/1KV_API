@@ -14,7 +14,7 @@
     "timeDay": 745,
     "timeWeek": 2155,
     "timeMonth": 2124,
-    "timeYear": 1795,
+    "timeYear": 1796,
     "dailyMinutesDown": {
       "2024-05-16": 23,
       "2024-05-07": 18,
@@ -441,18 +441,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "97.65%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "97.66%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "99.22%",
-    "time": 5518,
-    "timeDay": 8630,
-    "timeWeek": 9135,
+    "uptimeYear": "99.23%",
+    "time": 5521,
+    "timeDay": 7904,
+    "timeWeek": 9122,
     "timeMonth": 8287,
     "timeYear": 5677,
     "dailyMinutesDown": {
+      "2024-05-19": 3,
       "2024-05-18": 89,
       "2024-05-17": 69,
       "2024-05-16": 38,
@@ -505,7 +506,7 @@
       "2024-01-11": 531,
       "2023-12-22": 43,
       "2023-12-21": 286,
-      "2023-12-20": 21
+      "2023-12-20": 2
     }
   },
   {
