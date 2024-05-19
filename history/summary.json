@@ -441,19 +441,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "96.11%",
-    "uptimeWeek": "97.13%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "97.12%",
     "uptimeMonth": "97.67%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.26%",
     "time": 5591,
     "timeDay": 6513,
     "timeWeek": 8799,
     "timeMonth": 8287,
-    "timeYear": 5724,
+    "timeYear": 5727,
     "dailyMinutesDown": {
-      "2024-05-19": 57,
+      "2024-05-19": 59,
       "2024-05-18": 89,
       "2024-05-17": 69,
       "2024-05-16": 38,
@@ -505,7 +505,7 @@
       "2024-01-12": 582,
       "2024-01-11": 531,
       "2023-12-22": 43,
-      "2023-12-21": 189
+      "2023-12-21": 40
     }
   },
   {
@@ -523,7 +523,7 @@
     "timeDay": 6356,
     "timeWeek": 5436,
     "timeMonth": 3998,
-    "timeYear": 2171,
+    "timeYear": 2173,
     "dailyMinutesDown": {
       "2024-05-19": 19,
       "2024-05-17": 22,
@@ -578,7 +578,7 @@
     "timeDay": 4274,
     "timeWeek": 1831,
     "timeMonth": 597,
-    "timeYear": 790,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2024-05-16": 23,
       "2024-04-26": 69,
@@ -629,7 +629,7 @@
     "timeDay": 722,
     "timeWeek": 985,
     "timeMonth": 1345,
-    "timeYear": 1543,
+    "timeYear": 1545,
     "dailyMinutesDown": {
       "2024-05-19": 17,
       "2024-05-15": 15,
@@ -686,7 +686,7 @@
     "timeDay": 3789,
     "timeWeek": 2504,
     "timeMonth": 522,
-    "timeYear": 681,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2024-05-08": 16,
       "2024-05-05": 23,
@@ -736,7 +736,7 @@
     "timeDay": 230,
     "timeWeek": 212,
     "timeMonth": 149,
-    "timeYear": 506,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2024-04-26": 69,
       "2024-04-25": 68,
