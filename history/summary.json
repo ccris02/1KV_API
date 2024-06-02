@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "98.81%",
     "time": 1969,
     "timeDay": 4252,
@@ -16,7 +16,6 @@
     "timeMonth": 2672,
     "timeYear": 2070,
     "dailyMinutesDown": {
-      "2024-06-02": 5,
       "2024-05-24": 20,
       "2024-05-23": 17,
       "2024-05-21": 107,
@@ -69,7 +68,7 @@
       "2023-12-28": 22,
       "2023-12-26": 21,
       "2023-12-24": 29,
-      "2023-12-22": 24
+      "2023-12-22": 67
     }
   },
   {
@@ -445,18 +444,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "99.28%",
-    "time": 5772,
-    "timeDay": 6551,
+    "uptimeYear": "99.29%",
+    "time": 5774,
+    "timeDay": 6851,
     "timeWeek": 9097,
-    "timeMonth": 9264,
+    "timeMonth": 9244,
     "timeYear": 6146,
     "dailyMinutesDown": {
+      "2024-06-02": 1,
       "2024-05-28": 20,
       "2024-05-23": 47,
       "2024-05-21": 96,
@@ -511,7 +511,7 @@
       "2024-01-18": 96,
       "2024-01-13": 20,
       "2024-01-12": 582,
-      "2024-01-11": 284
+      "2024-01-11": 257
     }
   },
   {
@@ -583,7 +583,7 @@
     "time": 827,
     "timeDay": 139,
     "timeWeek": 268,
-    "timeMonth": 889,
+    "timeMonth": 896,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2024-05-21": 53,
@@ -629,7 +629,7 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.45%",
     "time": 1459,
-    "timeDay": 829,
+    "timeDay": 858,
     "timeWeek": 794,
     "timeMonth": 1025,
     "timeYear": 1547,
