@@ -6,9 +6,9 @@
     "slug": "kusama-w3f-community-candidate-address",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "98.81%",
     "time": 1967,
     "timeDay": 516,
@@ -16,7 +16,6 @@
     "timeMonth": 2491,
     "timeYear": 2066,
     "dailyMinutesDown": {
-      "2024-06-13": 9,
       "2024-06-10": 26,
       "2024-05-24": 20,
       "2024-05-23": 17,
@@ -69,7 +68,8 @@
       "2023-12-29": 42,
       "2023-12-28": 22,
       "2023-12-26": 21,
-      "2023-12-24": 29
+      "2023-12-24": 29,
+      "2023-12-22": 24
     }
   },
   {
@@ -79,9 +79,9 @@
     "slug": "kusama-w3f-community-erapoints-address",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "98.83%",
     "time": 1002,
     "timeDay": 320,
@@ -89,7 +89,6 @@
     "timeMonth": 1171,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2024-06-13": 9,
       "2024-06-10": 26,
       "2024-05-24": 21,
       "2024-05-23": 17,
@@ -142,7 +141,7 @@
       "2023-12-26": 21,
       "2023-12-24": 29,
       "2023-12-22": 129,
-      "2023-12-21": 110
+      "2023-12-21": 128
     }
   },
   {
@@ -450,19 +449,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "99.32%",
-    "time": 5997,
-    "timeDay": 10683,
-    "timeWeek": 11408,
-    "timeMonth": 9065,
-    "timeYear": 6497,
+    "time": 6007,
+    "timeDay": 11490,
+    "timeWeek": 11529,
+    "timeMonth": 9109,
+    "timeYear": 6507,
     "dailyMinutesDown": {
-      "2024-06-13": 1,
+      "2024-06-13": 6,
       "2024-06-11": 27,
       "2024-06-10": 51,
       "2024-06-07": 41,
