@@ -236,7 +236,7 @@
     "time": 1364,
     "timeDay": 471,
     "timeWeek": 2926,
-    "timeMonth": 2079,
+    "timeMonth": 2085,
     "timeYear": 1454,
     "dailyMinutesDown": {
       "2024-06-10": 26,
@@ -450,18 +450,17 @@
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.29%",
     "time": 6079,
-    "timeDay": 6499,
-    "timeWeek": 11309,
+    "timeDay": 6020,
+    "timeWeek": 11251,
     "timeMonth": 8926,
     "timeYear": 6523,
     "dailyMinutesDown": {
-      "2024-06-14": 7,
       "2024-06-11": 27,
       "2024-06-10": 51,
       "2024-06-07": 41,
@@ -518,7 +517,8 @@
       "2024-01-20": 23,
       "2024-01-18": 96,
       "2024-01-13": 20,
-      "2024-01-12": 556
+      "2024-01-12": 582,
+      "2024-01-11": 99
     }
   },
   {
