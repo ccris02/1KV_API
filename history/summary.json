@@ -456,18 +456,19 @@
     "url": "https://polkadot.w3f.community/candidate/149riLdwAVzXg7Cm88RcXhbuFi3zUgwrGsJSSPjC47PRxHQW",
     "icon": "https://raw.githubusercontent.com/ccris02/1KV_API/master/assets/dot.png",
     "slug": "polkadot-w3f-community-candidate-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.35%",
-    "time": 6568,
-    "timeDay": 11862,
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.36%",
+    "time": 6571,
+    "timeDay": 12994,
     "timeWeek": 11124,
     "timeMonth": 10639,
     "timeYear": 6842,
     "dailyMinutesDown": {
+      "2024-06-27": 1,
       "2024-06-26": 57,
       "2024-06-21": 64,
       "2024-06-17": 26,
@@ -529,7 +530,7 @@
       "2024-01-20": 23,
       "2024-01-18": 96,
       "2024-01-13": 20,
-      "2024-01-12": 186
+      "2024-01-12": 142
     }
   },
   {
